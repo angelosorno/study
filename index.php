@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Linea del Timepo Biblica</title>
-	<base href='/'>
+	<!-- <base href='/'> -->
 	<meta charset="utf-8">
 	<meta name="description" content="">
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
