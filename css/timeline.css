@@ -625,7 +625,7 @@ input,select{vertical-align:middle}
 
 	div.landing-paper {
 		/* background: url('http://timeline.biblehistory.com/css/img/paper-bg.jpg'); */
-		background-color: antiquewhite;
+		background-color: #fff;
 		width: 10000px;
 		height: 100%;
 		margin-left: -400px;
