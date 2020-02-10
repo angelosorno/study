@@ -3,11 +3,7 @@
 <html>
 <head>
 	<title>Linea del Tiempo • Historia Bíblica</title>
-<<<<<<< HEAD
 	<base href='/t/a/study/'>
-=======
-	<!-- <base href='/t/study/'> -->
->>>>>>> 8d50c7af1aa79ad2f0548f8eadfb8a9a5acf5618
 	<meta charset="utf-8">
 	<meta name="description" content="">
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
@@ -483,10 +479,10 @@
 		<div class="zoom">
 			<h4>Zoom</h4>
 			<ul class="nav">
-				<li class="home">Home</li>
+				<li class="home">Inicio</li>
 				<li class="zoom-out">-</li>
 				<li class="zoom-in">+</li>
-				<li class="full">Full Sc</li>
+				<li class="full">Pantalla Completa</li>
 			</ul>
 			<ul class="indicator">
 				<li>1</li>
@@ -514,19 +510,19 @@
 				<div class="landing-date-bar">
 					<div class="landing-date-bar-center"></div>
 					<ul>
-						<li><span>Creacion&ndash;</span><span>c.2500 BC</span></li>
-						<li><span>c.2500&ndash;</span><span>c.2166BC</span></li>
-						<li><span>c.2166&ndash;</span><span>c.1660BC</span></li>
-						<li><span>c.1660&ndash;</span><span>c.1445BC</span></li>
-						<li><span>c.1445&ndash;</span><span>c.1050BC</span></li>
-						<li><span>c.1050&ndash;</span><span>c.930BC</span></li>
-						<li><span>c.930&ndash;</span><span>c.586BC</span></li>
-						<li><span>c.585&ndash;</span><span>c.457BC</span></li>
-						<li><span>c.4BC&ndash;</span><span>c.34AD</span></li>
-						<li><span>c.34&ndash;</span><span>c.330AD</span></li>
-						<li><span>c.450&ndash;</span><span>c.1517AD</span></li>
-						<li><span>c.1517&ndash;</span><span>c.1840AD</span></li>
-						<li><span>Creation&ndash;</span><span>Present</span></li>
+						<li><span>Creación&ndash;</span><span>c.2500 AC</span></li>
+						<li><span>c.2500&ndash;</span><span>c.2166AC</span></li>
+						<li><span>c.2166&ndash;</span><span>c.1660AC</span></li>
+						<li><span>c.1660&ndash;</span><span>c.1445AC</span></li>
+						<li><span>c.1445&ndash;</span><span>c.1050AC</span></li>
+						<li><span>c.1050&ndash;</span><span>c.930AC</span></li>
+						<li><span>c.930&ndash;</span><span>c.586AC</span></li>
+						<li><span>c.585&ndash;</span><span>c.457AC</span></li>
+						<li><span>c.4BC&ndash;</span><span>c.34DC</span></li>
+						<li><span>c.34&ndash;</span><span>c.330DC</span></li>
+						<li><span>c.450&ndash;</span><span>c.1517DC</span></li>
+						<li><span>c.1517&ndash;</span><span>c.1840DC</span></li>
+						<li><span>Creación&ndash;</span><span>Presente</span></li>
 					</ul>
 				</div>
 
@@ -666,8 +662,8 @@
 		<!-- Landing Footer -->
 		<div class="landing-footer active">
 			<div class="welcome">
-				<h3>Beta 0.1</h3>
-				<p>Fase 1 de pruebas</p>
+				<h3>Fase Beta</h3>
+				<p>Copy text</p>
 			</div>
 			<div class="bar">
 				<div class="fact">Amazing Fact <span class="closed">^</span><span class="opened">v</span></div>
@@ -741,7 +737,7 @@
 
 				<!-- Event Details -->
 				<h1>Abraham</h1>
-				<h3>1951&ndash;1775 <span>BC</span></h3>
+				<h3>1951&ndash;1775 <span>AC</span></h3>
 				<a href="#" class="close">Close</a>
 				<a href="#" class="related">Related</a>
 
@@ -919,7 +915,7 @@
 		<!-- Footer -->
 		<div class="footer">
 			<div class="currently-viewing">
-				<h5>Currently Viewing</h5>
+				<h5>Actualmente viendo</h5>
 				<h3>
 					<span class="link age-name" data-age="3">Age of Christ</span> &raquo;
 					<span class="link period-name" data-period="5">United Kingdom</span>
@@ -930,7 +926,7 @@
 				<!-- <div class="year-bubble" id="year-bubble"></div> -->
 				<table class="years dark">
 					<tr>
-						<td class="swash">Creacion</td>
+						<td class="swash">Creación</td>
 						<td>3000 AC</td>
 						<td>2500 AC</td>
 						<td>2000 AC</td>
