@@ -518,7 +518,7 @@
 						<li><span>c.1050&ndash;</span><span>c.930AC</span></li>
 						<li><span>c.930&ndash;</span><span>c.586AC</span></li>
 						<li><span>c.585&ndash;</span><span>c.457AC</span></li>
-						<li><span>c.4BC&ndash;</span><span>c.34DC</span></li>
+						<li><span>c.4AC&ndash;</span><span>c.34DC</span></li>
 						<li><span>c.34&ndash;</span><span>c.330DC</span></li>
 						<li><span>c.450&ndash;</span><span>c.1517DC</span></li>
 						<li><span>c.1517&ndash;</span><span>c.1840DC</span></li>
@@ -577,7 +577,7 @@
 					<div class="landing-period landing-period-4 hover" data-id="4">
 						<div class="image"></div>
 						<div class="info">
-							<h3>Egypto<br /> a Canaan</h3>
+							<h3>Egipto<br /> a Canaan</h3>
 							<div class="dash-line"></div>
 							<h4>From Joseph being sold into slavery, his rise to power in Egypt, and to Moses and the Exodus.</h4>
 						</div>
@@ -633,7 +633,7 @@
 					<div class="landing-period landing-period-11 hover" data-id="11">
 						<div class="image"></div>
 						<div class="info">
-							<h3>Seguno<br /> Tunes</h3>
+							<h3>Seguno<br /> Tunel</h3>
 							<div class="dash-line"></div>
 							<h4>From the legalization of Christianity under Constantine to the persecution of the Dark Ages.</h4>
 						</div>
@@ -663,10 +663,10 @@
 		<div class="landing-footer active">
 			<div class="welcome">
 				<h3>Fase Beta</h3>
-				<p>Copy text</p>
+				<p>Todos los derechos reservados</p>
 			</div>
 			<div class="bar">
-				<div class="fact">Amazing Fact <span class="closed">^</span><span class="opened">v</span></div>
+				<div class="fact">¿Sabias que? <span class="closed">^</span><span class="opened">v</span></div>
 				<div class="toggle"><span class="plus">+</span><span class="minus">&ndash;</span></div>
 				<div class="copy">&nbsp;</div>
 			</div>
@@ -723,7 +723,7 @@
 				</script>
 
 				<ul class="pagination"></ul>
-				<a href="" class="detail-back">Back</a>
+				<a href="" class="detail-back">Volver</a>
 			</div>
 			<div class="content">
 
@@ -855,25 +855,25 @@
 				</div>
 				<div class="period-10">
 					<h3>The Age of</h3>
-					<h2>EARLY CHURCH</h2>
+					<h2>Iglesia Primitiva</h2>
 					<h4>c.34&ndash;c.330 <span>DC</span></h4>
 					<p>From the martyrdom of Stephen to the persecution and rise of the church through Paul and the apostles.</p>
 				</div>
 				<div class="period-11">
 					<h3>The Age of</h3>
-					<h2>MIDDLE AGES</h2>
+					<h2>Segundo Tunel</h2>
 					<h4>c.450&ndash;c.1517 <span>DC</span></h4>
 					<p>From the legalization of Christianity under Constantine to the persecution of the Dark Ages..</p>
 				</div>
 				<div class="period-12">
 					<h3>The Age of</h3>
-					<h2>REFORMATION</h2>
+					<h2>La Reforma</h2>
 					<h4>c.1517&ndash;c.1840 <span>DC</span></h4>
 					<p>From the great reformers, such as Luther and Wycliffe, to the expansion of the Protestant movement.</p>
 				</div>
 				<div class="period-13">
 					<h3>The Age of</h3>
-					<h2>APOCALIPSIS</h2>
+					<h2>Apocalipsis</h2>
 					<h4>Creation&ndash;Present</h4>
 					<p>From the rise of the antichrist, the mark of the beast, to the return of Christ and paradise restored.</p>
 				</div>
@@ -957,7 +957,7 @@
 				</div>
 			</div>
 			<div class="amazing-info">
-				<p>&copy; 2020</p>
+				<p>&copy; 2020 • IDMJI</p>
 			</div>
 		</div>
 	</div>
