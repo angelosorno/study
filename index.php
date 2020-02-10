@@ -577,7 +577,7 @@
 					<div class="landing-period landing-period-4 hover" data-id="4">
 						<div class="image"></div>
 						<div class="info">
-							<h3>Egipto<br /> a Canaan</h3>
+							<h3>Egipto<br /> a Canaán</h3>
 							<div class="dash-line"></div>
 							<h4>From Joseph being sold into slavery, his rise to power in Egypt, and to Moses and the Exodus.</h4>
 						</div>
