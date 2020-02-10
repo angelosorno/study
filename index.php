@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Linea del Tiempo • Historia Bíblica</title>
-	<base href='/t/a/study/'>
+	<!-- <base href='/t/a/study/'> -->
 	<meta charset="utf-8">
 	<meta name="description" content="">
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
