@@ -131,7 +131,7 @@ input,select{vertical-align:middle}
 		div.intro div.logo {
 			width: 229px;
 			height: 192px;
-			/* background: url('/css/img/intro_logo.png') no-repeat center center; */
+			/* background: url('https://upload.wikimedia.org/wikipedia/commons/5/54/Logo-IDMJI-ESPA%C3%91OL.jpg') no-repeat center center; */
 			-webkit-background-size: cover;
 			   -moz-background-size: cover;
 			     -o-background-size: cover;
