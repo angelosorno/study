@@ -2245,10 +2245,10 @@ display: block;
 	div.timeline div.footer {
 		position: absolute;
 		bottom: 0px; left: 0px;
-		background: #000;
+		background: #06163B;
 		height: 75px;
 		width: 100%;
-		color: #696FFB;
+		color: #3f3f3f;
 		z-index: 400;
 	}
 
@@ -2326,7 +2326,7 @@ display: block;
 			top: 37px;
 			color: #676767;
 		}
-		div.timeline div.period-bar table.years.dark { color: #676767; }
+		div.timeline div.period-bar table.years.dark { color: #ffcd6e; }
 		div.timeline div.period-bar table.years.light {
 			display: none;
 			color: #fff;
