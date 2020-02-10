@@ -26,7 +26,7 @@
 	<!-- ****************************************** -->
 	<!-- Menu -->
 	<!-- ****************************************** -->
-	<div class="menu open" hidden>
+	<div class="menu open">
 		<div class="background"></div>
 		<h2>Linea del Tiempo</h2>
 		<div class="menu-items-wrap">
@@ -937,7 +937,7 @@
 						<td>500 DC</td>
 						<td>1000 DC</td>
 						<td>1500 DC</td>
-						<td class="swash">Presenta</td>
+						<td class="swash">Presente</td>
 					</tr>
 				</table>
 				<div class="periods">
