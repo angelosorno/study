@@ -72,7 +72,7 @@ input,select{vertical-align:middle}
 		z-index: 800;
 	}
 	.mask .loading {
-		/* background: url('http://timeline.biblehistory.com/css/img/loading.png'); */
+	
 		width: 150px; height: 180px;
 		position: absolute;
 		top: 50%; left: 50%;
