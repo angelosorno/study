@@ -49,7 +49,7 @@
 			<!-- FAQ -->
 			<div class="dropdown faq">
 				<div class="arrow"></div>
-				<h4>Frequently Asked Questions</h4>
+				<h4>Preguntas Frecuentes</h4>
 				<div class="list">
 					<ul>
 						<li data-id="0">What is the Bible Prophecy Timeline?</li>
@@ -64,18 +64,18 @@
 			<!-- Settings -->
 			<div class="dropdown account">
 				<div class="arrow"></div>
-				<h4>Account Settings</h4>
+				<h4>Configurar mi cuenta</h4>
 				<div class="list">
 					<ul>
-													<li class="signin">Sign In</li>
-							<li class="signout" style="display:none;">Sign Out</li>
+													<li class="signin">Iniciar</li>
+							<li class="signout" style="display:none;">Cerrar</li>
 											</ul>
 				</div>
 			</div>
 			<!-- Favorites -->
 			<div class="dropdown favorites">
 				<div class="arrow"></div>
-				<h4>My Favorites</h4>
+				<h4>Mis Favoritos</h4>
 				<div class="list">
 					<ul></ul>
 				</div>
@@ -83,7 +83,7 @@
 			<!-- Search -->
 			<div class="dropdown search">
 				<div class="arrow"></div>
-				<h4>No Results</h4>
+				<h4>No hay resultados</h4>
 				<div class="list">
 					<ul></ul>
 					<script type="text/template" class="result-template">
@@ -98,7 +98,7 @@
 	<!-- ****************************************** -->
 	<!-- TOOLTIP			 									-->
 	<!-- ****************************************** -->
-	<div class="tooltip">You've Signed In</div>
+	<div class="tooltip">Has iniciado sesión</div>
 
 
 
@@ -109,25 +109,25 @@
 		<div class="modal-content account-content">
 			<div class="modal-inner">
 				<div class="heading">
-					<p>Account Settings</p>
-					<h3>Sign In</h3>
-					<a href="#" class="close">Close</a>
+					<p>Configurar mi cuenta</p>
+					<h3>Iniciar</h3>
+					<a href="#" class="close">Cerrar</a>
 				</div>
 				<form class="signin">
 					<input type="text" name="email" placeholder="Email" tabindex="1" required="required" />
 					<input type="password" name="password" placeholder="Password" tabindex="2" required="required" />
 					<input type="hidden" name="type" value="signin" />
 					<input type="submit" value="Sign In" />
-					<p><a href="http://www.biblehistory.com/accounts/recover_password.php" target="_blank">Forgot your password?</a></p>
-					<span class="email">Email is incorrect</span>
-					<span class="password">Password is incorrect</span>
+					<p><a href="http://www.biblehistory.com/accounts/recover_password.php" target="_blank">Olvide la clave</a></p>
+					<span class="email">Correo incorrecto</span>
+					<span class="password">Clave incorrecta</span>
 				</form>
 
-				<p><strong>Create a New BibleHistory.com Account</strong></p>
+				<p><strong>Crear una cuenta</strong></p>
 				<p>When you create an account on biblehistory.com, you’ll be able to tag your favorite person and event entries and go straight to them whenever you like from wherever you like. This is a great tool for Bible students and for Bible studies with friends and family.</p>
 				<p>How? Just click the “Add to Favorites” Button—it’s that simple. Then, from the homepage, click the flag in the main menu to see your favorites.</p>
 				<p>Sign up today! Oh, and we promise never to give or sell your name or email to others..</p>
-				<p><a href="http://www.biblehistory.com/accounts/create.php" target="_blank">Create your account now!</a></p>
+				<p><a href="http://www.biblehistory.com/accounts/create.php" target="_blank">Crear cuenta ahora</a></p>
 			</div>
 		</div>
 	</div>
@@ -141,9 +141,9 @@
 	<div class="modal faq-modal">
 		<div class="modal-content faq-content">
 			<div class="heading">
-				<p>Frequently Asked Questions</p>
-				<h3>The Birth of Christ</h3>
-				<a href="#" class="close">Close</a>
+				<p>Preguntas Frecuentes</p>
+				<h3>El nacimiento de Cristo</h3>
+				<a href="#" class="close">Cerrar</a>
 			</div>
 			<div class="faq-answer 0">
 				<p>With more than 850 interconnected entries, the Bible Prophecy Timeline is a comprehensive study tool that allows you to explore every character and major event of the Bible, from the creation of the world to last-day prophecies. Each entry in the Timeline contains a brief but insightful article with interesting facts about the person or event, plus artwork and full Scripture references and passages to help you find it in the Bible.</p>
