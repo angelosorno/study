@@ -131,7 +131,7 @@ input,select{vertical-align:middle}
 		div.intro div.logo {
 			width: 229px;
 			height: 192px;
-			background: url('http://timeline.biblehistory.com/css/http://timeline.biblehistory.com/css/img/intro_logo.png') no-repeat center center;
+			/* background: url('/css/img/intro_logo.png') no-repeat center center; */
 			-webkit-background-size: cover;
 			   -moz-background-size: cover;
 			     -o-background-size: cover;
@@ -187,7 +187,7 @@ input,select{vertical-align:middle}
 	}
 	div.menu.closed div.background { width: 304px; }
 	div.menu h2 {
-		background: url('http://timeline.biblehistory.com/css/http://timeline.biblehistory.com/css/img/logo.png') no-repeat center center;
+		/* background: url('http://timeline.biblehistory.com/css/http://timeline.biblehistory.com/css/img/logo.png') no-repeat center center; */
 		-webkit-background-size: cover;
 		   -moz-background-size: cover;
 		     -o-background-size: cover;
@@ -785,7 +785,7 @@ input,select{vertical-align:middle}
 			margin: -22px auto 0px auto;
 			text-indent: -9999px;
 			font-size: 0px;
-			background-image: url('http://timeline.biblehistory.com/css/img/landing_era_logos.png');
+			/* background-image: url('http://timeline.biblehistory.com/css/img/landing_era_logos.png'); */
 			-webkit-background-size: cover;
 			   -moz-background-size: cover;
 			     -o-background-size: cover;
@@ -1260,7 +1260,7 @@ input,select{vertical-align:middle}
 			div.landing-footer div.info div.af_logo {
 				width: 133px;
 				height: 59px;
-				background: url('http://timeline.biblehistory.com/css/img/landing_af_banner.png') no-repeat center center;
+				/* background: url('http://timeline.biblehistory.com/css/img/landing_af_banner.png') no-repeat center center; */
 				-webkit-background-size: cover;
 				   -moz-background-size: cover;
 				     -o-background-size: cover;

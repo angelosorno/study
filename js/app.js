@@ -91,7 +91,7 @@
 	function getEventDetail(slug, search){
 		closeMenuBoxes();
 
-		$.getJSON('php/event_detail.php', {slug:slug}, function(d){ 
+		$.getJSON('php/event_detail.php', {slug:slug}, function(d){
 			// Change period + colors
 			if(d.period != currentPeriod){
 				scroller.scrollTo(period_offsets[d.period-1][0], currentTop, false);
@@ -104,7 +104,7 @@
 			}
 
 			// Update SEO
-			setSEO(d.title + ' | The Biblical Timeline', d.description);
+			setSEO(d.title + ' | Linea del Tiempo Biblica', d.description);
 
 
 			// Update URL Route
@@ -522,7 +522,7 @@
 			randomFact();
 
 			// Update SEO
-			setSEO('The Biblical Timeline', 'From the creation of the world to the last-day events of Revelation, the timeline is a comprehensive guide to major Bible events, characters, and prophecies.');
+			setSEO('Linea del Tiempo Biblica', 'From the creation of the world to the last-day events of Revelation, the timeline is a comprehensive guide to major Bible events, characters, and prophecies.');
 
 			// Change URL
 			routerFlag = false;
