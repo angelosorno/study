@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Linea del Tiempo • Historia Bíblica</title>
-	<!-- <base href='/t/a/study/'> -->
+	<base href='https://testiar.com/t/a/time_da/'>
 	<meta charset="utf-8">
 	<meta name="description" content="">
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
@@ -699,7 +699,7 @@
 	<!-- Event Detail 								-->
 	<!-- ****************************************** -->
 
-	<div class="detail" id="modal_data">
+	<div class="detail" name="modal_data" id="modal_data">
 		<div class="container">
 			<div class="media">
 				<div class="slides"></div>
@@ -961,6 +961,10 @@
 			</div>
 		</div>
 	</div>
+
+// Para Agregar Eventos de Angel
+
+var json_data = <?php require '/events.php'; ?>
 
 
 
