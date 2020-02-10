@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Linea del Tiempo • Historia Bíblica</title>
-	<base href='/t/study/'>
+	<base href='/t/a/study/'>
 	<meta charset="utf-8">
 	<meta name="description" content="">
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
@@ -28,7 +28,7 @@
 	<!-- ****************************************** -->
 	<div class="menu open" hidden>
 		<div class="background"></div>
-		<h2>Bible Timeline</h2>
+		<h2>Linea del Tiempo</h2>
 		<div class="menu-items-wrap">
 			<ul class="menu-items">
 				<li class="home"></li>
@@ -553,7 +553,7 @@
 					<div class="landing-period landing-period-1 hover" data-id="1">
 						<div class="image"></div>
 						<div class="info">
-							<h3>First<br /> Generation</h3>
+							<h3>Primera<br /> Generación</h3>
 							<div class="dash-line"></div>
 							<h4>From the creation of Adam and Eve, to the murder of Abel by Cain, and human history before the flood.</h4>
 						</div>
@@ -561,7 +561,7 @@
 					<div class="landing-period landing-period-2 hover" data-id="2">
 						<div class="image"></div>
 						<div class="info">
-							<h3>Noah &<br /> The Flood</h3>
+							<h3>Noe y<br /> El Diluvio</h3>
 							<div class="dash-line"></div>
 							<h4>From the ministry of Noah and the global deluge, to Cush, Nimrod, and the tower of Babel.</h4>
 						</div>
@@ -662,8 +662,8 @@
 		<!-- Landing Footer -->
 		<div class="landing-footer active">
 			<div class="welcome">
-				<h3>Welcome</h3>
-				<p>From the creation of the world to the last-day events of Revelation, the timeline is a comprehensive guide to major Bible events, characters, and prophecies. Just click on one of the three “Ages” above to get started.</p>
+				<h3>Beta 0.1</h3>
+				<p>Fase 1 de pruebas</p>
 			</div>
 			<div class="bar">
 				<div class="fact">Amazing Fact <span class="closed">^</span><span class="opened">v</span></div>
@@ -801,79 +801,79 @@
 			<div class="sidebars" hidden="" id="sidebars">
 				<div class="period-1">
 					<h3>The Age of</h3>
-					<h2>FIRST GENERATION</h2>
-					<h4>Creation&ndash;c.2500 <span>BC</span></h4>
+					<h2>PRIMERA GENERACIÓN</h2>
+					<h4>Creation&ndash;c.2500 <span>AC</span></h4>
 					<p>From the creation of Adam and Eve, to the murder of Abel by Cain, and human history before the flood.</p>
 				</div>
 				<div class="period-2">
 					<h3>The Age of</h3>
-					<h2>NOAH AND THE FLOOD</h2>
-					<h4>c.2500&ndash;c.2166 <span>BC</span></h4>
+					<h2>NOE Y EL DILUVIO</h2>
+					<h4>c.2500&ndash;c.2166 <span>AC</span></h4>
 					<p>From the ministry of Noah and the global deluge, to Cush, Nimrod, and the tower of Babel.</p>
 				</div>
 				<div class="period-3">
 					<h3>The Age of</h3>
-					<h2>THE PATRIARCHS</h2>
-					<h4>c.2166&ndash;c.1660 <span>BC</span></h4>
+					<h2>LOS PATRIARCAS</h2>
+					<h4>c.2166&ndash;c.1660 <span>AC</span></h4>
 					<p>From the call of Abraham, to Sodom and Gomorrah, and the rise of the 12 Jewish tribes through Isaac and Jacob.</p>
 				</div>
 				<div class="period-4">
 					<h3>The Age of</h3>
-					<h2>EGYPT TO CANAAN</h2>
-					<h4>c.1660&ndash;c.1445 <span>BC</span></h4>
+					<h2>EGIPTO A CANAÁN</h2>
+					<h4>c.1660&ndash;c.1445 <span>AC</span></h4>
 					<p>From Joseph being sold into slavery, his rise to power in Egypt, and to Moses and the Exodus.</p>
 				</div>
 				<div class="period-5">
 					<h3>The Age of</h3>
-					<h2>THE JUDGES</h2>
-					<h4>c.1445&ndash;c.1050 <span>BC</span></h4>
+					<h2>LOS JUECES</h2>
+					<h4>c.1445&ndash;c.1050 <span>AC</span></h4>
 					<p>From Moses and the Ten Commandments to Joshua's entrance and Jewish expansion into the Promised Land.</p>
 				</div>
 				<div class="period-6">
 					<h3>The Age of</h3>
-					<h2>UNITED KINGDOM</h2>
-					<h4>c.1050&ndash;c.930 <span>BC</span></h4>
+					<h2>REINO UNIDO</h2>
+					<h4>c.1050&ndash;c.930 <span>AC</span></h4>
 					<p>From King Saul to the prophet Samuel and young King David and his royal dynasty through Solomon.</p>
 				</div>
 				<div class="period-7">
 					<h3>The Age of</h3>
-					<h2>DIVIDED KINGDOM</h2>
-					<h4>c.930&ndash;c.586 <span>BC</span></h4>
+					<h2>REINO DIVIDIDO</h2>
+					<h4>c.930&ndash;c.586 <span>AC</span></h4>
 					<p>From the internal strife that divided the nation of Israel to the prophets who warned of the coming exile.</p>
 				</div>
 				<div class="period-8">
 					<h3>The Age of</h3>
-					<h2>THE EXILE</h2>
-					<h4>c.585&ndash;c.457 <span>BC</span></h4>
+					<h2>EL EXILIO</h2>
+					<h4>c.585&ndash;c.457 <span>AC</span></h4>
 					<p>From Israel's fall to exile in Babylon and the major prophets declaring the coming Messiah.</p>
 				</div>
 				<div class="period-9">
 					<h3>The Age of</h3>
-					<h2>LIFE OF CHRIST</h2>
-					<h4>c.4 <span>BC</span>&ndash;c.34 <span>AD</span></h4>
+					<h2>VIDA SEÑOR JESUCRISTO</h2>
+					<h4>c.4 <span>AC</span>&ndash;c.34 <span>DC</span></h4>
 					<p>From the birth of the promised Messiah, Jesus the Christ, to His ministry and death and resurrection.</p>
 				</div>
 				<div class="period-10">
 					<h3>The Age of</h3>
 					<h2>EARLY CHURCH</h2>
-					<h4>c.34&ndash;c.330 <span>AD</span></h4>
+					<h4>c.34&ndash;c.330 <span>DC</span></h4>
 					<p>From the martyrdom of Stephen to the persecution and rise of the church through Paul and the apostles.</p>
 				</div>
 				<div class="period-11">
 					<h3>The Age of</h3>
 					<h2>MIDDLE AGES</h2>
-					<h4>c.450&ndash;c.1517 <span>AD</span></h4>
+					<h4>c.450&ndash;c.1517 <span>DC</span></h4>
 					<p>From the legalization of Christianity under Constantine to the persecution of the Dark Ages..</p>
 				</div>
 				<div class="period-12">
 					<h3>The Age of</h3>
 					<h2>REFORMATION</h2>
-					<h4>c.1517&ndash;c.1840 <span>AD</span></h4>
+					<h4>c.1517&ndash;c.1840 <span>DC</span></h4>
 					<p>From the great reformers, such as Luther and Wycliffe, to the expansion of the Protestant movement.</p>
 				</div>
 				<div class="period-13">
 					<h3>The Age of</h3>
-					<h2>REVELATION PROPHECIES</h2>
+					<h2>APOCALIPSIS</h2>
 					<h4>Creation&ndash;Present</h4>
 					<p>From the rise of the antichrist, the mark of the beast, to the return of Christ and paradise restored.</p>
 				</div>
@@ -1020,21 +1020,6 @@
 	<script src="js/router.js"></script>
 	<script src="js/scroller_init.js"></script>
 	<script src="js/landing_init.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </body>
 </html>
