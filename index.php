@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Linea del Tiempo • Historia Bíblica</title>
-	<base href='/study'>
+	<base href='http://app.idmji.org/study/'>
 	<meta charset="utf-8">
 	<meta name="description" content="">
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
@@ -961,12 +961,6 @@
 			</div>
 		</div>
 	</div>
-
-
-
-	// Para Agregar Eventos de Angel
-
-	var json_data = <?php require '/events.php'; ?>
 
 
 
