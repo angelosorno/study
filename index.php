@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Linea del Timepo Biblica</title>
+	<title>Linea del Tiempo • Historia Bíblica</title>
 	<base href='/t/study/'>
 	<meta charset="utf-8">
 	<meta name="description" content="">
