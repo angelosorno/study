@@ -569,7 +569,7 @@
 					<div class="landing-period landing-period-3 hover" data-id="3">
 						<div class="image"></div>
 						<div class="info">
-							<h3>The<br /> Patriarchs</h3>
+							<h3>Los<br /> Patriarcas</h3>
 							<div class="dash-line"></div>
 							<h4>From the call of Abraham, to Sodom and Gomorrah, and the rise of 12 Jewish tribes through Isaac and Jacob.</h4>
 						</div>
@@ -577,7 +577,7 @@
 					<div class="landing-period landing-period-4 hover" data-id="4">
 						<div class="image"></div>
 						<div class="info">
-							<h3>Egypt<br /> to Canaan</h3>
+							<h3>Egypto<br /> a Canaan</h3>
 							<div class="dash-line"></div>
 							<h4>From Joseph being sold into slavery, his rise to power in Egypt, and to Moses and the Exodus.</h4>
 						</div>
@@ -585,7 +585,7 @@
 					<div class="landing-period landing-period-5 hover" data-id="5">
 						<div class="image"></div>
 						<div class="info">
-							<h3>The<br /> Judges</h3>
+							<h3>Los<br /> Jueces</h3>
 							<div class="dash-line"></div>
 							<h4>From Moses and the Ten Commandments to Joshua’s entrance and Jewish expansion into the Promised Land.</h4>
 						</div>
@@ -593,7 +593,7 @@
 					<div class="landing-period landing-period-6 hover" data-id="6">
 						<div class="image"></div>
 						<div class="info">
-							<h3>United<br /> Kingdom</h3>
+							<h3>Reino<br /> Unido</h3>
 							<div class="dash-line"></div>
 							<h4>From King Saul to the prophet Samuel and young King David and his royal dynasty through Solomon.</h4>
 						</div>
@@ -601,7 +601,7 @@
 					<div class="landing-period landing-period-7 hover" data-id="7">
 						<div class="image"></div>
 						<div class="info">
-							<h3>Divided<br /> Kingdom</h3>
+							<h3>Reino<br /> Divido</h3>
 							<div class="dash-line"></div>
 							<h4>From the internal strife that divided the nation of Israel to the prophets who warned of the coming exile.</h4>
 						</div>
@@ -609,7 +609,7 @@
 					<div class="landing-period landing-period-8 hover" data-id="8">
 						<div class="image"></div>
 						<div class="info">
-							<h3>The<br /> Exile</h3>
+							<h3>El<br /> Exilio</h3>
 							<div class="dash-line"></div>
 							<h4>From Israel’s fall to exile in Babylon and the major prophets declaring the coming Messiah.</h4>
 						</div>
@@ -617,7 +617,7 @@
 					<div class="landing-period landing-period-9 hover" data-id="9">
 						<div class="image"></div>
 						<div class="info">
-							<h3>Life of<br /> Christ</h3>
+							<h3>Vida de<br /> Cristo</h3>
 							<div class="dash-line"></div>
 							<h4>From the birth of the promised Messiah, Jesus the Christ, to His ministry and death and resurrection.</h4>
 						</div>
@@ -625,7 +625,7 @@
 					<div class="landing-period landing-period-10 hover" data-id="10">
 						<div class="image"></div>
 						<div class="info">
-							<h3>Early<br /> Church</h3>
+							<h3>Iglesia<br /> Primitiva</h3>
 							<div class="dash-line"></div>
 							<h4>From the martyrdom of Stephen to the persecution and rise of the church through Paul and the apostles.</h4>
 						</div>
@@ -633,7 +633,7 @@
 					<div class="landing-period landing-period-11 hover" data-id="11">
 						<div class="image"></div>
 						<div class="info">
-							<h3>Middle<br /> Ages</h3>
+							<h3>Seguno<br /> Tunes</h3>
 							<div class="dash-line"></div>
 							<h4>From the legalization of Christianity under Constantine to the persecution of the Dark Ages.</h4>
 						</div>
@@ -641,7 +641,7 @@
 					<div class="landing-period landing-period-12 hover" data-id="12">
 						<div class="image"></div>
 						<div class="info">
-							<h3>The<br /> Reformation</h3>
+							<h3>La<br /> Reforma</h3>
 							<div class="dash-line"></div>
 							<h4>From the great reformers, such as Luther and Wycliffe, to the expansion of the Protestant movement.</h4>
 						</div>
@@ -649,7 +649,7 @@
 					<div class="landing-period landing-period-13 hover" data-id="13">
 						<div class="image"></div>
 						<div class="info">
-							<h3>Revelation<br /> Prophecies</h3>
+							<h3>Apocalipsis<br /> </h3>
 							<div class="dash-line"></div>
 							<h4>From the rise of the antichrist, the mark of the beast, to the return of Christ and paradise restored.</h4>
 						</div>
