@@ -962,9 +962,7 @@
 		</div>
 	</div>
 
-// Para Agregar Eventos de Angel
 
-var json_data = <?php require '/events.php'; ?>
 
 
 
