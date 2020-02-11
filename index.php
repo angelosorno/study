@@ -1,5 +1,5 @@
 <?php
-require_once ('php/events.php');
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -968,9 +968,17 @@ require_once ('php/events.php');
 
 	<!-- Period Offsets -->
 	<script>
+	var json_data = <?php require ('php/events.php'); ?>;
+	console.log(json_data);
+	var event_consol = "";
+for (var i = 0; i < json_data.length; i++) {
+	event_consol = {parseInt(json_data[i].period):["<div class=\"event hover major row-11 period-1 \" style=\"left: "+json_data[i].left +"; width: "+json_data[i].width+";\" data-id="+json_data[i].id+" data-period="+parseInt(json_data[i].period)+" data-hover="+json_data[i].id+" data-slug="+json_data[i].slug+" data-start=\"-3954\" data-end=\"-3024\"><div class=\"info full\"><h3>"+json_data[i].title +"</h3><h4>3954&ndash;3024 <span>AC</span> <small>(930)</small></h4></div><div class=\"image\";></div></div>"
+]},;
+}
+console.log((event_consol));
+var events = event_consol;
 
-
-		var events = <?php require ('php/data/Data_EN.json'); ?>;
+		var events_original = <?php require ('php/data/Data_EN.json'); ?>;
 		var period_offsets = [[0,1.9704433497537,-4100,1.1],[1320,6.23973727422,-2900,4.4],[5500,4.9261083743842,-1950,11],[8800,1.3136288998358,-1650,4.4],[9680,2.2988505747126,-1450,4.4],[11220,5.5829228243021,-1100,22],[14960,10.180623973727,-930,22],[21780,8.5385878489327,-620,11],[27500,22.167487684729,-100,110],[42240,10.344827586207,35,22],[49170,7.7175697865353,350,4.4],[54340,10.509031198686,1520,22],[61380,8.3743842364532,1840,4.4]];
 		var periods = <?php require ('php/data/periods.json'); ?>;
 		var period_percentages = [21.31, 6.34, 5.05, 7.45, 5.16, 2.93, 5.28, 2.93, 7.16, 5.52, 19.25, 5.63, 5.99];
