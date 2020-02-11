@@ -1,11 +1,8 @@
-<?php
-
-?>
 <!DOCTYPE html>
 <html>
 <head>
 	<title>Linea del Tiempo • Historia Bíblica</title>
-	<base href='http://app.idmji.org/study/'>
+	<base href='https://testiar.com/t/a/time_da/'>
 	<meta charset="utf-8">
 	<meta name="description" content="">
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
@@ -750,6 +747,7 @@
 					<li class="active"><a href="#">Historia</a></li>
 					<li><a href="#">Escrituras</a></li>
 					<li><a href="#">Personajes</a></li>
+					<li><a href="#">Lugares</a></li>
 					<!-- <li class="videos"><a href="#">Videos</a></li> -->
 					<li class="favorites"><a href="#">Agregar a Favoritos</a></li>
 				</ul>
@@ -766,6 +764,9 @@
 				</div>
 				<div class="box related">
 					<ul></ul>
+				</div>
+				<div class="box location">
+					<p>https://gmapgis.com/viewer.html?fcode=TCP4h4drTs5</p>
 				</div>
 				<div class="box videos">
 					<ul></ul>
