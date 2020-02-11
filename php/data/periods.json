@@ -1,0 +1,93 @@
+[
+  [
+    -4100,
+    -2900,
+    100,
+    "Primera Generacion ",
+    "Era de los Patriarcas"
+  ],
+  [
+    -2900,
+    -1950,
+    25,
+    "Noe y el Diluvio",
+    "Era de los Patriarcas"
+  ],
+  [
+    -1950,
+    -1650,
+    10,
+    "Los Patriarcas",
+    "Era de los Patriarcas"
+  ],
+  [
+    -1650,
+    -1450,
+    25,
+    "Israel en Egipto",
+    "Era de Israel"
+  ],
+  [
+    -1450,
+    -1100,
+    25,
+    "Los Jueces",
+    "Era de Israel"
+  ],
+  [
+    -1100,
+    -930,
+    5,
+    "El Reino Unido",
+    "Era de Israel"
+  ],
+  [
+    -930,
+    -620,
+    5,
+    "El Reino Dividido",
+    "Era de Israel"
+  ],
+  [
+    -620,
+    -100,
+    10,
+    "El Exilio",
+    "Era de Israel"
+  ],
+  [
+    -100,
+    35,
+    1,
+    "Life of Christ",
+    "Age of Christ"
+  ],
+  [
+    35,
+    350,
+    5,
+    "Early Church",
+    "Age of Christ"
+  ],
+  [
+    350,
+    1520,
+    25,
+    "Middle Ages",
+    "Age of Christ"
+  ],
+  [
+    1520,
+    1840,
+    5,
+    "Reformation",
+    "Age of Christ"
+  ],
+  [
+    1840,
+    3100,
+    25,
+    "Revelation Prophecies",
+    "Age of Christ"
+  ]
+]

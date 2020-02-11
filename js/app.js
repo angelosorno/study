@@ -137,22 +137,25 @@
 				$('div.detail li.favorites a').removeClass('remove').addClass('add').attr('data-id', d.id);
 			}
 
-			// Update Event Detail (Scriptures)
-			$('div.box.scriptures').html('');
-			$.each(d.scriptures, function(i,v){
-				$('div.box.scriptures').append('<h4>'+v.reference+'</h4>');
-				$.each(v.verses, function(i,v){
-					$('div.box.scriptures').append('<p>'+v.number+' '+v.line+'</p>');
-				});
-			});
+			// // Update Event Detail (Scriptures)
+			// $('div.box.scriptures').html('');
+			// $.each(d.scriptures, function(i,v){
+			// 	$('div.box.scriptures').append('<h4>'+v.reference+'</h4>');
+			// 	$.each(v.verses, function(i,v){
+			// 		$('div.box.scriptures').append('<p>'+v.number+' '+v.line+'</p>');
+			// 	});
+			// });
+
+			// Update Event Detail (Scriptures) By Single String (Darien)
+			$('div.box.scriptures').html(d.scriptures);
 
 
-			// Update Event Detail (Related)
-			$('div.box.related ul').html('');
-			$.each(d.related, function(i,v){
-				$('div.box.related ul').append('<li><span data-slug="'+v.slug+'">'+v.title+'</span></li>');
-			});
-
+			// // Update Event Detail (Related)
+			// $('div.box.related ul').html('');
+			// $.each(d.related, function(i,v){
+			// 	$('div.box.related ul').append('<li><span data-slug="'+v.slug+'">'+v.title+'</span></li>');
+			// });
+			$('div.box.related ul').html(d.related);
 
 			// Update Event Detail (Images)
 			$('div.media ul.pagination').html('');

@@ -677,15 +677,15 @@ require_once ('php/events.php');
 				<div class="af_logo"></div>
 
 				<!-- Amazing Facts -->
-				<p class="amazing-fact">According to Genesis 5:3, Adam was 130 years old when his son Seth was born. He lived 800 years after that and was alive to witness the birth of his great-great-great-great-great-great-grandson, Lamech, the father of Noah, the one who would be saved through the flood.</p>
-				<p class="amazing-fact">The ark was an immense structure measuring up to 512 feet in length. It also represented advanced knowledge of shipbuilding, as it is the optimum design for stability in rough seas. The ark had a volume of at least 1.5 million cubic feet, or the equivalent of about 560 railroad boxcars.</p>
-				<p class="amazing-fact">The Ebla tablets, discovered in 1975 and dated to about 2300 BC, verify the worship of pagan gods such as Baal, Dagan, and Asherah, known previously only from the Bible. They mention the names Abraham and Ur of Chaldees, his birthplace—as well as other Bible names, such as Esau and Sodom and Gomorrah.</p>
-				<p class="amazing-fact">Some Bible scholars estimate that more than 3.5 millions Jews took part in the Exodus from Egypt. The fleeing column of former slaves, in lines of 50 across, would have stretched for 40 miles across the wilderness and would have taken about 15 hours to pass the same point.</p>
-				<p class="amazing-fact">Belshazzar, a king of Babylon named in the book of Daniel, was considered a Bible legend, but the Nabonidus Cylinder, discovered circa 1881, listed the king as the son of Nabonidus, verifying the biblical record contained in Daniel.</p>
-				<p class="amazing-fact">The Tel Dan stela, discovered in 1993, reveals historical evidence of King David. The Aramean ruler who erected the stone inscription around 80 B.C. claimed to have defeated the “king of the House of David.”</p>
-				<p class="amazing-fact">Jesus was the fulfillment of prophecies written long before His birth. The prophet Micah said the Messiah would be born in Bethlehem (Micah 5:2). Other prophets predicted that Jesus would be born of a virgin (Isaiah 7:14) and that there would be a murder attempt on His young life (Jeremiah 31:15).</p>
-				<p class="amazing-fact">Jesus prophesied that the Jewish temple in Jerusalem would be destroyed such that not one stone would be left standing on top of another. Some temple stones weighed more than 100 tons. Fulfilled in A.D. 70. Josephus, a trusted historian, reports that Roman invaders dug up the very foundations of the temple.</p>
-				<p class="amazing-fact">The Pontus Pilate inscription, discovered at Caesarea Maritima in 1962, provides historical evidence of a key player in the crucifixion of Jesus. The Latin inscription contained the phrase, “Pontius Pilatus, Prefect of Judea has dedicated to the people of Caesarea a temple in honor of Tiberius.”</p>
+				<p class="amazing-fact">Según Génesis 5: 3, Adán tenía 130 años cuando nació su hijo Seth. Vivió 800 años después de eso y vivió para presenciar el nacimiento de su tatara-tatara-tatara-tatara-tatara-nieto, Lamech, el padre de Noé, el que se salvaría a través del diluvio.</p>
+				<p class = "amazing-fact"> El arca era una estructura inmensa que medía hasta 512 pies de largo. También representaba un conocimiento avanzado de la construcción naval, ya que es el diseño óptimo para la estabilidad en mares agitados. El arca tenía un volumen de al menos 1.5 millones de pies cúbicos, o el equivalente de aproximadamente 560 vagones de ferrocarril. </p>
+				<p class = "amazing-fact"> Las tabletas Ebla, descubiertas en 1975 y fechadas alrededor del 2300 a. C., verifican la adoración de dioses paganos como Baal, Dagan y Asherah, conocidos anteriormente solo de la Biblia. Mencionan los nombres de Abraham y Ur de los caldeos, su lugar de nacimiento, así como otros nombres de la Biblia, como Esaú, Sodoma y Gomorra. </p>
+				<p class = "amazing-fact"> Algunos estudiosos de la Biblia estiman que más de 3.5 millones de judíos participaron en el éxodo de Egipto. La columna de ex esclavos que huía, en líneas de 50 de ancho, se habría extendido por 40 millas a través del desierto y habría tomado alrededor de 15 horas para pasar el mismo punto. </p>
+				<p class = "amazing-fact"> Belsasar, un rey de Babilonia nombrado en el libro de Daniel, era considerado una leyenda de la Biblia, pero el Cilindro de Nabonido, descubierto alrededor de 1881, enumeró al rey como el hijo de Nabonido, verificando lo bíblico registro contenido en Daniel. </p>
+				<p class = "amazing-fact"> La estela de Tel Dan, descubierta en 1993, revela evidencia histórica del rey David. El gobernante arameo que erigió la inscripción en piedra alrededor del 80 a. C. afirmó haber derrotado al "rey de la casa de David". </p>
+				<p class = "amazing-fact"> Jesús fue el cumplimiento de las profecías escritas mucho antes de su nacimiento. El profeta Miqueas dijo que el Mesías nacería en Belén (Miqueas 5: 2). Otros profetas predijeron que Jesús nacería de una virgen (Isaías 7:14) y que habría un intento de asesinato en su joven vida (Jeremías 31:15). </p>
+				<p class = "amazing-fact"> Jesús profetizó que el templo judío en Jerusalén sería destruido de manera tal que no quedara una piedra encima de otra. Algunas piedras del templo pesaban más de 100 toneladas. Cumplido en el año 70 d. C. Josephus, un historiador de confianza, informa que los invasores romanos desenterraron los cimientos del templo. </p>
+				<p class = "amazing-fact"> La inscripción de Ponto Pilato, descubierta en Cesarea Marítima en 1962, proporciona evidencia histórica de un jugador clave en la crucifixión de Jesús. La inscripción en latín contenía la frase: "Poncio Pilato, prefecto de Judea ha dedicado al pueblo de Cesarea un templo en honor de Tiberio". </p>
 			</div>
 		</div>
 
@@ -740,18 +740,18 @@ require_once ('php/events.php');
 				<!-- Event Details -->
 				<h1>Abraham</h1>
 				<h3>1951&ndash;1775 <span>AC</span></h3>
-				<a href="#" class="close">Close</a>
-				<a href="#" class="related">Related</a>
+				<a href="#" class="close">Cerrar</a>
+				<a href="#" class="related">Relacionado</a>
 
 				<div class="dashed-line"></div>
 
 				<!-- Nav Bar -->
 				<ul class="nav">
-					<li class="active"><a href="#">Article</a></li>
-					<li><a href="#">Scriptures</a></li>
-					<li><a href="#">Related</a></li>
+					<li class="active"><a href="#">Historia</a></li>
+					<li><a href="#">Escrituras</a></li>
+					<li><a href="#">Personajes</a></li>
 					<!-- <li class="videos"><a href="#">Videos</a></li> -->
-					<li class="favorites"><a href="#">Add to Favorites</a></li>
+					<li class="favorites"><a href="#">Agregar a Favoritos</a></li>
 				</ul>
 
 				<div class="dashed-line"></div>
@@ -762,7 +762,7 @@ require_once ('php/events.php');
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 				</div>
 				<div class="box scriptures">
-					<p>Scriptures</p>
+					<p>Escrituras</p>
 				</div>
 				<div class="box related">
 					<ul></ul>
@@ -802,79 +802,79 @@ require_once ('php/events.php');
 		<div class="sidebar">
 			<div class="sidebars"  id="sidebars">
 				<div class="period-1">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>PRIMERA GENERACIÓN</h2>
 					<h4>Creation&ndash;c.2500 <span>AC</span></h4>
 					<p>From the creation of Adam and Eve, to the murder of Abel by Cain, and human history before the flood.</p>
 				</div>
 				<div class="period-2">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>NOE Y EL DILUVIO</h2>
 					<h4>c.2500&ndash;c.2166 <span>AC</span></h4>
 					<p>From the ministry of Noah and the global deluge, to Cush, Nimrod, and the tower of Babel.</p>
 				</div>
 				<div class="period-3">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>LOS PATRIARCAS</h2>
 					<h4>c.2166&ndash;c.1660 <span>AC</span></h4>
 					<p>From the call of Abraham, to Sodom and Gomorrah, and the rise of the 12 Jewish tribes through Isaac and Jacob.</p>
 				</div>
 				<div class="period-4">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>EGIPTO A CANAÁN</h2>
 					<h4>c.1660&ndash;c.1445 <span>AC</span></h4>
 					<p>From Joseph being sold into slavery, his rise to power in Egypt, and to Moses and the Exodus.</p>
 				</div>
 				<div class="period-5">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>LOS JUECES</h2>
 					<h4>c.1445&ndash;c.1050 <span>AC</span></h4>
 					<p>From Moses and the Ten Commandments to Joshua's entrance and Jewish expansion into the Promised Land.</p>
 				</div>
 				<div class="period-6">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>REINO UNIDO</h2>
 					<h4>c.1050&ndash;c.930 <span>AC</span></h4>
 					<p>From King Saul to the prophet Samuel and young King David and his royal dynasty through Solomon.</p>
 				</div>
 				<div class="period-7">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>REINO DIVIDIDO</h2>
 					<h4>c.930&ndash;c.586 <span>AC</span></h4>
 					<p>From the internal strife that divided the nation of Israel to the prophets who warned of the coming exile.</p>
 				</div>
 				<div class="period-8">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>EL EXILIO</h2>
 					<h4>c.585&ndash;c.457 <span>AC</span></h4>
 					<p>From Israel's fall to exile in Babylon and the major prophets declaring the coming Messiah.</p>
 				</div>
 				<div class="period-9">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>VIDA SEÑOR JESUCRISTO</h2>
 					<h4>c.4 <span>AC</span>&ndash;c.34 <span>DC</span></h4>
 					<p>From the birth of the promised Messiah, Jesus the Christ, to His ministry and death and resurrection.</p>
 				</div>
 				<div class="period-10">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>Iglesia Primitiva</h2>
 					<h4>c.34&ndash;c.330 <span>DC</span></h4>
 					<p>From the martyrdom of Stephen to the persecution and rise of the church through Paul and the apostles.</p>
 				</div>
 				<div class="period-11">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>Segundo Tunel</h2>
 					<h4>c.450&ndash;c.1517 <span>DC</span></h4>
 					<p>From the legalization of Christianity under Constantine to the persecution of the Dark Ages..</p>
 				</div>
 				<div class="period-12">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>La Reforma</h2>
 					<h4>c.1517&ndash;c.1840 <span>DC</span></h4>
 					<p>From the great reformers, such as Luther and Wycliffe, to the expansion of the Protestant movement.</p>
 				</div>
 				<div class="period-13">
-					<h3>The Age of</h3>
+					<h3>La era de</h3>
 					<h2>Apocalipsis</h2>
 					<h4>Creation&ndash;Present</h4>
 					<p>From the rise of the antichrist, the mark of the beast, to the return of Christ and paradise restored.</p>
@@ -924,7 +924,7 @@ require_once ('php/events.php');
 				</h3>
 			</div>
 			<div class="period-bar" id="period-bar">
-				<h5>United Kingdom</h5>
+				<h5>El Reino Unido</h5>
 				<!-- <div class="year-bubble" id="year-bubble"></div> -->
 				<table class="years dark">
 					<tr>
@@ -969,15 +969,10 @@ require_once ('php/events.php');
 	<!-- Period Offsets -->
 	<script>
 
-	// Para Agregar Eventos de Angel
-	// console.log(json_data);
-
-
-
 
 		var events = <?php require ('php/data/Data_EN.json'); ?>;
 		var period_offsets = [[0,1.9704433497537,-4100,1.1],[1320,6.23973727422,-2900,4.4],[5500,4.9261083743842,-1950,11],[8800,1.3136288998358,-1650,4.4],[9680,2.2988505747126,-1450,4.4],[11220,5.5829228243021,-1100,22],[14960,10.180623973727,-930,22],[21780,8.5385878489327,-620,11],[27500,22.167487684729,-100,110],[42240,10.344827586207,35,22],[49170,7.7175697865353,350,4.4],[54340,10.509031198686,1520,22],[61380,8.3743842364532,1840,4.4]];
-		var periods = [[-4100,-2900,100,"First Generation","Age of Patriarchs"],[-2900,-1950,25,"Noah & The Flood","Age of Patriarchs"],[-1950,-1650,10,"The Patriarchs","Age of Patriarchs"],[-1650,-1450,25,"Israel in Egypt","Age of Israel"],[-1450,-1100,25,"The Judges","Age of Israel"],[-1100,-930,5,"United Kingdom","Age of Israel"],[-930,-620,5,"Divided Kingdom","Age of Israel"],[-620,-100,10,"The Exile","Age of Israel"],[-100,35,1,"Life of Christ","Age of Christ"],[35,350,5,"Early Church","Age of Christ"],[350,1520,25,"Middle Ages","Age of Christ"],[1520,1840,5,"Reformation","Age of Christ"],[1840,3100,25,"Revelation Prophecies","Age of Christ"]];
+		var periods = <?php require ('php/data/periods.json'); ?>;
 		var period_percentages = [21.31, 6.34, 5.05, 7.45, 5.16, 2.93, 5.28, 2.93, 7.16, 5.52, 19.25, 5.63, 5.99];
 		var currentPeriod = 1;
 		var routerFlag = true;
@@ -1024,6 +1019,7 @@ require_once ('php/events.php');
 	<script src="js/router.js"></script>
 	<script src="js/scroller_init.js"></script>
 	<script src="js/landing_init.js"></script>
+
 
 </body>
 </html>
