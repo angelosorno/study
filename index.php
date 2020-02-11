@@ -970,17 +970,29 @@
 	<script>
 	var json_data = <?php require ('php/events.php'); ?>;
 	console.log(json_data);
-	var event_consol = "";
+	var event_consol_array = [];
 for (var i = 0; i < json_data.length; i++) {
-	event_consol = {parseInt(json_data[i].period):["<div class=\"event hover major row-11 period-1 \" style=\"left: "+json_data[i].left +"; width: "+json_data[i].width+";\" data-id="+json_data[i].id+" data-period="+parseInt(json_data[i].period)+" data-hover="+json_data[i].id+" data-slug="+json_data[i].slug+" data-start=\"-3954\" data-end=\"-3024\"><div class=\"info full\"><h3>"+json_data[i].title +"</h3><h4>3954&ndash;3024 <span>AC</span> <small>(930)</small></h4></div><div class=\"image\";></div></div>"
-]},;
+	labelsize = "";
+	if (json_data[i].labelsize === 'major') {
+		labelsize = '<div class= "info full">';
+	}
+
+	event_consol_array += '"'+'<div class="event hover '+json_data[i].labelsize+' row-'+json_data[i].row+' period-'+json_data[i].period+' " style= "left: '+json_data[i].left+'; width: '+json_data[i].width+';" data-id= "'+json_data[i].id+'" data-period= "'+json_data[i].period+'" data-hover= "'+json_data[i].id+'" data-slug= "'+json_data[i].slug+'" data-start= "-3954" data-end= "-3024">'+
+	labelsize +
+
+				'<h3>'+json_data[i].title+'</h3>'+
+				'<h4>3954&ndash;3024 <span>AC</span> <small>(930)</small></h4></div>'+
+	 '</div>'+'"';
+
 }
-console.log((event_consol));
+event_consol = {1:[event_consol_array]};
+
+
 var events = event_consol;
 
-		var events_original = <?php require ('php/data/Data_EN.json'); ?>;
+		// var events_Original = <?php// require ('php/data/Data_EN.json'); ?>;
 		var period_offsets = [[0,1.9704433497537,-4100,1.1],[1320,6.23973727422,-2900,4.4],[5500,4.9261083743842,-1950,11],[8800,1.3136288998358,-1650,4.4],[9680,2.2988505747126,-1450,4.4],[11220,5.5829228243021,-1100,22],[14960,10.180623973727,-930,22],[21780,8.5385878489327,-620,11],[27500,22.167487684729,-100,110],[42240,10.344827586207,35,22],[49170,7.7175697865353,350,4.4],[54340,10.509031198686,1520,22],[61380,8.3743842364532,1840,4.4]];
-		var periods = <?php require ('php/data/periods.json'); ?>;
+		var periods = [[-4100,-2900,100,"First Generation","Age of Patriarchs"],[-2900,-1950,25,"Noah & The Flood","Age of Patriarchs"],[-1950,-1650,10,"The Patriarchs","Age of Patriarchs"],[-1650,-1450,25,"Israel in Egypt","Age of Israel"],[-1450,-1100,25,"The Judges","Age of Israel"],[-1100,-930,5,"United Kingdom","Age of Israel"],[-930,-620,5,"Divided Kingdom","Age of Israel"],[-620,-100,10,"The Exile","Age of Israel"],[-100,35,1,"Life of Christ","Age of Christ"],[35,350,5,"Early Church","Age of Christ"],[350,1520,25,"Middle Ages","Age of Christ"],[1520,1840,5,"Reformation","Age of Christ"],[1840,3100,25,"Revelation Prophecies","Age of Christ"]];
 		var period_percentages = [21.31, 6.34, 5.05, 7.45, 5.16, 2.93, 5.28, 2.93, 7.16, 5.52, 19.25, 5.63, 5.99];
 		var currentPeriod = 1;
 		var routerFlag = true;
