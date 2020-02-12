@@ -145,21 +145,21 @@
 				<a href="#" class="close">Cerrar</a>
 			</div>
 			<div class="faq-answer 0">
-				<p>With more than 850 interconnected entries, the Bible Prophecy Timeline is a comprehensive study tool that allows you to explore every character and major event of the Bible, from the creation of the world to last-day prophecies. Each entry in the Timeline contains a brief but insightful article with interesting facts about the person or event, plus artwork and full Scripture references and passages to help you find it in the Bible.</p>
-				<p>Where possible, entries also include links to related characters and events and a video presentation to help deepen your understanding of their place in Bible history.</p>
-				<p>The Timeline is divided into three major sections:</p>
+				<p>Con más de 850 entradas interconectadas, esta línea de tiempo es una herramienta de estudio integral que le permite explorar todos los personajes y eventos principales de la Biblia, desde la creación del mundo hasta las profecías de los últimos días. Cada entrada en la línea de tiempo contiene un artículo breve pero perspicaz con datos interesantes sobre la persona o el evento, además de obras de arte y referencias y pasajes completos de las Escrituras para ayudarlo a encontrarlo en la Biblia.</p>
+				<p>Donde sea posible, las entradas también incluyen enlaces a personajes y eventos relacionados y una presentación en video para ayudar a profundizar su comprensión de su lugar en la historia de la Biblia.</p>
+				<p>La línea de tiempo se divide en tres secciones principales:</p>
 				<ul>
 					<li>
-						<strong>Age of Patriarchs—Creation to c. 1660 BC</strong><br />
-						<p>The timeline begins with Adam in Eden, then on to Noah and the Flood and the birth of Israel through Abraham, Isaac, and Jacob.</p>
+						<strong>Dispensación—Creación a c. 1660 AC</strong><br />
+						<p>La línea de tiempo comienza con Adán en el Edén, luego a Noé y el diluvio y el nacimiento de Israel a través de Abraham, Isaac y Jacob.</p>
 					</li>
 					<li>
-						<strong>Age of Israel—c. 1660 BC to c. 457 BC</strong><br />
-						<p>Covers the history of the Jewish nation, from Moses and the Exodus to King David and the prophets Daniel and Isaiah.</p>
+						<strong>Dispensación de—c. 1660 AC to c. 457 AC</strong><br />
+						<p>Cubre la historia de la nación judía, desde Moisés y el Éxodo hasta el rey David y los profetas Daniel e Isaías.</p>
 					</li>
 					<li>
-						<strong>Age of Christ—c. 4 BC to AD 1840</strong>
-						<p>Covers the life, death, and resurrection of Jesus; the apostles; the Reformation; and the final events of earth’s history.</p>
+						<strong>Dispensación de—c. 4 AC a DC 1840</strong>
+						<p>Cubre la vida, muerte y resurrección de nuestro Señor Jesucristo; los apóstoles, La reformación; y la IDMJI y la Hna. María Luisa Piraquive.</p>
 					</li>
 				</ul>
 				<p>Each of these sections are further divided into more specific time periods for ease of study.</p>
@@ -380,7 +380,7 @@
 				<p>There is evidence that this is how the Jews understood this passage. Josephus, the 1st century AD Jewish historian, wrote, “They left Egypt in the month Xanthicus, on the fifteenth day of the lunar month; four hundred and thirty years after our forefather Abraham came into Canaan, but two hundred and fifteen years only after Jacob removed into Egypt” (Antiquities of the Jews II:xv:2). A scroll fragment from the Dead Sea (4Q559) confirms this short chronology.</p>
 				<p>Jacob went down into Egypt in the year 2238 AC and, for our purposes, we will place the Exodus 215 years later in the year 2453 AC. Again, an approximation.</p>
 				<p>Next, in 1 Kings 6:1, we are told that the fourth year of Solomon’s reign was the 480th year after the Exodus. That means a date of 2933 AC for the commencement of work on the temple.</p>
-				<p>Dr. Edwin R. Thiele, in The Mysterious Numbers of the Hebrew Kings, establishes the year 931 BC as the date when Rehoboam began to reign. Assuming he’s correct, 1 Kings 11:42 tells us that Solomon reigned for 40 years, so his reign began in the year 971 BC, which means that his fourth year must have been the year 967 BC.</p>
+				<p>Dr. Edwin R. Thiele, in The Mysterious Numbers of the Hebrew Kings, establishes the year 931 AC as the date when Rehoboam began to reign. Assuming he’s correct, 1 Kings 11:42 tells us that Solomon reigned for 40 years, so his reign began in the year 971 AC, which means that his fourth year must have been the year 967 BC.</p>
 				<p>Therefore, if Solomon’s fourth year, the year 967 BC, came 2933 years after creation, then we can say that this world was created in the year 3900 BC. As it should be obvious that this can only be an approximate date, it should be equally obvious that there are limits to the amount one can stretch the chronology. If we make the Jewish oppression 430 years, include maximum time between generations, and so on, the most we can add in is another thousand years or so. Certainly there is no room in the biblical figures for pushing creation back to 10,000 BC.</p>
 			</div>
 
