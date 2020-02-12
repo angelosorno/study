@@ -187,9 +187,9 @@ input,select{vertical-align:middle}
 	}
 	div.menu.closed div.background { width: 304px; }
 	div.menu h2 {
-		background: url('https://upload.wikimedia.org/wikipedia/commons/5/54/Logo-IDMJI-ESPA%C3%91OL.jpg') no-repeat center center;
+		/* background: url('/css/img/logo.png') no-repeat center center; */
 		-webkit-background-size: cover;
-		   -moz-background-size: cover;
+		-moz-background-size: cover;
 		     -o-background-size: cover;
 		        background-size: cover;
 		height: 114px;
@@ -624,8 +624,8 @@ input,select{vertical-align:middle}
 
 
 	div.landing-paper {
-		background: url('/css/img/paper-bg.jpg');
-		background-color: #fff;
+		/* background: url('/css/img/paper-bg.jpg'); */
+		background-color: #ccc;
 		width: 10000px;
 		height: 100%;
 		margin-left: -400px;
@@ -786,7 +786,7 @@ input,select{vertical-align:middle}
 			margin: -22px auto 0px auto;
 			text-indent: -9999px;
 			font-size: 0px;
-			/* background-image: url('/css/img/landing_era_logos.png'); */
+			background-image: url('/css/img/landing_era_logos.png');
 			-webkit-background-size: cover;
 			   -moz-background-size: cover;
 			     -o-background-size: cover;
@@ -848,7 +848,7 @@ input,select{vertical-align:middle}
 			border-top-left-radius: 3px;
 			overflow: hidden;
 		}
-		/* div.landing-period-1 div.image { background-image: url('/css/img/period_1.jpg'); }
+		div.landing-period-1 div.image { background-image: url('/css/img/period_1.jpg'); }
 		div.landing-period-2 div.image { background-image: url('/css/img/period_2.jpg'); }
 		div.landing-period-3 div.image { background-image: url('/css/img/period_3.jpg'); }
 		div.landing-period-4 div.image { background-image: url('/css/img/period_4.jpg'); }
@@ -860,7 +860,7 @@ input,select{vertical-align:middle}
 		div.landing-period-10 div.image { background-image: url('/css/img/period_10.jpg'); }
 		div.landing-period-11 div.image { background-image: url('/css/img/period_11.jpg'); }
 		div.landing-period-12 div.image { background-image: url('/css/img/period_12.jpg'); }
-		div.landing-period-13 div.image { background-image: url('/css/img/period_13.jpg'); } */
+		div.landing-period-13 div.image { background-image: url('/css/img/period_13.jpg'); }
 
 		div.landing-period div.info {
 			background: rgba(253,250,241,0.63);
@@ -1555,6 +1555,7 @@ input,select{vertical-align:middle}
 		height: 1340px;
 		height: 100%;
 		width: 2000px;
+		opacity: 0.8;
 		position: absolute;
 		background: url('/css/img/paper-bg.jpg');
 		-webkit-background-size: 1400px 100%;

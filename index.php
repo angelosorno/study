@@ -799,79 +799,79 @@
 					<h3>La dispensación</h3>
 					<h2>PRIMERA GENERACIÓN</h2>
 					<h4>Creación&ndash;c.2500 <span>AC</span></h4>
-					<p>From the creation of Adam and Eve, to the murder of Abel by Cain, and human history before the flood.</p>
-				</div>
+					<p>Desde la creación de Adán y Eva, hasta el asesinato de Abel por Caín, y la historia humana antes del diluvio.</p>
+				</div>	
 				<div class="period-2">
 					<h3>La dispensación</h3>
 					<h2>NOE Y EL DILUVIO</h2>
 					<h4>c.2500&ndash;c.2166 <span>AC</span></h4>
-					<p>From the ministry of Noah and the global deluge, to Cush, Nimrod, and the tower of Babel.</p>
+					<p>Desde el ministerio de Noé y el diluvio global, hasta Cush, Nimrod y la torre de Babel.</p>
 				</div>
 				<div class="period-3">
 					<h3>La dispensación</h3>
 					<h2>LOS PATRIARCAS</h2>
 					<h4>c.2166&ndash;c.1660 <span>AC</span></h4>
-					<p>From the call of Abraham, to Sodom and Gomorrah, and the rise of the 12 Jewish tribes through Isaac and Jacob.</p>
+					<p>Desde el llamado de Abraham, a Sodoma y Gomorra, y el surgimiento de las 12 tribus judías a través de Isaac y Jacob.</p>
 				</div>
 				<div class="period-4">
 					<h3>La dispensación</h3>
 					<h2>EGIPTO A CANAÁN</h2>
 					<h4>c.1660&ndash;c.1445 <span>AC</span></h4>
-					<p>From Joseph being sold into slavery, his rise to power in Egypt, and to Moses and the Exodus.</p>
+					<p>Desde que José fue vendido como esclavo, su ascenso al poder en Egipto, y a Moisés y el Éxodo.</p>
 				</div>
 				<div class="period-5">
 					<h3>La dispensación</h3>
 					<h2>LOS JUECES</h2>
 					<h4>c.1445&ndash;c.1050 <span>AC</span></h4>
-					<p>From Moses and the Ten Commandments to Joshua's entrance and Jewish expansion into the Promised Land.</p>
+					<p>Desde Moisés y los Diez Mandamientos hasta la entrada de Josué y la expansión judía en la Tierra Prometida.</p>
 				</div>
 				<div class="period-6">
 					<h3>La dispensación</h3>
 					<h2>REINO UNIDO</h2>
 					<h4>c.1050&ndash;c.930 <span>AC</span></h4>
-					<p>From King Saul to the prophet Samuel and young King David and his royal dynasty through Solomon.</p>
+					<p>Del rey Saúl al profeta Samuel y al joven rey David y su dinastía real a través de Salomón.</p>
 				</div>
 				<div class="period-7">
 					<h3>La dispensación</h3>
 					<h2>REINO DIVIDIDO</h2>
 					<h4>c.930&ndash;c.586 <span>AC</span></h4>
-					<p>From the internal strife that divided the nation of Israel to the prophets who warned of the coming exile.</p>
+					<p>Desde la lucha interna que dividió a la nación de Israel hasta los profetas que advirtieron sobre el próximo exilio.</p>
 				</div>
 				<div class="period-8">
 					<h3>La dispensación</h3>
 					<h2>EL EXILIO</h2>
 					<h4>c.585&ndash;c.457 <span>AC</span></h4>
-					<p>From Israel's fall to exile in Babylon and the major prophets declaring the coming Messiah.</p>
+					<p>Desde la caída de Israel al exilio en Babilonia y los principales profetas que declararon el Mesías venidero.</p>
 				</div>
 				<div class="period-9">
 					<h3>La dispensación</h3>
 					<h2>VIDA SEÑOR JESUCRISTO</h2>
 					<h4>c.4 <span>AC</span>&ndash;c.34 <span>DC</span></h4>
-					<p>From the birth of the promised Messiah, Jesus the Christ, to His ministry and death and resurrection.</p>
+					<p>Desde el nacimiento del prometido Mesías, Jesús el Cristo, hasta su ministerio y muerte y resurrección.</p>
 				</div>
 				<div class="period-10">
 					<h3>La dispensación</h3>
 					<h2>Iglesia Primitiva</h2>
 					<h4>c.34&ndash;c.330 <span>DC</span></h4>
-					<p>From the martyrdom of Stephen to the persecution and rise of the church through Paul and the apostles.</p>
+					<p>Desde el martirio de Esteban hasta la persecución y el surgimiento de la iglesia a través de Pablo y los apóstoles.</p>
 				</div>
 				<div class="period-11">
 					<h3>La dispensación</h3>
 					<h2>Segundo Tunel</h2>
 					<h4>c.450&ndash;c.1517 <span>DC</span></h4>
-					<p>From the legalization of Christianity under Constantine to the persecution of the Dark Ages..</p>
+					<p>Desde la legalización del cristianismo bajo Constantino hasta la persecución de la Edad Media.</p>
 				</div>
 				<div class="period-12">
 					<h3>La dispensación</h3>
 					<h2>La Reforma</h2>
 					<h4>c.1517&ndash;c.1840 <span>DC</span></h4>
-					<p>From the great reformers, such as Luther and Wycliffe, to the expansion of the Protestant movement.</p>
+					<p>Desde los grandes reformadores, como Luther y Wycliffe, hasta la expansión del movimiento protestante.</p>
 				</div>
 				<div class="period-13">
 					<h3>La dispensación</h3>
 					<h2>Apocalipsis</h2>
 					<h4>Creación&ndash;Presente</h4>
-					<p>From the rise of the antichrist, the mark of the beast, to the return of Christ and paradise restored.</p>
+					<p>Desde el surgimiento del anticristo, la marca de la bestia, hasta el regreso de Cristo y el paraíso restaurado.</p>
 				</div>
 			</div>
 		</div>

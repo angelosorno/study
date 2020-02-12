@@ -17,7 +17,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 		height: 100%; width: 100%; 
 	}
 	div.loading { 
-		background: url('img/loading.png');
+	/*	background: url('img/loading.png'); */
 		height: 180px; width: 150px;
 		position: absolute;
 		top: 50%; left: 50%;
@@ -30,7 +30,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 		position: absolute;
 		top: 50%; left: 50%;
 		z-index: 1000;
-		background: url('img/logo.svg') no-repeat center center; 
+	/*	background: url('img/logo.svg') no-repeat center center; */
 		-webkit-background-size: cover;
 		   -moz-background-size: cover;
 		     -o-background-size: cover;
@@ -136,23 +136,5 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 		     -o-background-size: cover;
 		        background-size: cover;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
