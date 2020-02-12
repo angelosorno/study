@@ -157,16 +157,24 @@
 			// });
 			$('div.box.related ul').html(d.related);
 
+			// // Update Event Detail (Images)
+			// $('div.media ul.pagination').html('');
+			// $('div.media div.slides').html('');
+			// var template = $('.media-template').html();
+			// $.each(d.images, function(i,v){
+			// 	var image = template;
+			// 		image = image.replace('%filename%', v['file']);
+			// 		image = image.replace('%caption%', v['caption']);
+			// 		image = image.replace('%img_alt%', v['caption']);
+			// 	$('div.media div.slides').append(image);
+			// 	$('div.media ul.pagination').append('<li>'+i+'</li>');
+			// });
+
 			// Update Event Detail (Images)
 			$('div.media ul.pagination').html('');
 			$('div.media div.slides').html('');
 			var template = $('.media-template').html();
-			$.each(d.images, function(i,v){
-				var image = template;
-					image = image.replace('%filename%', v['file']);
-					image = image.replace('%caption%', v['caption']);
-					image = image.replace('%img_alt%', v['caption']);
-				$('div.media div.slides').append(image);
+				$('div.media div.slides').append(d.images);
 				$('div.media ul.pagination').append('<li>'+i+'</li>');
 			});
 
