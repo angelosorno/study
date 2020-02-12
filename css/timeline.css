@@ -187,9 +187,9 @@ input,select{vertical-align:middle}
 	}
 	div.menu.closed div.background { width: 304px; }
 	div.menu h2 {
-		background: url('/css/img/logo.png') no-repeat center center;
+		/* background: url('/css/img/logo.png') no-repeat center center; */
 		-webkit-background-size: cover;
-		   -moz-background-size: cover;
+		-moz-background-size: cover;
 		     -o-background-size: cover;
 		        background-size: cover;
 		height: 114px;
