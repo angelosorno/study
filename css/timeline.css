@@ -187,7 +187,7 @@ input,select{vertical-align:middle}
 	}
 	div.menu.closed div.background { width: 304px; }
 	div.menu h2 {
-		background: url('/css/img/logo.png') no-repeat center center;
+		background: url('https://upload.wikimedia.org/wikipedia/commons/5/54/Logo-IDMJI-ESPA%C3%91OL.jpg') no-repeat center center;
 		-webkit-background-size: cover;
 		   -moz-background-size: cover;
 		     -o-background-size: cover;
