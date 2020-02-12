@@ -18,6 +18,8 @@ images
 *.sql
 *.env
 .htaccess
+error_log
+*.error_log
 
 # OS generated files #
 ######################
