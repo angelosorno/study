@@ -172,7 +172,8 @@
 			// });
 
 			// Update Event Detail (Images)
-			$('div.media ul.pagination').html(d.images);
+			var image = $('div.media ul.pagination').html(d.images);
+			$('div.media div.slides').append(image);
 
 
 
