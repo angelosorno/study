@@ -1,8 +1,9 @@
 # Folders
 images
 
-# Folders
+# Specific Files
 url_base.php
+php/const.php
 
 # Files Binary
 *.jpg
