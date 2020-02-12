@@ -328,111 +328,104 @@
 				</tr>
 				</table>
 
-				<p>The next point of interest is the date of Shem’s death. With the exception of Eber, none of Shem’s descendants outlived him. Now let us consider the Hebrew patriarchs …</p>
+				<p> El siguiente punto de interés es la fecha de la muerte de Shem. Con la excepción de Eber, ninguno de los descendientes de Shem lo sobrevivió. Ahora consideremos a los patriarcas hebreos ... </p>
 				<table>
-					<tr>
-						<th>Name</th>
-						<th>Birth (AC)</th>
-						<th>Age when son born</th>
-						<th>Length of life</th>
-						<th>Death  (AC)</th>
-						<th>Reference</th>
-					</tr>
-					<tr>
-						<td>Terah</td>
-						<td>1878</td>
-						<td>70</td>
-						<td>205</td>
-						<td>2083</td>
-						<td>11:32</td>
-					</tr>
-					<tr>
-						<td>Abraham</td>
-						<td>1948</td>
-						<td>100</td>
-						<td>175</td>
-						<td>2123</td>
-						<td>21:5; 25:7</td>
-					</tr>
-					<tr>
-						<td>Isaac</td>
-						<td>2048</td>
-						<td>60</td>
-						<td>180</td>
-						<td>2228</td>
-						<td>25:26; 35:28</td>
-					</tr>
-					<tr>
-						<td>Jacob</td>
-						<td>2108</td>
-						<td>147</td>
-						<td>2255</td>
-					</tr>
+				<tr>
+				<th> Nombre </th>
+				<th> Nacimiento (AC) </th>
+				<th> Edad cuando murió el hijo </th>
+				<th> Duración de la vida </th>
+				<th> Muerte (AC) </th>
+				<th> Referencia </th>
+				</tr>
+				<tr>
+				<td> Taré </td>
+				<td> 1878 </td>
+				<td> 70 </td>
+				<td> 205 </td>
+				<td> 2083 </td>
+				<td> 11:32 </td>
+				</tr>
+				<tr>
+				<td> Abraham </td>
+				<td> 1948 </td>
+				<td> 100 </td>
+				<td> 175 </td>
+				<td> 2123 </td>
+				<td> 21: 5; 25: 7 </td>
+				</tr>
+				<tr>
+				<td> Isaac </td>
+				<td> 2048 </td>
+				<td> 60 </td>
+				<td> 180 </td>
+				<td> 2228 </td>
+				<td> 25:26; 35:28 </td>
+				</tr>
+				<tr>
+				<td> Jacob </td>
+				<td> 2108 </td>
+				<td> 147 </td>
+				<td> 2255 </td>
+				</tr>
 				</table>
 
-				<p>With Jacob, the tidy progression of fathers and sons ends. We are not told how old he was when he fled to Haran nor given his age when any of his children are born. It is possible, however, to work out when Joseph was born.</p>
-				<p>We are told Joseph was 30 when he was appointed over the land of Egypt (Genesis 41:46). There followed seven years of plenty and, in the second year of the famine, Joseph revealed himself to his brothers (Genesis 45:6), which would make him about 39. Jacob came down to Egypt when he was 130 years old (Genesis 47:9), which means that Joseph was born when Jacob was 91—that is, in 2199 AC. </p>
-				<p>As most of Jacob’s family seems to have been born during the 20 years that he was in Haran, it appears that the twins Jacob and Esau were about 70 when the deception over the birthright occurred. We assume then that Jacob was 71 when he fled to Haran. He served Laban for seven years before marrying, and Levi was the third son to be born to Leah. If we assume that Leah was pregnant once a year, then Jacob was 81 when Levi was born. If Joseph was born about 2199 AC, his older brother Levi must have been born about 2189 AC.</p>
-				<p>Next, God told Abraham that his descendants would be enslaved for 400 years or four generations (Genesis 15:13). This seems to be confirmed by the statement in Exodus 12:40, 41 that the children of Israel were in Egypt for 430 years. If Jacob went to Egypt in the year 2238 AC, that would place the Exodus in the year 2668 AC.</p>
-				<p>There is, however, a problem. As given in Exodus chapter 6, Levi, who lived 137 years, had a son called Kohath, who lived 133 years, and a daughter, Jochebed. Amram, son of Kohath, married his aunt Jochebed, and lived for 137 years. Their son was Moses. This comes to a total of 407 years, and when we add in Moses’ age of 80 at the time of the Exodus, we seem to have plenty of time to fit in the 430 year of the oppression.</p>
-				<p>The trouble is that the years don’t just add up like that. The average age of the preceding four generations when their first son was born was 75. If Levi, Kohath, and Amram were also 75 when their sons were born—and Moses was 80 at the time of the Exodus—that makes a span of 305 years for the Jewish oppression, minus Levi’s age when he went down into Egypt, which was 49. The oppression can only have lasted 256 years.</p>
-				<p>The usual solution adopted by most commentators is to conclude that the 430 years refer not to the oppression but to the time that Abraham and his descendants would have to wait until the land of Canaan belonged to them. The 430 years is the time from Abraham’s visit to Egypt until the Exodus. This works out as approximately 215 years of wandering in Canaan and 215 years of oppression in Egypt.</p>
-				<p>There is evidence that this is how the Jews understood this passage. Josephus, the 1st century AD Jewish historian, wrote, “They left Egypt in the month Xanthicus, on the fifteenth day of the lunar month; four hundred and thirty years after our forefather Abraham came into Canaan, but two hundred and fifteen years only after Jacob removed into Egypt” (Antiquities of the Jews II:xv:2). A scroll fragment from the Dead Sea (4Q559) confirms this short chronology.</p>
-				<p>Jacob went down into Egypt in the year 2238 AC and, for our purposes, we will place the Exodus 215 years later in the year 2453 AC. Again, an approximation.</p>
-				<p>Next, in 1 Kings 6:1, we are told that the fourth year of Solomon’s reign was the 480th year after the Exodus. That means a date of 2933 AC for the commencement of work on the temple.</p>
-				<p>Dr. Edwin R. Thiele, in The Mysterious Numbers of the Hebrew Kings, establishes the year 931 AC as the date when Rehoboam began to reign. Assuming he’s correct, 1 Kings 11:42 tells us that Solomon reigned for 40 years, so his reign began in the year 971 AC, which means that his fourth year must have been the year 967 BC.</p>
-				<p>Therefore, if Solomon’s fourth year, the year 967 BC, came 2933 years after creation, then we can say that this world was created in the year 3900 BC. As it should be obvious that this can only be an approximate date, it should be equally obvious that there are limits to the amount one can stretch the chronology. If we make the Jewish oppression 430 years, include maximum time between generations, and so on, the most we can add in is another thousand years or so. Certainly there is no room in the biblical figures for pushing creation back to 10,000 BC.</p>
-			</div>
+				<p> Con Jacob, termina la ordenada progresión de padres e hijos. No se nos dice cuántos años tenía cuando huyó a Harán ni su edad cuando nace alguno de sus hijos. Sin embargo, es posible hacer ejercicio cuando nació Joseph. </p>
+				<p> Se nos dice que José tenía 30 años cuando fue nombrado sobre la tierra de Egipto (Génesis 41:46). Siguieron siete años de abundancia y, en el segundo año de la hambruna, José se reveló a sus hermanos (Génesis 45: 6), lo que le daría unos 39 años. Jacob bajó a Egipto cuando tenía 130 años (Génesis 47 : 9), lo que significa que José nació cuando Jacob tenía 91 años, es decir, en 2199 AC. </p>
+				<p> Como la mayoría de la familia de Jacob parece haber nacido durante los 20 años que estuvo en Harán, parece que los gemelos Jacob y Esaú tenían unos 70 años cuando ocurrió el engaño sobre el derecho de nacimiento. Suponemos que Jacob tenía 71 años cuando huyó a Harán. Sirvió a Labán durante siete años antes de casarse, y Levi fue el tercer hijo que nació en Leah. Si suponemos que Leah estaba embarazada una vez al año, entonces Jacob tenía 81 años cuando nació Levi. Si Joseph nació alrededor de 2199 AC, su hermano mayor Levi debe haber nacido alrededor de 2189 AC. </p>
+				<p> Luego, Dios le dijo a Abraham que sus descendientes serían esclavizados por 400 años o cuatro generaciones (Génesis 15:13). Esto parece ser confirmado por la declaración en Éxodo 12:40, 41 de que los hijos de Israel estuvieron en Egipto durante 430 años. Si Jacob fue a Egipto en el año 2238 AC, eso colocaría el Éxodo en el año 2668 AC. </p>
+				<p> Sin embargo, hay un problema. Como se da en Éxodo capítulo 6, Leví, que vivió 137 años, tuvo un hijo llamado Kohat, que vivió 133 años, y una hija, Jochebed. Amram, hijo de Coat, se casó con su tía Jochebed y vivió durante 137 años. Su hijo era Moisés. Esto llega a un total de 407 años, y cuando agregamos la edad de 80 años de Moisés en el momento del Éxodo, parece que tenemos mucho tiempo para encajar en el año 430 de la opresión. </p>
+				<p> El problema es que los años no se suman así. La edad promedio de las cuatro generaciones anteriores cuando nació su primer hijo fue de 75 años. Si Levi, Kohat y Amram también tenían 75 años cuando nacieron sus hijos, y Moisés tenía 80 años en el momento del Éxodo, eso hace un lapso de 305 años para la opresión judía, menos la edad de Levi cuando bajó a Egipto, que era 49. La opresión solo pudo haber durado 256 años. </p>
+				<p> La solución habitual adoptada por la mayoría de los comentaristas es concluir que los 430 años no se refieren a la opresión sino al tiempo en que Abraham y sus descendientes tendrían que esperar hasta que la tierra de Canaán les perteneciera. Los 430 años son el tiempo desde la visita de Abraham a Egipto hasta el Éxodo. Esto se traduce en aproximadamente 215 años de vagar en Canaán y 215 años de opresión en Egipto. </p>
+				<p> Hay evidencia de que así es como los judíos entendieron este pasaje. Josefo, el historiador judío del siglo I d. C., escribió: “Salieron de Egipto en el mes de Xanthicus, el día quince del mes lunar; cuatrocientos treinta años después de que nuestro antepasado Abraham entró en Canaán, pero doscientos quince años después de que Jacob se fuera a Egipto ”(Antigüedades de los judíos II: xv: 2). Un fragmento de desplazamiento del Mar Muerto (4Q559) confirma esta breve cronología. </p>
+				<p> Jacob bajó a Egipto en el año 2238 AC y, para nuestros propósitos, colocaremos el Éxodo 215 años después en el año 2453 AC. De nuevo, una aproximación. </p>
+				<p> Luego, en 1 Reyes 6: 1, se nos dice que el cuarto año del reinado de Salomón fue el año 480 después del Éxodo. Eso significa una fecha de 2933 AC para el comienzo del trabajo en el templo. </p>
+				<p> Dr. Edwin R. Thiele, en The Mysterious Numbers of the Hebrew Kings, establece el año 931 AC como la fecha en que Roboam comenzó a reinar. Suponiendo que tiene razón, 1 Reyes 11:42 nos dice que Salomón reinó durante 40 años, por lo que su reinado comenzó en el año 971 AC, lo que significa que su cuarto año debe haber sido el año 967 AC. </p>
+				<p> Por lo tanto, si el cuarto año de Salomón, el año 967 a. C., vino 2933 años después de la creación, entonces podemos decir que este mundo fue creado en el año 3900 a. Como debería ser obvio que esto solo puede ser una fecha aproximada, debería ser igualmente obvio que hay límites en la cantidad que se puede estirar la cronología. Si hacemos que la opresión judía sea de 430 años, incluya el tiempo máximo entre generaciones, y así sucesivamente, lo máximo que podemos agregar es otros mil años más o menos. Ciertamente no hay lugar en las figuras bíblicas para empujar la creación de regreso a 10,000 AC. </p>
+				</div>
 
 
+				<div class = "faq-answer 2">
+				<p> La siguiente es una lista de fuentes utilizadas, entre otras, para crear la línea de tiempo: </p>
+					<ul>
+						<li> Comentario de Adam Clarke sobre toda la Biblia, 1826. </li>
+						<li> Bainton, Roland H. <i> Aquí estoy: Una vida de Martin Luther. </i> Nueva York: Abingdon Press, 1950. </li>
+						<li> Bokenkotter, Thomas. <i> Una historia concisa de la Iglesia católica. </i> Nueva York: Día doble, 2005. </li>
+						<li> Cannon, William R. <i> Historia del cristianismo en la Edad Media: desde la caída de Roma hasta la caída de Constantinopla. </i> Nueva York: Abingdon Press, 1960. </li>
+						<li> Mensajero, Jaques. Zwinglio: <i> Un teólogo reformado </i>. Richmond: John Knox Press, 1963. </li>
+						<li> Diccionario Bíblico de Easton, 1897. </li>
+						<li> González, Justo L. <i> La historia del cristianismo, vol. 1: La Iglesia Primitiva al amanecer de la Reforma. </i> Nueva York: HarperOne, 2010. </li>
+						<li> González, Justo L. <i> La historia del cristianismo, vol. 2: La Reforma hasta el día de hoy. </i> Nueva York: HarperOne, 2010. </li>
+						<li> Heinze, Rudolph, W. <i> Reforma y conflicto: del mundo medieval a las guerras de religión, AD 1350-1648 </i>, consultores editores John D. Woodbridge y David F. Wright, editor de la serie Tim Dowley Grand Rapids: Baker, 2005. </li>
+						<li> House, H. Wayne, <i> Cartas cronológicas y de antecedentes del Nuevo Testamento, </i> Zondervan 2009. </li>
+						<li> Kelly, J.N.D. <i> El Diccionario Oxford de Papas. Nueva York: Oxford University Press </i>, 1986. </li>
+						<li> Keith Stokes <i> Base de datos de la línea de tiempo de la Biblia </i>, <a href="#" rel="nofollow"> www.brainsanctuary.com </a> </li>
+						<li> Lane, Tony. <i> Una historia concisa del pensamiento cristiano: edición completamente revisada y expandida </i>. Grand Rapids: Baker Academic, 2006. </li>
+						<li> Lindsay, Thomas M. <i> Una historia de la reforma, vol. 2: En tierras más allá de Alemania. </i> Edimburgo: T & T Clark, 1959. </li>
+						<li> Logan, Donald F. <i> Una historia de la Iglesia en la Edad Media. </i> Oxford: Routledge, 2002. </li>
+						<li> Comentario conciso de Matthew Henry sobre la Biblia, 1706. </li>
+						<li> Precio, Ira Maurice. <i> La ascendencia de nuestra Biblia en inglés. </i> Nueva York: Harper & Row, 1956. </li>
+						<li> Schwiebert, <i> E. G. Luther y sus tiempos: la reforma desde una nueva perspectiva, Saint Louis: Concordia, 1950. </li>
+						<li> Serie de referencias de comentarios bíblicos de la SDA. Review and Herald Publishing Association: Hagerstown, Maryland, 1979. </li>
+						<li> Tenney, Merril C., <i> New Testament Times </i>, Hendrickson Publishers 2001. </li>
+						<li> Biblia de estudio de la Universidad Andrews, Andrews University Press: Berrien Springs, Michigan, 2007. </li>
+						<li> Walton, John H. <i> Cartas cronológicas y de antecedentes del Antiguo Testamento, </i> Zondervan, 1994. </li>
+					</ul>
+				</div>
+
+				<div class = "faq-answer 3">
+				<p> No. La Biblia dice que en cuanto al día y la hora del regreso de Cristo, nadie lo sabe. Ver Mateo 24:50. Además, el regreso de Cristo solo vendrá después de que ocurrieron otros cumplimientos proféticos, y tampoco sabemos cuándo sucederán. El propósito de la línea de tiempo no es predecir cuándo podrá ser exactamente eventos futuros, sino mostrar la confiabilidad de la Biblia como un registro histórico, su confiabilidad en asuntos de profecía y como una herramienta profunda para el estudio de la Biblia. </p>
+				</div>
 
 
+				<div class = "faq-answer 4">
+				<p> Las aplicaciones de Android y iPad están actualmente en desarrollo temprano. Vuelva a consultar para obtener detalles sobre las fechas de lanzamiento. </p>
+				</div>
 
 
-
-
-			<div class="faq-answer 2">
-				<p>The following is a list of sources used, among others, to create the timeline:</p>
-				<ul>
-					<li>Adam Clarke’s Commentary on the Whole Bible, 1826.</li>
-					<li>Bainton, Roland H. <i>Here I Stand: A Life of Martin Luther.</i> New York: Abingdon Press, 1950.</li>
-					<li>Bokenkotter, Thomas. <i>A Concise History of the Catholic Church.</i> New York: Double Day, 2005.</li>
-					<li>Cannon, William R. <i>History of Christianity in the Middle Ages: From the Fall of Rome to the Fall of Constantinople.</i> New York: Abingdon Press, 1960.</li>
-					<li>Courvoisier, Jaques. Zwingli: <i>A Reformed Theologian</i>. Richmond: John Knox Press, 1963.</li>
-					<li>Easton’s Bible Dictionary, 1897.</li>
-					<li>González, Justo L. <i>The Story of Christianity, Vol. 1: The Early Church to the Dawn of the Reformation.</i> New York: HarperOne, 2010.</li>
-					<li>González, Justo L. <i>The Story of Christianity, Vol. 2: The Reformation to the Present Day.</i> New York: HarperOne, 2010.</li>
-					<li>Heinze, Rudolph, W. <i>Reform and Conflict: From the Medieval World to the Wars of Religion, A.D. 1350-1648</i>, consulting editors John D. Woodbridge and David F. Wright, series editor Tim Dowley. Grand Rapids: Baker, 2005.</li>
-					<li>House, H. Wayne, <i>Chronological and Background Charts of the New Testament,</i> Zondervan 2009.</li>
-					<li>Kelly, J.N.D. <i>The Oxford Dictionary of Popes. New York: Oxford University Press</i>, 1986.</li>
-					<li>Keith Stokes <i>Bible Timeline Database</i>, <a href="www.brainsanctuary.com" rel="nofollow">www.brainsanctuary.com</a></li>
-					<li>Lane, Tony. <i>A Concise History of Christian Thought: Completely Revised and Expanded Edition</i>. Grand Rapids: Baker Academic, 2006.</li>
-					<li>Lindsay, Thomas M. <i>A History of the Reformation, Vol. 2: In Lands Beyond Germany.</i> Edinburgh: T & T Clark, 1959.</li>
-					<li>Logan, Donald F. <i>A History of the Church in the Middle Ages.</i> Oxford: Routledge, 2002.</li>
-					<li>Matthew Henry’s Concise Commentary on the Bible, 1706.</li>
-					<li>Price, Ira Maurice. <i>The Ancestry of Our English Bible.</i> New York: Harper & Row, 1956.</li>
-					<li>Schwiebert, <i>E. G. Luther and His Times: The Reformation from a New Perspective,</i> Saint Louis: Concordia, 1950.</li>
-					<li>SDA Bible Commentary Reference Series. Review and Herald Publishing Association: Hagerstown, Maryland, 1979.</li>
-					<li>Tenney, Merril C., <i>New Testament Times</i>, Hendrickson Publishers 2001.</li>
-					<li>Andrews University Study Bible, Andrews University Press: Berrien Springs, Michigan, 2007.</li>
-					<li>Walton, John H. <i>Chronological and Background Charts of the Old Testament,</i> Zondervan, 1994.</li>
-				</ul>
-			</div>
-
-
-			<div class="faq-answer 3">
-				<p>No. The Bible says that as to the day and hour of Christ’s return, no one knows. See Matthew 24:50. Moreover, the return of Christ will only come after other prophetic fulfillments occur—and we don’t know when those will happen either. The timeline’s purpose is not to predict when exactly future events will occur, but rather to show the Bible’s reliability as an historical record, its trustworthiness in matters of prophecy, and as an in-depth tool for Bible study.</p>
-			</div>
-
-
-			<div class="faq-answer 4">
-				<p>Android and iPad apps are currently in early development. Please check back for details on release dates.</p>
-			</div>
-
-
-			<div class="faq-answer 5">
-				<p>The timeline supports Firefox, Chrome, Safari, and Internet Explorer 9+.</p>
-			</div>
+				<div class = "preguntas frecuentes 5">
+				<p> La línea de tiempo es compatible con Firefox, Chrome, Safari e Internet Explorer 9+. </p>
+				</div>
 
 		</div>
 	</div>
@@ -481,7 +474,7 @@
 				<li class="home">Inicio</li>
 				<li class="zoom-out">-</li>
 				<li class="zoom-in">+</li>
-				<li class="full">Pantalla Completa</li>
+				<li class="full">Zoom</li>
 			</ul>
 			<ul class="indicator">
 				<li>1</li>
@@ -527,19 +520,19 @@
 
 
 				<!-- Era Arches -->
-				<div class="arches">
-					<div class="arch arch-1">
-						<h3>Age of Patriarchs</h3>
-						<p>The timeline begins with Adam in Eden, then on to Noah and the Flood and the birth of Israel through Abraham, Isaac, and Jacob.</p>
-					</div>
-					<div class="arch arch-2">
-						<h3>Age of 	Israel</h3>
-						<p>The history of the Jewish nation, from Moses and the Exodus to King David and the prophets Daniel and Isaiah.</p>
-					</div>
-					<div class="arch arch-3">
-						<h3>Age of Christ</h3>
-						<p>The life and death of Jesus, the apostles, the Reformation, and the final events of earth’s history.</p>
-					</div>
+				<div class = "arches">
+				<div class = "arch arch-1">
+				<h3> Edad de los patriarcas </h3>
+				<p> La línea de tiempo comienza con Adán en el Edén, luego a Noé y el diluvio y el nacimiento de Israel a través de Abraham, Isaac y Jacob. </p>
+				</div>
+				<div class = "arch arch-2">
+				<h3> Edad de Israel </h3>
+				<p> La historia de la nación judía, desde Moisés y el Éxodo hasta el rey David y los profetas Daniel e Isaías. </p>
+				</div>
+				<div class = "arch arch-3">
+				<h3> Edad de Cristo </h3>
+				<p> La vida y muerte de Jesús, los apóstoles, la Reforma y los eventos finales de la historia de la tierra. </p>
+				</div>
 				</div>
 
 
@@ -554,7 +547,7 @@
 						<div class="info">
 							<h3>Primera<br /> Generación</h3>
 							<div class="dash-line"></div>
-							<h4>From the creation of Adam and Eve, to the murder of Abel by Cain, and human history before the flood.</h4>
+							<h4> Desde la creación de Adán y Eva, hasta el asesinato de Abel por Caín, y la historia humana antes del diluvio. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-2 hover" data-id="2">
@@ -562,7 +555,7 @@
 						<div class="info">
 							<h3>Noe y<br /> El Diluvio</h3>
 							<div class="dash-line"></div>
-							<h4>From the ministry of Noah and the global deluge, to Cush, Nimrod, and the tower of Babel.</h4>
+							<h4> Desde el ministerio de Noé y el diluvio global, hasta Cush, Nimrod y la torre de Babel. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-3 hover" data-id="3">
@@ -570,7 +563,7 @@
 						<div class="info">
 							<h3>Los<br /> Patriarcas</h3>
 							<div class="dash-line"></div>
-							<h4>From the call of Abraham, to Sodom and Gomorrah, and the rise of 12 Jewish tribes through Isaac and Jacob.</h4>
+							<h4> Desde el llamado de Abraham, a Sodoma y Gomorra, y el surgimiento de 12 tribus judías a través de Isaac y Jacob. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-4 hover" data-id="4">
@@ -578,7 +571,7 @@
 						<div class="info">
 							<h3>Egipto<br /> a Canaán</h3>
 							<div class="dash-line"></div>
-							<h4>From Joseph being sold into slavery, his rise to power in Egypt, and to Moses and the Exodus.</h4>
+							<h4> Desde que José fue vendido como esclavo, su ascenso al poder en Egipto, y a Moisés y el Éxodo. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-5 hover" data-id="5">
@@ -586,7 +579,7 @@
 						<div class="info">
 							<h3>Los<br /> Jueces</h3>
 							<div class="dash-line"></div>
-							<h4>From Moses and the Ten Commandments to Joshua’s entrance and Jewish expansion into the Promised Land.</h4>
+							<h4> Desde Moisés y los Diez Mandamientos hasta la entrada de Josué y la expansión judía en la Tierra Prometida. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-6 hover" data-id="6">
@@ -594,7 +587,7 @@
 						<div class="info">
 							<h3>Reino<br /> Unido</h3>
 							<div class="dash-line"></div>
-							<h4>From King Saul to the prophet Samuel and young King David and his royal dynasty through Solomon.</h4>
+							<h4> Del rey Saúl al profeta Samuel y al joven rey David y su dinastía real a través de Salomón. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-7 hover" data-id="7">
@@ -602,7 +595,7 @@
 						<div class="info">
 							<h3>Reino<br /> Divido</h3>
 							<div class="dash-line"></div>
-							<h4>From the internal strife that divided the nation of Israel to the prophets who warned of the coming exile.</h4>
+							<h4> Desde la lucha interna que dividió a la nación de Israel hasta los profetas que advirtieron sobre el próximo exilio. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-8 hover" data-id="8">
@@ -610,7 +603,7 @@
 						<div class="info">
 							<h3>El<br /> Exilio</h3>
 							<div class="dash-line"></div>
-							<h4>From Israel’s fall to exile in Babylon and the major prophets declaring the coming Messiah.</h4>
+							<h4> De la caída de Israel al exilio en Babilonia y los principales profetas que declararon el Mesías venidero. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-9 hover" data-id="9">
@@ -618,7 +611,7 @@
 						<div class="info">
 							<h3>Vida de<br /> Cristo</h3>
 							<div class="dash-line"></div>
-							<h4>From the birth of the promised Messiah, Jesus the Christ, to His ministry and death and resurrection.</h4>
+							<h4> Desde el nacimiento del Mesías prometido, Jesús el Cristo, hasta su ministerio y muerte y resurrección. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-10 hover" data-id="10">
@@ -626,7 +619,7 @@
 						<div class="info">
 							<h3>Iglesia<br /> Primitiva</h3>
 							<div class="dash-line"></div>
-							<h4>From the martyrdom of Stephen to the persecution and rise of the church through Paul and the apostles.</h4>
+							<h4> Desde el martirio de Esteban hasta la persecución y el surgimiento de la iglesia a través de Pablo y los apóstoles. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-11 hover" data-id="11">
@@ -634,7 +627,7 @@
 						<div class="info">
 							<h3>Seguno<br /> Tunel</h3>
 							<div class="dash-line"></div>
-							<h4>From the legalization of Christianity under Constantine to the persecution of the Dark Ages.</h4>
+							<h4> Desde la legalización del cristianismo bajo Constantino hasta la persecución de la Edad Media. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-12 hover" data-id="12">
@@ -642,7 +635,7 @@
 						<div class="info">
 							<h3>La<br /> Reforma</h3>
 							<div class="dash-line"></div>
-							<h4>From the great reformers, such as Luther and Wycliffe, to the expansion of the Protestant movement.</h4>
+							<h4> Desde los grandes reformadores, como Luther y Wycliffe, hasta la expansión del movimiento protestante. </h4>
 						</div>
 					</div>
 					<div class="landing-period landing-period-13 hover" data-id="13">
@@ -650,7 +643,7 @@
 						<div class="info">
 							<h3>Apocalipsis<br /> </h3>
 							<div class="dash-line"></div>
-							<h4>From the rise of the antichrist, the mark of the beast, to the return of Christ and paradise restored.</h4>
+							<h4> Desde el surgimiento del anticristo, la marca de la bestia, hasta el regreso de Cristo y el paraíso restaurado. </h4>
 						</div>
 					</div>
 				</div>
@@ -803,79 +796,79 @@
 		<div class="sidebar">
 			<div class="sidebars"  id="sidebars">
 				<div class="period-1">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>PRIMERA GENERACIÓN</h2>
 					<h4>Creación&ndash;c.2500 <span>AC</span></h4>
 					<p>From the creation of Adam and Eve, to the murder of Abel by Cain, and human history before the flood.</p>
 				</div>
 				<div class="period-2">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>NOE Y EL DILUVIO</h2>
 					<h4>c.2500&ndash;c.2166 <span>AC</span></h4>
 					<p>From the ministry of Noah and the global deluge, to Cush, Nimrod, and the tower of Babel.</p>
 				</div>
 				<div class="period-3">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>LOS PATRIARCAS</h2>
 					<h4>c.2166&ndash;c.1660 <span>AC</span></h4>
 					<p>From the call of Abraham, to Sodom and Gomorrah, and the rise of the 12 Jewish tribes through Isaac and Jacob.</p>
 				</div>
 				<div class="period-4">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>EGIPTO A CANAÁN</h2>
 					<h4>c.1660&ndash;c.1445 <span>AC</span></h4>
 					<p>From Joseph being sold into slavery, his rise to power in Egypt, and to Moses and the Exodus.</p>
 				</div>
 				<div class="period-5">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>LOS JUECES</h2>
 					<h4>c.1445&ndash;c.1050 <span>AC</span></h4>
 					<p>From Moses and the Ten Commandments to Joshua's entrance and Jewish expansion into the Promised Land.</p>
 				</div>
 				<div class="period-6">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>REINO UNIDO</h2>
 					<h4>c.1050&ndash;c.930 <span>AC</span></h4>
 					<p>From King Saul to the prophet Samuel and young King David and his royal dynasty through Solomon.</p>
 				</div>
 				<div class="period-7">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>REINO DIVIDIDO</h2>
 					<h4>c.930&ndash;c.586 <span>AC</span></h4>
 					<p>From the internal strife that divided the nation of Israel to the prophets who warned of the coming exile.</p>
 				</div>
 				<div class="period-8">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>EL EXILIO</h2>
 					<h4>c.585&ndash;c.457 <span>AC</span></h4>
 					<p>From Israel's fall to exile in Babylon and the major prophets declaring the coming Messiah.</p>
 				</div>
 				<div class="period-9">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>VIDA SEÑOR JESUCRISTO</h2>
 					<h4>c.4 <span>AC</span>&ndash;c.34 <span>DC</span></h4>
 					<p>From the birth of the promised Messiah, Jesus the Christ, to His ministry and death and resurrection.</p>
 				</div>
 				<div class="period-10">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>Iglesia Primitiva</h2>
 					<h4>c.34&ndash;c.330 <span>DC</span></h4>
 					<p>From the martyrdom of Stephen to the persecution and rise of the church through Paul and the apostles.</p>
 				</div>
 				<div class="period-11">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>Segundo Tunel</h2>
 					<h4>c.450&ndash;c.1517 <span>DC</span></h4>
 					<p>From the legalization of Christianity under Constantine to the persecution of the Dark Ages..</p>
 				</div>
 				<div class="period-12">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>La Reforma</h2>
 					<h4>c.1517&ndash;c.1840 <span>DC</span></h4>
 					<p>From the great reformers, such as Luther and Wycliffe, to the expansion of the Protestant movement.</p>
 				</div>
 				<div class="period-13">
-					<h3>La era de</h3>
+					<h3>La dispensación</h3>
 					<h2>Apocalipsis</h2>
 					<h4>Creación&ndash;Presente</h4>
 					<p>From the rise of the antichrist, the mark of the beast, to the return of Christ and paradise restored.</p>
