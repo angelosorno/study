@@ -805,7 +805,7 @@
 				<div class="period-1">
 					<h3>La era de</h3>
 					<h2>PRIMERA GENERACIÓN</h2>
-					<h4>Creation&ndash;c.2500 <span>AC</span></h4>
+					<h4>Creación&ndash;c.2500 <span>AC</span></h4>
 					<p>From the creation of Adam and Eve, to the murder of Abel by Cain, and human history before the flood.</p>
 				</div>
 				<div class="period-2">
@@ -877,7 +877,7 @@
 				<div class="period-13">
 					<h3>La era de</h3>
 					<h2>Apocalipsis</h2>
-					<h4>Creation&ndash;Present</h4>
+					<h4>Creación&ndash;Presente</h4>
 					<p>From the rise of the antichrist, the mark of the beast, to the return of Christ and paradise restored.</p>
 				</div>
 			</div>
