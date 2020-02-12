@@ -51,12 +51,12 @@
 				<h4>Preguntas Frecuentes</h4>
 				<div class="list">
 					<ul>
-						<li data-id="0">What is the Bible Prophecy Timeline?</li>
-						<li data-id="1">How did you determine dates—particularly the time of creation?</li>
-						<li data-id="2">What are you primary sources for the timeline?</li>
-						<li data-id="3">Are you predicting when Christ will return?</li>
-						<li data-id="4">Can I view the timeline on an iPad or other tablet?</li>
-						<li data-id="5">What browsers support this timeline?</li>
+					<li data-id = "0"> ¿Cuál es la línea de tiempo? </li>
+					<li data-id = "1"> ¿Cómo determinó las fechas, particularmente el momento de la creación? </li>
+					<li data-id = "2"> ¿Cuáles son sus fuentes principales para la línea de tiempo? </li>
+					<li data-id = "3"> ¿Está prediciendo cuándo volverá Cristo? </li>
+					<li data-id = "4"> ¿Puedo ver la línea de tiempo en un iPad u otra tableta? </li>
+					<li data-id = "5"> ¿Qué navegadores admiten esta línea de tiempo? </li>
 					</ul>
 				</div>
 			</div>
@@ -117,16 +117,16 @@
 					<input type="password" name="password" placeholder="Password" tabindex="2" required="required" />
 					<input type="hidden" name="type" value="signin" />
 					<input type="submit" value="Sign In" />
-					<p><a href="http://www.biblehistory.com/accounts/recover_password.php" target="_blank">Olvide la clave</a></p>
+					<p><a href="/accounts/recover_password.php" target="_blank">Olvide la clave</a></p>
 					<span class="email">Correo incorrecto</span>
 					<span class="password">Clave incorrecta</span>
 				</form>
 
-				<p><strong>Crear una cuenta</strong></p>
-				<p>When you create an account on biblehistory.com, you’ll be able to tag your favorite person and event entries and go straight to them whenever you like from wherever you like. This is a great tool for Bible students and for Bible studies with friends and family.</p>
-				<p>How? Just click the “Add to Favorites” Button—it’s that simple. Then, from the homepage, click the flag in the main menu to see your favorites.</p>
-				<p>Sign up today! Oh, and we promise never to give or sell your name or email to others..</p>
-				<p><a href="http://www.biblehistory.com/accounts/create.php" target="_blank">Crear cuenta ahora</a></p>
+				<p> <strong> Crear una cuenta </strong> </p>
+				<p> Cuando crea una cuenta en biblehistory.com, podrá etiquetar a su persona favorita y entradas de eventos e ir directamente a ellas cuando lo desee desde donde quiera. Esta es una gran herramienta para estudiantes de la Biblia y para estudios bíblicos con amigos y familiares. </p>
+				<p> ¿Cómo? Simplemente haga clic en el botón "Agregar a favoritos", así de simple. Luego, desde la página de inicio, haga clic en la bandera en el menú principal para ver sus favoritos. </p>
+				<p> ¡Regístrate hoy! Ah, y prometemos nunca dar o vender su nombre o correo electrónico a otros. </p>
+				<p> <a href="/accounts/create.php" target="_blank"> Crear cuenta ahora </a> </p>
 			</div>
 		</div>
 	</div>
@@ -145,187 +145,187 @@
 				<a href="#" class="close">Cerrar</a>
 			</div>
 			<div class="faq-answer 0">
-				<p>With more than 850 interconnected entries, the Bible Prophecy Timeline is a comprehensive study tool that allows you to explore every character and major event of the Bible, from the creation of the world to last-day prophecies. Each entry in the Timeline contains a brief but insightful article with interesting facts about the person or event, plus artwork and full Scripture references and passages to help you find it in the Bible.</p>
-				<p>Where possible, entries also include links to related characters and events and a video presentation to help deepen your understanding of their place in Bible history.</p>
-				<p>The Timeline is divided into three major sections:</p>
+				<p>Con más de 850 entradas interconectadas, esta línea de tiempo es una herramienta de estudio integral que le permite explorar todos los personajes y eventos principales de la Biblia, desde la creación del mundo hasta las profecías de los últimos días. Cada entrada en la línea de tiempo contiene un artículo breve pero perspicaz con datos interesantes sobre la persona o el evento, además de obras de arte y referencias y pasajes completos de las Escrituras para ayudarlo a encontrarlo en la Biblia.</p>
+				<p>Donde sea posible, las entradas también incluyen enlaces a personajes y eventos relacionados y una presentación en video para ayudar a profundizar su comprensión de su lugar en la historia de la Biblia.</p>
+				<p>La línea de tiempo se divide en tres secciones principales:</p>
 				<ul>
 					<li>
-						<strong>Age of Patriarchs—Creation to c. 1660 BC</strong><br />
-						<p>The timeline begins with Adam in Eden, then on to Noah and the Flood and the birth of Israel through Abraham, Isaac, and Jacob.</p>
+						<strong>Dispensación—Creación a c. 1660 AC</strong><br />
+						<p>La línea de tiempo comienza con Adán en el Edén, luego a Noé y el diluvio y el nacimiento de Israel a través de Abraham, Isaac y Jacob.</p>
 					</li>
 					<li>
-						<strong>Age of Israel—c. 1660 BC to c. 457 BC</strong><br />
-						<p>Covers the history of the Jewish nation, from Moses and the Exodus to King David and the prophets Daniel and Isaiah.</p>
+						<strong>Dispensación de—c. 1660 AC to c. 457 AC</strong><br />
+						<p>Cubre la historia de la nación judía, desde Moisés y el Éxodo hasta el rey David y los profetas Daniel e Isaías.</p>
 					</li>
 					<li>
-						<strong>Age of Christ—c. 4 BC to AD 1840</strong>
-						<p>Covers the life, death, and resurrection of Jesus; the apostles; the Reformation; and the final events of earth’s history.</p>
+						<strong>Dispensación de—c. 4 AC a DC 1840</strong>
+						<p>Cubre la vida, muerte y resurrección de nuestro Señor Jesucristo; los apóstoles, La reformación; y la IDMJI y la Hna. María Luisa Piraquive.</p>
 					</li>
 				</ul>
 				<p>Each of these sections are further divided into more specific time periods for ease of study.</p>
 			</div>
 
 			<div class="faq-answer 1">
-				<p>We believe the Bible is the inspired Word of God, thus our primary source for dating events and people in the Bible Prophecy Timeline are the Bible’s genealogies and event-to-event comparisons found in other traditionally accepted non-biblical sources, such as ancient historical records by Josephus and modern-day scholarship by professional theologians and educators. For this chronology, we relied on the Masoretic text, on which English Bibles are based.</p>
-				<p>While we believe the Bible Prophecy Timeline provides the most accurate dating available, many dates are still subject to interpretation and some educated guesswork due to a few vague areas in Bible history. As with anyone’s family tree, the farther back you go the fuzzier things can become.</p>
-				<p>The following is a brief summary of our calculated date of creation, beginning with the chronology found in Genesis chapter five:</p>
-				<table>
-					<tr>
-						<th>Name</th>
-						<th>Birth (AC)</th>
-						<th>Age when son born</th>
-						<th>Length of life</th>
-						<th>Death  (AC)</th>
-					</tr>
-					<tr>
-						<td>Adam</td>
-						<td>0</td>
-						<td>130</td>
-						<td>930</td>
-						<td>930</td>
-					</tr>
-					<tr>
-						<td>Seth</td>
-						<td>130</td>
-						<td>105</td>
-						<td>912</td>
-						<td>1042</td>
-					</tr>
-					<tr>
-						<td>Enosh</td>
-						<td>235</td>
-						<td>90</td>
-						<td>905</td>
-						<td>1140</td>
-					</tr>
-					<tr>
-						<td>Kenan</td>
-						<td>325</td>
-						<td>70</td>
-						<td>910</td>
-						<td>1235</td>
-					</tr>
-					<tr>
-						<td>Mahalalel</td>
-						<td>395</td>
-						<td>65</td>
-						<td>895</td>
-						<td>1290</td>
-					</tr>
-					<tr>
-						<td>Jared</td>
-						<td>460</td>
-						<td>162</td>
-						<td>962</td>
-						<td>1422</td>
-					</tr>
-					<tr>
-						<td>Enoch</td>
-						<td>622</td>
-						<td>65</td>
-						<td>365</td>
-						<td>987*</td>
-					</tr>
-					<tr>
-						<td>Methuselah</td>
-						<td>687</td>
-						<td>187</td>
-						<td>969</td>
-						<td>1656</td>
-					</tr>
-					<tr>
-						<td>Lamech</td>
-						<td>874</td>
-						<td>182</td>
-						<td>777</td>
-						<td>1651</td>
-					</tr>
-					<tr>
-						<td>Noah</td>
-						<td colspan="2">1056</td>
-						<td colspan="2">500</td>
-					</tr>
+			<p> Creemos que la Biblia es la Palabra de Dios inspirada, por lo tanto, nuestra fuente principal de citas y personas en la línea de tiempo de la profecía bíblica son las genealogías de la Biblia y las comparaciones de evento a evento que se encuentran en otras fuentes no bíblicas tradicionalmente aceptadas, como como registros históricos antiguos de Josephus y estudios modernos de teólogos y educadores profesionales. Para esta cronología, confiamos en el texto masorético, en el que se basan las Biblias en inglés. </p>
+			<p> Si bien creemos que la Línea de tiempo de la profecía bíblica proporciona la datación más precisa disponible, muchas fechas aún están sujetas a interpretación y algunas conjeturas educadas debido a algunas áreas vagas en la historia bíblica. Al igual que con el árbol genealógico de cualquier persona, cuanto más retrocedas, más confusas pueden volverse las cosas. </p>
+			<p> El siguiente es un breve resumen de nuestra fecha calculada de creación, comenzando con la cronología encontrada en Génesis capítulo cinco: </p>
+			<table>
+				<tr>
+				<th> Nombre </th>
+				<th> Nacimiento (AC) </th>
+				<th> Edad cuando nació el hijo </th>
+				<th> Duración de la vida </th>
+				<th> Muerte (AC) </th>
+				</tr>
+				<tr>
+				<td> Adam </td>
+				<td> 0 </td>
+				<td> 130 </td>
+				<td> 930 </td>
+				<td> 930 </td>
+				</tr>
+				<tr>
+				<td> Seth </td>
+				<td> 130 </td>
+				<td> 105 </td>
+				<td> 912 </td>
+				<td> 1042 </td>
+				</tr>
+				<tr>
+				<td> Enosh </td>
+				<td> 235 </td>
+				<td> 90 </td>
+				<td> 905 </td>
+				<td> 1140 </td>
+				</tr>
+				<tr>
+				<td> Kenan </td>
+				<td> 325 </td>
+				<td> 70 </td>
+				<td> 910 </td>
+				<td> 1235 </td>
+				</tr>
+				<tr>
+				<td> Mahalalel </td>
+				<td> 395 </td>
+				<td> 65 </td>
+				<td> 895 </td>
+				<td> 1290 </td>
+				</tr>
+				<tr>
+				<td> Jared </td>
+				<td> 460 </td>
+				<td> 162 </td>
+				<td> 962 </td>
+				<td> 1422 </td>
+				</tr>
+				<tr>
+				<td> Enoch </td>
+				<td> 622 </td>
+				<td> 65 </td>
+				<td> 365 </td>
+				<td> 987 * </td>
+				</tr>
+				<tr>
+				<td> Matusalén </td>
+				<td> 687 </td>
+				<td> 187 </td>
+				<td> 969 </td>
+				<td> 1656 </td>
+				</tr>
+				<tr>
+				<td> Lamech </td>
+				<td> 874 </td>
+				<td> 182 </td>
+				<td> 777 </td>
+				<td> 1651 </td>
+				</tr>
+				<tr>
+				<td> Noah </td>
+				<td colspan = "2"> 1056 </td>
+				<td colspan = "2"> 500 </td>
+				</tr>
 				</table>
 
-				<p>Timespans in the Bible are typically recorded in terms of people’s ages, events, and king’s reigns. Presuming that Adam was created in year 0, we’ll assume that his son Seth was born in the year 130 After Creation—or 130 AC.</p>
-				<p>(This presumption makes it reckless to be dogmatic as to the exact year of creation. Additionally, because we are not told the month and day of each birth in the Bible, there is the potential for an error of up to 364 days in these calculations every time a new birth is mentioned.)</p>
-				<p>Genesis chapter 5 ends with the statement that “after Noah was 500 years old he became the father of Shem, Ham, and Japheth.” Genesis 9:24 tells us that Ham was Noah’s youngest son. Genesis 11:10 tells us that Shem was 100 years old two years after the Flood, which means he must have been born when Noah was 502. We conclude that Japheth was the son born when Noah was 500 years old, Shem two years later, and Ham an unspecified period after that.</p>
+				<p> Los períodos de tiempo en la Biblia generalmente se registran en términos de edades, eventos y reinados del rey. Suponiendo que Adam fue creado en el año 0, asumiremos que su hijo Seth nació en el año 130 después de la creación, o 130 AC. </p>
+				<p> (Esta presunción hace que sea imprudente ser dogmático en cuanto al año exacto de la creación. Además, debido a que no se nos dice el mes y el día de cada nacimiento en la Biblia, existe la posibilidad de un error de hasta 364 días en estos cálculos cada vez que se menciona un nuevo nacimiento.) </p>
+				<p> Génesis capítulo 5 termina con la declaración de que "después de que Noé tenía 500 años, se convirtió en el padre de Sem, Ham y Jafet". Génesis 9:24 nos dice que Ham era el hijo menor de Noé. Génesis 11:10 nos dice que Shem tenía 100 años dos años después del Diluvio, lo que significa que debe haber nacido cuando Noah tenía 502. Concluimos que Japheth era el hijo que nació cuando Noah tenía 500 años, Shem dos años después, y Ham un período no especificado después de eso. </p>
 				<table>
-					<tr>
-						<th>Name</th>
-						<th>Birth (AC)</th>
-						<th>Age when son born</th>
-						<th>Length of life</th>
-						<th>Death  (AC)</th>
-					</tr>
-					<tr>
-						<td>Noah</td>
-						<td>1056</td>
-						<td>502</td>
-						<td>950</td>
-						<td>2006</td>
-					</tr>
-					<tr>
-						<td>Shem</td>
-						<td>1558</td>
-						<td>100</td>
-						<td>600</td>
-						<td>2158</td>
-					</tr>
-					<tr>
-						<td>Arphaxad</td>
-						<td>1658</td>
-						<td>35</td>
-						<td>438</td>
-						<td>2096</td>
-					</tr>
-					<tr>
-						<td>Shelah</td>
-						<td>1693</td>
-						<td>30</td>
-						<td>433</td>
-						<td>2126</td>
-					</tr>
-					<tr>
-						<td>Eber</td>
-						<td>1723</td>
-						<td>34</td>
-						<td>464</td>
-						<td>2187</td>
-					</tr>
-					<tr>
-						<td>Peleg</td>
-						<td>1757</td>
-						<td>30</td>
-						<td>239</td>
-						<td>1996</td>
-					</tr>
-					<tr>
-						<td>Reu</td>
-						<td>1787</td>
-						<td>32</td>
-						<td>239</td>
-						<td>2026</td>
-					</tr>
-					<tr>
-						<td>Serug</td>
-						<td>1819</td>
-						<td>30</td>
-						<td>230</td>
-						<td>2049</td>
-					</tr>
-					<tr>
-						<td>Nahor</td>
-						<td>1849</td>
-						<td>29</td>
-						<td>148</td>
-						<td>1997</td>
-					</tr>
-					<tr>
-						<td>Terah</td>
-						<td colspan="2">1878</td>
-						<td colspan="2">70</td>
-					</tr>
+				<tr>
+				<th> Nombre </th>
+				<th> Nacimiento (AC) </th>
+				<th> Edad cuando nació el hijo </th>
+				<th> Duración de la vida </th>
+				<th> Muerte (AC) </th>
+				</tr>
+				<tr>
+				<td> Noah </td>
+				<td> 1056 </td>
+				<td> 502 </td>
+				<td> 950 </td>
+				<td> 2006 </td>
+				</tr>
+				<tr>
+				<td> Shem </td>
+				<td> 1558 </td>
+				<td> 100 </td>
+				<td> 600 </td>
+				<td> 2158 </td>
+				</tr>
+				<tr>
+				<td> Arphaxad </td>
+				<td> 1658 </td>
+				<td> 35 </td>
+				<td> 438 </td>
+				<td> 2096 </td>
+				</tr>
+				<tr>
+				<td> Shelah </td>
+				<td> 1693 </td>
+				<td> 30 </td>
+				<td> 433 </td>
+				<td> 2126 </td>
+				</tr>
+				<tr>
+				<td> Eber </td>
+				<td> 1723 </td>
+				<td> 34 </td>
+				<td> 464 </td>
+				<td> 2187 </td>
+				</tr>
+				<tr>
+				<td> Peleg </td>
+				<td> 1757 </td>
+				<td> 30 </td>
+				<td> 239 </td>
+				<td> 1996 </td>
+				</tr>
+				<tr>
+				<td> Reu </td>
+				<td> 1787 </td>
+				<td> 32 </td>
+				<td> 239 </td>
+				<td> 2026 </td>
+				</tr>
+				<tr>
+				<td> Serug </td>
+				<td> 1819 </td>
+				<td> 30 </td>
+				<td> 230 </td>
+				<td> 2049 </td>
+				</tr>
+				<tr>
+				<td> Nahor </td>
+				<td> 1849 </td>
+				<td> 29 </td>
+				<td> 148 </td>
+				<td> 1997 </td>
+				</tr>
+				<tr>
+				<td> Taré </td>
+				<td colspan = "2"> 1878 </td>
+				<td colspan = "2"> 70 </td>
+				</tr>
 				</table>
 
 				<p>The next point of interest is the date of Shem’s death. With the exception of Eber, none of Shem’s descendants outlived him. Now let us consider the Hebrew patriarchs …</p>
@@ -380,7 +380,7 @@
 				<p>There is evidence that this is how the Jews understood this passage. Josephus, the 1st century AD Jewish historian, wrote, “They left Egypt in the month Xanthicus, on the fifteenth day of the lunar month; four hundred and thirty years after our forefather Abraham came into Canaan, but two hundred and fifteen years only after Jacob removed into Egypt” (Antiquities of the Jews II:xv:2). A scroll fragment from the Dead Sea (4Q559) confirms this short chronology.</p>
 				<p>Jacob went down into Egypt in the year 2238 AC and, for our purposes, we will place the Exodus 215 years later in the year 2453 AC. Again, an approximation.</p>
 				<p>Next, in 1 Kings 6:1, we are told that the fourth year of Solomon’s reign was the 480th year after the Exodus. That means a date of 2933 AC for the commencement of work on the temple.</p>
-				<p>Dr. Edwin R. Thiele, in The Mysterious Numbers of the Hebrew Kings, establishes the year 931 BC as the date when Rehoboam began to reign. Assuming he’s correct, 1 Kings 11:42 tells us that Solomon reigned for 40 years, so his reign began in the year 971 BC, which means that his fourth year must have been the year 967 BC.</p>
+				<p>Dr. Edwin R. Thiele, in The Mysterious Numbers of the Hebrew Kings, establishes the year 931 AC as the date when Rehoboam began to reign. Assuming he’s correct, 1 Kings 11:42 tells us that Solomon reigned for 40 years, so his reign began in the year 971 AC, which means that his fourth year must have been the year 967 BC.</p>
 				<p>Therefore, if Solomon’s fourth year, the year 967 BC, came 2933 years after creation, then we can say that this world was created in the year 3900 BC. As it should be obvious that this can only be an approximate date, it should be equally obvious that there are limits to the amount one can stretch the chronology. If we make the Jewish oppression 430 years, include maximum time between generations, and so on, the most we can add in is another thousand years or so. Certainly there is no room in the biblical figures for pushing creation back to 10,000 BC.</p>
 			</div>
 
@@ -805,7 +805,7 @@
 				<div class="period-1">
 					<h3>La era de</h3>
 					<h2>PRIMERA GENERACIÓN</h2>
-					<h4>Creation&ndash;c.2500 <span>AC</span></h4>
+					<h4>Creación&ndash;c.2500 <span>AC</span></h4>
 					<p>From the creation of Adam and Eve, to the murder of Abel by Cain, and human history before the flood.</p>
 				</div>
 				<div class="period-2">
@@ -877,7 +877,7 @@
 				<div class="period-13">
 					<h3>La era de</h3>
 					<h2>Apocalipsis</h2>
-					<h4>Creation&ndash;Present</h4>
+					<h4>Creación&ndash;Presente</h4>
 					<p>From the rise of the antichrist, the mark of the beast, to the return of Christ and paradise restored.</p>
 				</div>
 			</div>

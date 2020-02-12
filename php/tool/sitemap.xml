@@ -2,3296 +2,3296 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
 	<url> 
-		<loc>http://www.biblehistory.com/</loc> 
+		<loc>/</loc> 
 		<priority>1.0</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/home</loc> 
+		<loc>/home</loc> 
 		<priority>0.9</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/first-generation</loc> 
+		<loc>/period/first-generation</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/noah-and-the-flood</loc> 
+		<loc>/period/noah-and-the-flood</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/the-patriarchs</loc> 
+		<loc>/period/the-patriarchs</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/egypt-to-canaan</loc> 
+		<loc>/period/egypt-to-canaan</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/the-judges</loc> 
+		<loc>/period/the-judges</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/united-kingdom</loc> 
+		<loc>/period/united-kingdom</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/divided-kingdom</loc> 
+		<loc>/period/divided-kingdom</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/the-exile</loc> 
+		<loc>/period/the-exile</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/life-of-christ</loc> 
+		<loc>/period/life-of-christ</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/early-church</loc> 
+		<loc>/period/early-church</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/middle-ages</loc> 
+		<loc>/period/middle-ages</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/reformation</loc> 
+		<loc>/period/reformation</loc> 
 		<priority>0.8</priority>
 	</url>
 	<url> 
-		<loc>http://www.biblehistory.com/period/revelation-prophecies</loc> 
+		<loc>/period/revelation-prophecies</loc> 
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
-		<loc>http://www.biblehistory.com/event/adam</loc>
+		<loc>/event/adam</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cain</loc>
+		<loc>/event/cain</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/abel</loc>
+		<loc>/event/abel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cain-marked</loc>
+		<loc>/event/cain-marked</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/seth</loc>
+		<loc>/event/seth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/enos</loc>
+		<loc>/event/enos</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cainan</loc>
+		<loc>/event/cainan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/mahalaleel</loc>
+		<loc>/event/mahalaleel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jared</loc>
+		<loc>/event/jared</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/enoch</loc>
+		<loc>/event/enoch</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/methuselah</loc>
+		<loc>/event/methuselah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/enochs-prophetic-ministry</loc>
+		<loc>/event/enochs-prophetic-ministry</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/lamech</loc>
+		<loc>/event/lamech</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/noah</loc>
+		<loc>/event/noah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/noahs-preaching</loc>
+		<loc>/event/noahs-preaching</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/japheth</loc>
+		<loc>/event/japheth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ham</loc>
+		<loc>/event/ham</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/shem</loc>
+		<loc>/event/shem</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/flood</loc>
+		<loc>/event/flood</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hams-sin-and-curse</loc>
+		<loc>/event/hams-sin-and-curse</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/arphaxad</loc>
+		<loc>/event/arphaxad</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cush</loc>
+		<loc>/event/cush</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/migration-to-plain-of-shinar</loc>
+		<loc>/event/migration-to-plain-of-shinar</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nimrod</loc>
+		<loc>/event/nimrod</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/salah</loc>
+		<loc>/event/salah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/eber</loc>
+		<loc>/event/eber</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nimrod-founded-babylon</loc>
+		<loc>/event/nimrod-founded-babylon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/peleg</loc>
+		<loc>/event/peleg</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/tower-of-babel-division-of-earth</loc>
+		<loc>/event/tower-of-babel-division-of-earth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nimrod-founded-nineveh</loc>
+		<loc>/event/nimrod-founded-nineveh</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/job</loc>
+		<loc>/event/job</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/reu</loc>
+		<loc>/event/reu</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/serug</loc>
+		<loc>/event/serug</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nahor</loc>
+		<loc>/event/nahor</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/terah</loc>
+		<loc>/event/terah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/haran</loc>
+		<loc>/event/haran</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/abraham</loc>
+		<loc>/event/abraham</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sarah</loc>
+		<loc>/event/sarah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/lot</loc>
+		<loc>/event/lot</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/marriage-of-abraham-and-sarah</loc>
+		<loc>/event/marriage-of-abraham-and-sarah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/marriage-of-nahor-and-milcah</loc>
+		<loc>/event/marriage-of-nahor-and-milcah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/terah-leaves-ur-for-city-of-haran</loc>
+		<loc>/event/terah-leaves-ur-for-city-of-haran</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/abram-called-and-departs-haran</loc>
+		<loc>/event/abram-called-and-departs-haran</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/famine-in-the-land</loc>
+		<loc>/event/famine-in-the-land</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sarah-and-egyptian-king</loc>
+		<loc>/event/sarah-and-egyptian-king</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/400-years-begins</loc>
+		<loc>/event/400-years-begins</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/lot-moves-to-sodom</loc>
+		<loc>/event/lot-moves-to-sodom</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/abram-delivers-sodom-from-four-kings</loc>
+		<loc>/event/abram-delivers-sodom-from-four-kings</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/abram-blessed-by-melchizedek</loc>
+		<loc>/event/abram-blessed-by-melchizedek</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/gods-covenant-with-abram-smoking-furnace</loc>
+		<loc>/event/gods-covenant-with-abram-smoking-furnace</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ishmael-conceived</loc>
+		<loc>/event/ishmael-conceived</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/laban</loc>
+		<loc>/event/laban</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ishmael</loc>
+		<loc>/event/ishmael</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/abram-becomes-abraham-covenant-of-circumcision</loc>
+		<loc>/event/abram-becomes-abraham-covenant-of-circumcision</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/isaac</loc>
+		<loc>/event/isaac</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/lot-and-daughters-dwell-in-a-cave</loc>
+		<loc>/event/lot-and-daughters-dwell-in-a-cave</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sodom-destroyed</loc>
+		<loc>/event/sodom-destroyed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ishmael-mocks-isaac</loc>
+		<loc>/event/ishmael-mocks-isaac</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/abrahams-call-to-sacrifice-isaac</loc>
+		<loc>/event/abrahams-call-to-sacrifice-isaac</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/rebekah</loc>
+		<loc>/event/rebekah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/isaac-rebekah-married</loc>
+		<loc>/event/isaac-rebekah-married</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jacob</loc>
+		<loc>/event/jacob</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/esau</loc>
+		<loc>/event/esau</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/esau-sells-birthright-to-jacob</loc>
+		<loc>/event/esau-sells-birthright-to-jacob</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/famine-in-the-land-isaac</loc>
+		<loc>/event/famine-in-the-land-isaac</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/esau-marries-two-wives</loc>
+		<loc>/event/esau-marries-two-wives</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/leah</loc>
+		<loc>/event/leah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/rachel</loc>
+		<loc>/event/rachel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/zilpah</loc>
+		<loc>/event/zilpah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/bilhah</loc>
+		<loc>/event/bilhah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jacob-fled-canaan-jacobs-ladder</loc>
+		<loc>/event/jacob-fled-canaan-jacobs-ladder</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/esau-marries-third-wife</loc>
+		<loc>/event/esau-marries-third-wife</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jacob-finishes-first-7-years-for-laban</loc>
+		<loc>/event/jacob-finishes-first-7-years-for-laban</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jacob-marries-leah-and-rachel</loc>
+		<loc>/event/jacob-marries-leah-and-rachel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/reuben</loc>
+		<loc>/event/reuben</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/simeon</loc>
+		<loc>/event/simeon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/levi</loc>
+		<loc>/event/levi</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/dan</loc>
+		<loc>/event/dan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/gad</loc>
+		<loc>/event/gad</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/judah</loc>
+		<loc>/event/judah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/naphtali</loc>
+		<loc>/event/naphtali</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/asher</loc>
+		<loc>/event/asher</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/issachar</loc>
+		<loc>/event/issachar</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/zebulun</loc>
+		<loc>/event/zebulun</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jacob-finishes-next-7-years-for-laban</loc>
+		<loc>/event/jacob-finishes-next-7-years-for-laban</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/dinah</loc>
+		<loc>/event/dinah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joseph</loc>
+		<loc>/event/joseph</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jacob-leaves-haran</loc>
+		<loc>/event/jacob-leaves-haran</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jacob-wrestles-angel</loc>
+		<loc>/event/jacob-wrestles-angel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-dinah-incident</loc>
+		<loc>/event/the-dinah-incident</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/benjamin</loc>
+		<loc>/event/benjamin</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/reuben-lays-with-bilhah</loc>
+		<loc>/event/reuben-lays-with-bilhah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jacob-comes-to-hebron</loc>
+		<loc>/event/jacob-comes-to-hebron</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/josephs-dreams</loc>
+		<loc>/event/josephs-dreams</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joseph-taken-to-egypt</loc>
+		<loc>/event/joseph-taken-to-egypt</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/judah-leaves-marries-a-canaanite</loc>
+		<loc>/event/judah-leaves-marries-a-canaanite</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/potiphars-wife-incident</loc>
+		<loc>/event/potiphars-wife-incident</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joseph-cast-into-prison</loc>
+		<loc>/event/joseph-cast-into-prison</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joseph-butler-and-baker-cast-into-prison</loc>
+		<loc>/event/joseph-butler-and-baker-cast-into-prison</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joseph-freed-pharaohs-dream-7-years-of-plenty</loc>
+		<loc>/event/joseph-freed-pharaohs-dream-7-years-of-plenty</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/manasseh</loc>
+		<loc>/event/manasseh</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ephraim</loc>
+		<loc>/event/ephraim</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/judah-impregnates-tamar</loc>
+		<loc>/event/judah-impregnates-tamar</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/pharez-or-perez</loc>
+		<loc>/event/pharez-or-perez</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/7-year-drought-josephs-brothers-come-to-egypt</loc>
+		<loc>/event/7-year-drought-josephs-brothers-come-to-egypt</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jacob-and-family-come-to-egypt</loc>
+		<loc>/event/jacob-and-family-come-to-egypt</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joseph-and-end-of-7-year-drought</loc>
+		<loc>/event/joseph-and-end-of-7-year-drought</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/esrom-or-hezron</loc>
+		<loc>/event/esrom-or-hezron</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/aram-or-ram</loc>
+		<loc>/event/aram-or-ram</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/aminadab-or-amminidab</loc>
+		<loc>/event/aminadab-or-amminidab</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/amram</loc>
+		<loc>/event/amram</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/egyptians-drive-out-hyksos-new-kingdom-egyptian</loc>
+		<loc>/event/egyptians-drive-out-hyksos-new-kingdom-egyptian</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/miriam</loc>
+		<loc>/event/miriam</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/aaron</loc>
+		<loc>/event/aaron</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/moses</loc>
+		<loc>/event/moses</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/naasson-or-nahshon</loc>
+		<loc>/event/naasson-or-nahshon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/moses-begins-military-training</loc>
+		<loc>/event/moses-begins-military-training</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/moses-flees</loc>
+		<loc>/event/moses-flees</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/caleb</loc>
+		<loc>/event/caleb</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joshua</loc>
+		<loc>/event/joshua</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/othniel</loc>
+		<loc>/event/othniel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/eleazar</loc>
+		<loc>/event/eleazar</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/moses-prophetic-call</loc>
+		<loc>/event/moses-prophetic-call</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/exodus-and-the-red-sea-crossing</loc>
+		<loc>/event/exodus-and-the-red-sea-crossing</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/giving-of-the-ten-commandments</loc>
+		<loc>/event/giving-of-the-ten-commandments</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/12-spies-enter-canaan</loc>
+		<loc>/event/12-spies-enter-canaan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/korahs-rebellion</loc>
+		<loc>/event/korahs-rebellion</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/salmon</loc>
+		<loc>/event/salmon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/moses-strikes-the-rock-at-kadesh</loc>
+		<loc>/event/moses-strikes-the-rock-at-kadesh</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/balak-summons-balaam</loc>
+		<loc>/event/balak-summons-balaam</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/balaam-curses-israel</loc>
+		<loc>/event/balaam-curses-israel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/israel-enters-canaan</loc>
+		<loc>/event/israel-enters-canaan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/israelite-invasion</loc>
+		<loc>/event/israelite-invasion</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joshua-called-sun-moon-stand-still</loc>
+		<loc>/event/joshua-called-sun-moon-stand-still</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/boaz</loc>
+		<loc>/event/boaz</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/division-of-canaan</loc>
+		<loc>/event/division-of-canaan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joshua-claims-territory</loc>
+		<loc>/event/joshua-claims-territory</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/othniel-liberation</loc>
+		<loc>/event/othniel-liberation</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/amarna-letters-end-date</loc>
+		<loc>/event/amarna-letters-end-date</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ruth-and-naomi-come-to-bethlehem</loc>
+		<loc>/event/ruth-and-naomi-come-to-bethlehem</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ehud</loc>
+		<loc>/event/ehud</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/obed</loc>
+		<loc>/event/obed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/40-years-peace-ends-moabite-oppression-begins</loc>
+		<loc>/event/40-years-peace-ends-moabite-oppression-begins</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/gideon</loc>
+		<loc>/event/gideon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hittites-forced-north-neohittites</loc>
+		<loc>/event/hittites-forced-north-neohittites</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/eli</loc>
+		<loc>/event/eli</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/israel-begins-40-years-of-peace</loc>
+		<loc>/event/israel-begins-40-years-of-peace</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/shechem-destroyed</loc>
+		<loc>/event/shechem-destroyed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jephthah</loc>
+		<loc>/event/jephthah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/samuel</loc>
+		<loc>/event/samuel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/prophetic-call-of-samuel</loc>
+		<loc>/event/prophetic-call-of-samuel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/samuel-judges-israel</loc>
+		<loc>/event/samuel-judges-israel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/philistines-capture-ark</loc>
+		<loc>/event/philistines-capture-ark</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elon</loc>
+		<loc>/event/elon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jesse</loc>
+		<loc>/event/jesse</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/samson</loc>
+		<loc>/event/samson</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/philistine-oppression-begins</loc>
+		<loc>/event/philistine-oppression-begins</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/saul</loc>
+		<loc>/event/saul</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ahijah</loc>
+		<loc>/event/ahijah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jonathan</loc>
+		<loc>/event/jonathan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/israel-desires-a-king-samuel-anoints-saul</loc>
+		<loc>/event/israel-desires-a-king-samuel-anoints-saul</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ishbosheth</loc>
+		<loc>/event/ishbosheth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jonathan-and-his-armorbearer-attack-philistines</loc>
+		<loc>/event/jonathan-and-his-armorbearer-attack-philistines</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david</loc>
+		<loc>/event/david</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nathan</loc>
+		<loc>/event/nathan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/uriah</loc>
+		<loc>/event/uriah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-a-shepherd-boy</loc>
+		<loc>/event/david-a-shepherd-boy</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/rejection-of-saul</loc>
+		<loc>/event/rejection-of-saul</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-anointed-by-samuel</loc>
+		<loc>/event/david-anointed-by-samuel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-slays-his-lions</loc>
+		<loc>/event/david-slays-his-lions</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hiram-i</loc>
+		<loc>/event/hiram-i</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-plays-for-saul</loc>
+		<loc>/event/david-plays-for-saul</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-and-goliath</loc>
+		<loc>/event/david-and-goliath</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-jonathan-become-brothers</loc>
+		<loc>/event/david-jonathan-become-brothers</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sauls-hatred-against-david-begins</loc>
+		<loc>/event/sauls-hatred-against-david-begins</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-escapes-to-samuel</loc>
+		<loc>/event/david-escapes-to-samuel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-goes-to-ahimelech-priest-at-nob</loc>
+		<loc>/event/david-goes-to-ahimelech-priest-at-nob</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-flees-to-gath-feigns-insanity</loc>
+		<loc>/event/david-flees-to-gath-feigns-insanity</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-in-cave-at-adullam</loc>
+		<loc>/event/david-in-cave-at-adullam</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-gathers-band-of-400</loc>
+		<loc>/event/david-gathers-band-of-400</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-consults-ephod-flees-to-wilderness-of-ziph</loc>
+		<loc>/event/david-consults-ephod-flees-to-wilderness-of-ziph</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/philistine-invasion-while-saul-seeks-david</loc>
+		<loc>/event/philistine-invasion-while-saul-seeks-david</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-flees-to-en-gedi-clips-sauls-garment</loc>
+		<loc>/event/david-flees-to-en-gedi-clips-sauls-garment</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/mephibosheth</loc>
+		<loc>/event/mephibosheth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-flees-to-wilderness-of-paran</loc>
+		<loc>/event/david-flees-to-wilderness-of-paran</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-marries-abigail</loc>
+		<loc>/event/david-marries-abigail</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-spares-sauls-life-a-2nd-time</loc>
+		<loc>/event/david-spares-sauls-life-a-2nd-time</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-received-ziklag-from-king-achish</loc>
+		<loc>/event/david-received-ziklag-from-king-achish</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/deliverance-of-jabesh-israel-unified</loc>
+		<loc>/event/deliverance-of-jabesh-israel-unified</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/philistine-raid-at-gilboa-saul-consults-witch</loc>
+		<loc>/event/philistine-raid-at-gilboa-saul-consults-witch</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/amnon</loc>
+		<loc>/event/amnon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/bathsheba</loc>
+		<loc>/event/bathsheba</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/absalom</loc>
+		<loc>/event/absalom</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-king-over-united-israel</loc>
+		<loc>/event/david-king-over-united-israel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-conquers-jerusalem-from-jebusites</loc>
+		<loc>/event/david-conquers-jerusalem-from-jebusites</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-defeats-enemies-extends-territory</loc>
+		<loc>/event/david-defeats-enemies-extends-territory</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/uzzah-touches-the-ark</loc>
+		<loc>/event/uzzah-touches-the-ark</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-lays-plans-for-the-temple</loc>
+		<loc>/event/david-lays-plans-for-the-temple</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-shows-kindness-to-mephibosheth</loc>
+		<loc>/event/david-shows-kindness-to-mephibosheth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/three-year-famine-david-avenges-gibeon</loc>
+		<loc>/event/three-year-famine-david-avenges-gibeon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nahash-ammonite-king</loc>
+		<loc>/event/nahash-ammonite-king</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/davids-adultery-with-bathsheba</loc>
+		<loc>/event/davids-adultery-with-bathsheba</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-rebuked-by-nathan</loc>
+		<loc>/event/david-rebuked-by-nathan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/davids-child-from-adultery-dies-1st-judgment</loc>
+		<loc>/event/davids-child-from-adultery-dies-1st-judgment</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-wrote-psalm-32</loc>
+		<loc>/event/david-wrote-psalm-32</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/solomon</loc>
+		<loc>/event/solomon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/amnon-rapes-his-sister</loc>
+		<loc>/event/amnon-rapes-his-sister</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/absalom-murders-amnon-2nd-judgment</loc>
+		<loc>/event/absalom-murders-amnon-2nd-judgment</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/absalom-returns-to-jerusalem-from-geshur</loc>
+		<loc>/event/absalom-returns-to-jerusalem-from-geshur</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/absalom-reconciled-to-david</loc>
+		<loc>/event/absalom-reconciled-to-david</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-flees-jerusalem</loc>
+		<loc>/event/david-flees-jerusalem</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/david-numbers-israel</loc>
+		<loc>/event/david-numbers-israel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sheshonq-i-or-shishak-i</loc>
+		<loc>/event/sheshonq-i-or-shishak-i</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jeroboam-i</loc>
+		<loc>/event/jeroboam-i</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/rehoboam</loc>
+		<loc>/event/rehoboam</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/rebellion-of-adonijah-4th-judgment</loc>
+		<loc>/event/rebellion-of-adonijah-4th-judgment</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hiram-offers-skill-and-resources-to-solomon</loc>
+		<loc>/event/hiram-offers-skill-and-resources-to-solomon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/kingdom-firmly-established-at-death-of-shimei</loc>
+		<loc>/event/kingdom-firmly-established-at-death-of-shimei</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/solomon-marries-daughter-of-pharaoh</loc>
+		<loc>/event/solomon-marries-daughter-of-pharaoh</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/pharaoh-conquers-gezer-gives-as-present-to-daughter</loc>
+		<loc>/event/pharaoh-conquers-gezer-gives-as-present-to-daughter</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/solomon-receives-wisdom</loc>
+		<loc>/event/solomon-receives-wisdom</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/solomons-temple-begun</loc>
+		<loc>/event/solomons-temple-begun</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/lord-speaks-to-solomon-2nd-time</loc>
+		<loc>/event/lord-speaks-to-solomon-2nd-time</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/mattatha</loc>
+		<loc>/event/mattatha</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/solomon-completes-his-palace</loc>
+		<loc>/event/solomon-completes-his-palace</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hiram-inspects-his-payment-in-cities</loc>
+		<loc>/event/hiram-inspects-his-payment-in-cities</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/solomon-works-on-millo-and-building-up-cities</loc>
+		<loc>/event/solomon-works-on-millo-and-building-up-cities</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/arrival-of-queen-of-sheba</loc>
+		<loc>/event/arrival-of-queen-of-sheba</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/omri</loc>
+		<loc>/event/omri</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/menan</loc>
+		<loc>/event/menan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/asa</loc>
+		<loc>/event/asa</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/benhadad-i</loc>
+		<loc>/event/benhadad-i</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/tibni</loc>
+		<loc>/event/tibni</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nadab</loc>
+		<loc>/event/nadab</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/baasha</loc>
+		<loc>/event/baasha</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/division-of-israel</loc>
+		<loc>/event/division-of-israel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoiada</loc>
+		<loc>/event/jehoiada</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/prophet-from-judah-curses-jeroboams-altar-at-bethel</loc>
+		<loc>/event/prophet-from-judah-curses-jeroboams-altar-at-bethel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/rehoboam-forsakes-righteousness</loc>
+		<loc>/event/rehoboam-forsakes-righteousness</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/solomons-temple-sacked-by-shishak</loc>
+		<loc>/event/solomons-temple-sacked-by-shishak</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ahab</loc>
+		<loc>/event/ahab</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jeroboam-is-child-dies</loc>
+		<loc>/event/jeroboam-is-child-dies</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/abijah</loc>
+		<loc>/event/abijah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elah</loc>
+		<loc>/event/elah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/zimri</loc>
+		<loc>/event/zimri</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/melea</loc>
+		<loc>/event/melea</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoshaphat</loc>
+		<loc>/event/jehoshaphat</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elijah</loc>
+		<loc>/event/elijah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/palestine-invaded-by-zerah</loc>
+		<loc>/event/palestine-invaded-by-zerah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/benhadad-ii</loc>
+		<loc>/event/benhadad-ii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jezebel</loc>
+		<loc>/event/jezebel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/athaliah</loc>
+		<loc>/event/athaliah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/shalmaneser-iii</loc>
+		<loc>/event/shalmaneser-iii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/eliakim-son-of-melea</loc>
+		<loc>/event/eliakim-son-of-melea</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elisha</loc>
+		<loc>/event/elisha</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoram-of-judah</loc>
+		<loc>/event/jehoram-of-judah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/omri-builds-samaria</loc>
+		<loc>/event/omri-builds-samaria</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ahaziah-9th-king</loc>
+		<loc>/event/ahaziah-9th-king</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/omri-subdues-moabites</loc>
+		<loc>/event/omri-subdues-moabites</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joram</loc>
+		<loc>/event/joram</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehu</loc>
+		<loc>/event/jehu</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/asa-contracts-disease-in-his-feet</loc>
+		<loc>/event/asa-contracts-disease-in-his-feet</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/obadiah-hides-the-prophets-of-god</loc>
+		<loc>/event/obadiah-hides-the-prophets-of-god</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoshaphat-sends-levites-out-to-teach-the-law</loc>
+		<loc>/event/jehoshaphat-sends-levites-out-to-teach-the-law</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/three-and-one-half-years-of-no-rain</loc>
+		<loc>/event/three-and-one-half-years-of-no-rain</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jonan-or-jonam</loc>
+		<loc>/event/jonan-or-jonam</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hazael</loc>
+		<loc>/event/hazael</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/end-3-12-years-of-no-rain-elijah-runs-to-horeb</loc>
+		<loc>/event/end-3-12-years-of-no-rain-elijah-runs-to-horeb</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/gehazi</loc>
+		<loc>/event/gehazi</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ahaziah-6th-king</loc>
+		<loc>/event/ahaziah-6th-king</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ahab-and-naboths-vineyard</loc>
+		<loc>/event/ahab-and-naboths-vineyard</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/battle-between-israel-assyria</loc>
+		<loc>/event/battle-between-israel-assyria</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ahab-defeats-benhadad-i-of-syria</loc>
+		<loc>/event/ahab-defeats-benhadad-i-of-syria</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/micaiah-prophesies-defeat-of-ahab</loc>
+		<loc>/event/micaiah-prophesies-defeat-of-ahab</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ahab-battles-with-jehoshaphat-against-syrians</loc>
+		<loc>/event/ahab-battles-with-jehoshaphat-against-syrians</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ahab-battles-assyrians-at-qarqar-allied-w-benhadad</loc>
+		<loc>/event/ahab-battles-assyrians-at-qarqar-allied-w-benhadad</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ahaziah-of-israel-tries-to-intimidate-elijah</loc>
+		<loc>/event/ahaziah-of-israel-tries-to-intimidate-elijah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoram-of-judah-receives-prophetic-writing-from-elijah</loc>
+		<loc>/event/jehoram-of-judah-receives-prophetic-writing-from-elijah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/mesha-of-moab-revolts</loc>
+		<loc>/event/mesha-of-moab-revolts</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elisha-mocked-by-youth-at-bethel</loc>
+		<loc>/event/elisha-mocked-by-youth-at-bethel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoahaz</loc>
+		<loc>/event/jehoahaz</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elisha-and-the-widows-oil</loc>
+		<loc>/event/elisha-and-the-widows-oil</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elisha-purifies-the-pot-of-stew</loc>
+		<loc>/event/elisha-purifies-the-pot-of-stew</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joseph-son-of-jonan</loc>
+		<loc>/event/joseph-son-of-jonan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elisha-promises-shunammite-woman-a-son</loc>
+		<loc>/event/elisha-promises-shunammite-woman-a-son</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elisha-feeds-100-men</loc>
+		<loc>/event/elisha-feeds-100-men</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elisha-and-miracle-of-the-floating-ax-head</loc>
+		<loc>/event/elisha-and-miracle-of-the-floating-ax-head</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elisha-thwarts-syrian-ambushes</loc>
+		<loc>/event/elisha-thwarts-syrian-ambushes</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/benhadad-ii-siege-of-samaria-and-deliverance</loc>
+		<loc>/event/benhadad-ii-siege-of-samaria-and-deliverance</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoram-of-judah-struck-with-bowel-disease</loc>
+		<loc>/event/jehoram-of-judah-struck-with-bowel-disease</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joash-or-jehoash</loc>
+		<loc>/event/joash-or-jehoash</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/shalmaneser-iii-of-assyria-defeats-hazael-of-damascus</loc>
+		<loc>/event/shalmaneser-iii-of-assyria-defeats-hazael-of-damascus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehu-pays-tribute-to-shalmaneser-iii-of-assyria</loc>
+		<loc>/event/jehu-pays-tribute-to-shalmaneser-iii-of-assyria</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elisha-warns-shunammite-woman-of-7-year-famine</loc>
+		<loc>/event/elisha-warns-shunammite-woman-of-7-year-famine</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/shunammite-womans-land-restored</loc>
+		<loc>/event/shunammite-womans-land-restored</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/naaman-healed-gehazi-leprous</loc>
+		<loc>/event/naaman-healed-gehazi-leprous</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/juda</loc>
+		<loc>/event/juda</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoash</loc>
+		<loc>/event/jehoash</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jonah</loc>
+		<loc>/event/jonah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/amaziah</loc>
+		<loc>/event/amaziah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jeroboam-ii</loc>
+		<loc>/event/jeroboam-ii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/amos-the-prophet</loc>
+		<loc>/event/amos-the-prophet</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/uzziah</loc>
+		<loc>/event/uzziah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/simeon-son-of-juda</loc>
+		<loc>/event/simeon-son-of-juda</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/menahem</loc>
+		<loc>/event/menahem</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/shallum</loc>
+		<loc>/event/shallum</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jonah-to-ninevah</loc>
+		<loc>/event/jonah-to-ninevah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/uzziah-azariah-prosperous-time</loc>
+		<loc>/event/uzziah-azariah-prosperous-time</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/levi-son-of-simeon</loc>
+		<loc>/event/levi-son-of-simeon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/pekah</loc>
+		<loc>/event/pekah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/zechariah</loc>
+		<loc>/event/zechariah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jotham</loc>
+		<loc>/event/jotham</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/shalmaneser-v</loc>
+		<loc>/event/shalmaneser-v</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/pekahiah</loc>
+		<loc>/event/pekahiah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/matthat-father-of-jorum</loc>
+		<loc>/event/matthat-father-of-jorum</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/isaiah</loc>
+		<loc>/event/isaiah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hoshea</loc>
+		<loc>/event/hoshea</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sargon-ii</loc>
+		<loc>/event/sargon-ii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/great-earthquake</loc>
+		<loc>/event/great-earthquake</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/merodachbaladan</loc>
+		<loc>/event/merodachbaladan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ahaz</loc>
+		<loc>/event/ahaz</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/micah</loc>
+		<loc>/event/micah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jorim</loc>
+		<loc>/event/jorim</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hezekiah</loc>
+		<loc>/event/hezekiah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sennacherib</loc>
+		<loc>/event/sennacherib</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/immanuel</loc>
+		<loc>/event/immanuel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/babylon-taken-by-chaldeans</loc>
+		<loc>/event/babylon-taken-by-chaldeans</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/eliezer</loc>
+		<loc>/event/eliezer</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/reformationpassover-celebrated-in-judah-option-1</loc>
+		<loc>/event/reformationpassover-celebrated-in-judah-option-1</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/second-invasion-of-israel-from-assyria</loc>
+		<loc>/event/second-invasion-of-israel-from-assyria</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/assyria-invades-northern-kingdom</loc>
+		<loc>/event/assyria-invades-northern-kingdom</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/fall-of-samaria</loc>
+		<loc>/event/fall-of-samaria</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/judah-722-586</loc>
+		<loc>/event/judah-722-586</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hilkiah</loc>
+		<loc>/event/hilkiah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/siloam-inscription-hezekiahs-tunnel</loc>
+		<loc>/event/siloam-inscription-hezekiahs-tunnel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jose</loc>
+		<loc>/event/jose</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/esarhaddon</loc>
+		<loc>/event/esarhaddon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/invasion-of-philistines</loc>
+		<loc>/event/invasion-of-philistines</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/manasseh-king-of-judah</loc>
+		<loc>/event/manasseh-king-of-judah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sun-goes-back-10-degrees-hezekiah-recovers</loc>
+		<loc>/event/sun-goes-back-10-degrees-hezekiah-recovers</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/assyria-conquers-world-sennacherib-invades-judah</loc>
+		<loc>/event/assyria-conquers-world-sennacherib-invades-judah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/zephaniah</loc>
+		<loc>/event/zephaniah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/habakkuk</loc>
+		<loc>/event/habakkuk</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/isaiah-prophecy-concerning-cyrus-ii</loc>
+		<loc>/event/isaiah-prophecy-concerning-cyrus-ii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/er</loc>
+		<loc>/event/er</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ashurbanipal</loc>
+		<loc>/event/ashurbanipal</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/zephaniah-calls-for-reform</loc>
+		<loc>/event/zephaniah-calls-for-reform</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sennacherib-razes-babylon</loc>
+		<loc>/event/sennacherib-razes-babylon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sennacheribs-2nd-invasion-of-jerusalem</loc>
+		<loc>/event/sennacheribs-2nd-invasion-of-jerusalem</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nahum</loc>
+		<loc>/event/nahum</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/babylon-rebuilding</loc>
+		<loc>/event/babylon-rebuilding</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elmodam-or-elmadam</loc>
+		<loc>/event/elmodam-or-elmadam</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/esarhaddon-assyria-invades-egypt</loc>
+		<loc>/event/esarhaddon-assyria-invades-egypt</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/amon</loc>
+		<loc>/event/amon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nahum-refers-to-fall-of-thebes</loc>
+		<loc>/event/nahum-refers-to-fall-of-thebes</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nabopolassar</loc>
+		<loc>/event/nabopolassar</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cosam</loc>
+		<loc>/event/cosam</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nahum-predicts-fall-of-ninevah</loc>
+		<loc>/event/nahum-predicts-fall-of-ninevah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/josiah</loc>
+		<loc>/event/josiah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/addi</loc>
+		<loc>/event/addi</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ashurbanipal-defeats-elam</loc>
+		<loc>/event/ashurbanipal-defeats-elam</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jeremiah</loc>
+		<loc>/event/jeremiah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/necho-ii</loc>
+		<loc>/event/necho-ii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/melchi</loc>
+		<loc>/event/melchi</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoiakim</loc>
+		<loc>/event/jehoiakim</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/josiah-consecrates-himself-to-god</loc>
+		<loc>/event/josiah-consecrates-himself-to-god</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nebuchadnezzar-ii</loc>
+		<loc>/event/nebuchadnezzar-ii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoahaz-son-of-josiah</loc>
+		<loc>/event/jehoahaz-son-of-josiah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/josiah-destroys-idols</loc>
+		<loc>/event/josiah-destroys-idols</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ezekiel</loc>
+		<loc>/event/ezekiel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/josiah-finds-law-keeps-passover</loc>
+		<loc>/event/josiah-finds-law-keeps-passover</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniel</loc>
+		<loc>/event/daniel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ezekiels-wife</loc>
+		<loc>/event/ezekiels-wife</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/neri</loc>
+		<loc>/event/neri</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nabonidus</loc>
+		<loc>/event/nabonidus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/zedekiah</loc>
+		<loc>/event/zedekiah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoiachin</loc>
+		<loc>/event/jehoiachin</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nineveh-destroyed</loc>
+		<loc>/event/nineveh-destroyed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniel-2-nebuchadnezzars-dream</loc>
+		<loc>/event/daniel-2-nebuchadnezzars-dream</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniel-7-four-great-beasts</loc>
+		<loc>/event/daniel-7-four-great-beasts</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniel-1-daniel-captive</loc>
+		<loc>/event/daniel-1-daniel-captive</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/darius-the-mede</loc>
+		<loc>/event/darius-the-mede</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cyrus-ii-cyrus-the-great</loc>
+		<loc>/event/cyrus-ii-cyrus-the-great</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/evilmerodach</loc>
+		<loc>/event/evilmerodach</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/salathiel-or-shealtiel</loc>
+		<loc>/event/salathiel-or-shealtiel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/2nd-invasion-of-jerusalem-by-babylon</loc>
+		<loc>/event/2nd-invasion-of-jerusalem-by-babylon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ezekiel-taken-captive</loc>
+		<loc>/event/ezekiel-taken-captive</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniel-3-golden-image</loc>
+		<loc>/event/daniel-3-golden-image</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jerusalems-final-siege-begins-jan-15</loc>
+		<loc>/event/jerusalems-final-siege-begins-jan-15</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/judah-falls-aug-15</loc>
+		<loc>/event/judah-falls-aug-15</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/fall-of-jerusalem-july-19</loc>
+		<loc>/event/fall-of-jerusalem-july-19</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/belshazzar</loc>
+		<loc>/event/belshazzar</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/zerubbabel</loc>
+		<loc>/event/zerubbabel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cambyses</loc>
+		<loc>/event/cambyses</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniel-4-begin-7-yrs-of-beast</loc>
+		<loc>/event/daniel-4-begin-7-yrs-of-beast</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/haggai</loc>
+		<loc>/event/haggai</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nebuchadnezzars-sanity-returns-after-7-yrs-converted</loc>
+		<loc>/event/nebuchadnezzars-sanity-returns-after-7-yrs-converted</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jehoiachin-released-from-prison</loc>
+		<loc>/event/jehoiachin-released-from-prison</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cyrus-ii-unites-persia</loc>
+		<loc>/event/cyrus-ii-unites-persia</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cambyses-ii</loc>
+		<loc>/event/cambyses-ii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/belshazzar-king-babylon-waning</loc>
+		<loc>/event/belshazzar-king-babylon-waning</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/zechariah-the-prophet</loc>
+		<loc>/event/zechariah-the-prophet</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cyrus-ii-conquers-babylon-oct-29</loc>
+		<loc>/event/cyrus-ii-conquers-babylon-oct-29</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniel-8-ram-goat-and-little-horn</loc>
+		<loc>/event/daniel-8-ram-goat-and-little-horn</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniel-11-king-of-the-northsouth</loc>
+		<loc>/event/daniel-11-king-of-the-northsouth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniel-9-prayer-concerning-70-years</loc>
+		<loc>/event/daniel-9-prayer-concerning-70-years</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cyrus-ii-first-decree-resettlement-begins</loc>
+		<loc>/event/cyrus-ii-first-decree-resettlement-begins</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jerusalem-rebuilt</loc>
+		<loc>/event/jerusalem-rebuilt</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/placement-of-cornerstone-of-temple</loc>
+		<loc>/event/placement-of-cornerstone-of-temple</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jerusalem-temple-resume-building</loc>
+		<loc>/event/jerusalem-temple-resume-building</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/xerxes-i</loc>
+		<loc>/event/xerxes-i</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jerusalem-temple-finished</loc>
+		<loc>/event/jerusalem-temple-finished</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jerusalem-temple-march-dedication</loc>
+		<loc>/event/jerusalem-temple-march-dedication</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/mordecai</loc>
+		<loc>/event/mordecai</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ezra</loc>
+		<loc>/event/ezra</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/esther</loc>
+		<loc>/event/esther</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/artaxerxes-i</loc>
+		<loc>/event/artaxerxes-i</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/queen-vashti-falls-into-disfavor</loc>
+		<loc>/event/queen-vashti-falls-into-disfavor</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/abiud</loc>
+		<loc>/event/abiud</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hamans-death-decree-april-474</loc>
+		<loc>/event/hamans-death-decree-april-474</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jews-delivered-june-474-mordecai-elevated</loc>
+		<loc>/event/jews-delivered-june-474-mordecai-elevated</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nehemiah</loc>
+		<loc>/event/nehemiah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/malachi</loc>
+		<loc>/event/malachi</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/rhesa</loc>
+		<loc>/event/rhesa</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/darius-ii</loc>
+		<loc>/event/darius-ii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/artaxerxes-i-decree</loc>
+		<loc>/event/artaxerxes-i-decree</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/1st-prophetic-week-begins</loc>
+		<loc>/event/1st-prophetic-week-begins</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sanctuary-cleansed-2300-day-prophecy</loc>
+		<loc>/event/sanctuary-cleansed-2300-day-prophecy</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-seventyweeks-prophecy</loc>
+		<loc>/event/the-seventyweeks-prophecy</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/eliakim</loc>
+		<loc>/event/eliakim</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joanna-or-joanan</loc>
+		<loc>/event/joanna-or-joanan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/artaxerxes-ii</loc>
+		<loc>/event/artaxerxes-ii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nehemiah-starts-to-build-walls-of-jerusalem</loc>
+		<loc>/event/nehemiah-starts-to-build-walls-of-jerusalem</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nehemiahs-1st-term</loc>
+		<loc>/event/nehemiahs-1st-term</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ezra-public-reading-of-the-law</loc>
+		<loc>/event/ezra-public-reading-of-the-law</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nehemiah-walls-rebuilt</loc>
+		<loc>/event/nehemiah-walls-rebuilt</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/azor</loc>
+		<loc>/event/azor</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nehemiah-returns-to-babylon</loc>
+		<loc>/event/nehemiah-returns-to-babylon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/juda-or-joda</loc>
+		<loc>/event/juda-or-joda</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/artaxerxes-iii</loc>
+		<loc>/event/artaxerxes-iii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joseph-or-josech</loc>
+		<loc>/event/joseph-or-josech</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/semei</loc>
+		<loc>/event/semei</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/darius-iii</loc>
+		<loc>/event/darius-iii</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/mattathias-son-of-semei</loc>
+		<loc>/event/mattathias-son-of-semei</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/alexander-the-great</loc>
+		<loc>/event/alexander-the-great</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/maath</loc>
+		<loc>/event/maath</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/arbela-battle-of-decisive-victory-over-persia</loc>
+		<loc>/event/arbela-battle-of-decisive-victory-over-persia</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/nagge-or-naggai</loc>
+		<loc>/event/nagge-or-naggai</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/alexanders-empire-divides</loc>
+		<loc>/event/alexanders-empire-divides</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/esli</loc>
+		<loc>/event/esli</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/naum-or-nahum</loc>
+		<loc>/event/naum-or-nahum</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/amos</loc>
+		<loc>/event/amos</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/antiochus-iv-epiphanes</loc>
+		<loc>/event/antiochus-iv-epiphanes</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/mattathias-son-of-amos</loc>
+		<loc>/event/mattathias-son-of-amos</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joseph-son-of-mattathias</loc>
+		<loc>/event/joseph-son-of-mattathias</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/antiochus-iv-persecutes-jews-and-desecrates-temple</loc>
+		<loc>/event/antiochus-iv-persecutes-jews-and-desecrates-temple</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/maccabees-restore-temple-religious-freedom-hanukkah</loc>
+		<loc>/event/maccabees-restore-temple-religious-freedom-hanukkah</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jews-independent-under-hasmonean-dynasty</loc>
+		<loc>/event/jews-independent-under-hasmonean-dynasty</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/janna-or-jannai</loc>
+		<loc>/event/janna-or-jannai</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/macedonia-a-roman-province</loc>
+		<loc>/event/macedonia-a-roman-province</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/melchi-or-melki</loc>
+		<loc>/event/melchi-or-melki</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/levi-son-of-melchi</loc>
+		<loc>/event/levi-son-of-melchi</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/julius-caesar</loc>
+		<loc>/event/julius-caesar</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/simeon-of-the-temple</loc>
+		<loc>/event/simeon-of-the-temple</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/anna</loc>
+		<loc>/event/anna</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/matthat-father-of-heli</loc>
+		<loc>/event/matthat-father-of-heli</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/herod-the-great</loc>
+		<loc>/event/herod-the-great</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/syria-seleucid-kingdom-annexed-by-rome</loc>
+		<loc>/event/syria-seleucid-kingdom-annexed-by-rome</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/pompey-destroys-jerusalem</loc>
+		<loc>/event/pompey-destroys-jerusalem</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/augustus-caesar</loc>
+		<loc>/event/augustus-caesar</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/heli</loc>
+		<loc>/event/heli</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/herod-appointed-king-of-judea-in-rome-37-4</loc>
+		<loc>/event/herod-appointed-king-of-judea-in-rome-37-4</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/joseph-husband-of-mary</loc>
+		<loc>/event/joseph-husband-of-mary</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/egypt-made-a-roman-province</loc>
+		<loc>/event/egypt-made-a-roman-province</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/herod-antipas</loc>
+		<loc>/event/herod-antipas</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/incarnation-of-jesus</loc>
+		<loc>/event/incarnation-of-jesus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jesus</loc>
+		<loc>/event/jesus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/peter</loc>
+		<loc>/event/peter</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/john</loc>
+		<loc>/event/john</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/paul</loc>
+		<loc>/event/paul</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/john-the-baptists-ministry</loc>
+		<loc>/event/john-the-baptists-ministry</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/baptism-of-christ</loc>
+		<loc>/event/baptism-of-christ</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/christs-early-ministry</loc>
+		<loc>/event/christs-early-ministry</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/christs-wilderness-temptations</loc>
+		<loc>/event/christs-wilderness-temptations</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jesus-declared-the-lamb-of-god</loc>
+		<loc>/event/jesus-declared-the-lamb-of-god</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/first-disciples-called</loc>
+		<loc>/event/first-disciples-called</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/wedding-feast-at-cana</loc>
+		<loc>/event/wedding-feast-at-cana</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/christs-ministry-in-judea</loc>
+		<loc>/event/christs-ministry-in-judea</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/first-cleansing-of-the-temple-first-passover</loc>
+		<loc>/event/first-cleansing-of-the-temple-first-passover</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/discussion-with-nicodemus</loc>
+		<loc>/event/discussion-with-nicodemus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-samaritan-woman</loc>
+		<loc>/event/the-samaritan-woman</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-invalid-at-pool-of-bethesda-second-passover</loc>
+		<loc>/event/the-invalid-at-pool-of-bethesda-second-passover</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/rejection-by-sanhedrin</loc>
+		<loc>/event/rejection-by-sanhedrin</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-noblemans-son</loc>
+		<loc>/event/the-noblemans-son</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/galilean-ministry</loc>
+		<loc>/event/galilean-ministry</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/first-rejection-at-nazareth</loc>
+		<loc>/event/first-rejection-at-nazareth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/removal-to-capernaum</loc>
+		<loc>/event/removal-to-capernaum</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-call-by-the-sea</loc>
+		<loc>/event/the-call-by-the-sea</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/demoniac-in-the-synagogue</loc>
+		<loc>/event/demoniac-in-the-synagogue</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/peters-motherinlaw-healed</loc>
+		<loc>/event/peters-motherinlaw-healed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/first-galilean-tour</loc>
+		<loc>/event/first-galilean-tour</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-first-leper-healed</loc>
+		<loc>/event/the-first-leper-healed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/paralytic-lowered-through-the-roof</loc>
+		<loc>/event/paralytic-lowered-through-the-roof</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/call-of-levi-matthew</loc>
+		<loc>/event/call-of-levi-matthew</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/plucking-grain-on-the-sabbath</loc>
+		<loc>/event/plucking-grain-on-the-sabbath</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/man-with-a-withered-hand</loc>
+		<loc>/event/man-with-a-withered-hand</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jesus-popularity</loc>
+		<loc>/event/jesus-popularity</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/appointment-of-the-twelve-disciples</loc>
+		<loc>/event/appointment-of-the-twelve-disciples</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sermon-on-the-mount</loc>
+		<loc>/event/sermon-on-the-mount</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-centurions-servant-healed</loc>
+		<loc>/event/the-centurions-servant-healed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/two-blind-men-healed</loc>
+		<loc>/event/two-blind-men-healed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/a-mute-demoniac-is-healed</loc>
+		<loc>/event/a-mute-demoniac-is-healed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/second-galilean-tour</loc>
+		<loc>/event/second-galilean-tour</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/widows-son-at-nain-raised-to-life</loc>
+		<loc>/event/widows-son-at-nain-raised-to-life</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/blind-and-dumb-demoniac-unpardonable-sin</loc>
+		<loc>/event/blind-and-dumb-demoniac-unpardonable-sin</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jesus-mother-and-brothers</loc>
+		<loc>/event/jesus-mother-and-brothers</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sermon-by-the-sea-many-parables-told</loc>
+		<loc>/event/sermon-by-the-sea-many-parables-told</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-storm-on-the-lake</loc>
+		<loc>/event/the-storm-on-the-lake</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/demoniacs-of-gadara</loc>
+		<loc>/event/demoniacs-of-gadara</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/matthews-feast</loc>
+		<loc>/event/matthews-feast</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jesus-questioned-about-fasting</loc>
+		<loc>/event/jesus-questioned-about-fasting</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-invalid-woman-healed-jairus-daughter-raised</loc>
+		<loc>/event/the-invalid-woman-healed-jairus-daughter-raised</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-inquiry-by-johns-disciples</loc>
+		<loc>/event/the-inquiry-by-johns-disciples</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jesus-eulogy-of-john</loc>
+		<loc>/event/jesus-eulogy-of-john</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/third-galilean-tour</loc>
+		<loc>/event/third-galilean-tour</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/second-rejection-at-nazareth</loc>
+		<loc>/event/second-rejection-at-nazareth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/john-the-baptist-imprisoned</loc>
+		<loc>/event/john-the-baptist-imprisoned</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/cost-of-discipleship</loc>
+		<loc>/event/cost-of-discipleship</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/martyrdom-of-john-the-baptist</loc>
+		<loc>/event/martyrdom-of-john-the-baptist</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/feeding-the-five-thousand-third-passover</loc>
+		<loc>/event/feeding-the-five-thousand-third-passover</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jesus-walks-on-the-lake</loc>
+		<loc>/event/jesus-walks-on-the-lake</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sermon-on-the-bread-of-life-rejection-in-galilee</loc>
+		<loc>/event/sermon-on-the-bread-of-life-rejection-in-galilee</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/controversy-over-tradition-and-ceremonial-defilement</loc>
+		<loc>/event/controversy-over-tradition-and-ceremonial-defilement</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/withdrawl-from-public-ministry</loc>
+		<loc>/event/withdrawl-from-public-ministry</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/deafmute-healed-other-miracles-in-decapolis</loc>
+		<loc>/event/deafmute-healed-other-miracles-in-decapolis</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/feeding-the-four-thousand</loc>
+		<loc>/event/feeding-the-four-thousand</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/demand-for-a-sign</loc>
+		<loc>/event/demand-for-a-sign</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/blindman-near-bethsaida</loc>
+		<loc>/event/blindman-near-bethsaida</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/withdrawal-to-caesarea-philippi-the-great-confession</loc>
+		<loc>/event/withdrawal-to-caesarea-philippi-the-great-confession</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/secret-journey-through-galilee</loc>
+		<loc>/event/secret-journey-through-galilee</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/humility-reconciliation-and-forgiveness</loc>
+		<loc>/event/humility-reconciliation-and-forgiveness</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-transfiguration</loc>
+		<loc>/event/the-transfiguration</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-demonpossessed-boy</loc>
+		<loc>/event/the-demonpossessed-boy</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-temple-halfshekel</loc>
+		<loc>/event/the-temple-halfshekel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/christs-ministry-in-judea-and-peraea</loc>
+		<loc>/event/christs-ministry-in-judea-and-peraea</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/secret-journey-to-feast-of-tabernacles</loc>
+		<loc>/event/secret-journey-to-feast-of-tabernacles</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/teaching-in-the-temple</loc>
+		<loc>/event/teaching-in-the-temple</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-adulteress</loc>
+		<loc>/event/the-adulteress</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-light-of-the-world</loc>
+		<loc>/event/the-light-of-the-world</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-argument-about-descent-from-abraham</loc>
+		<loc>/event/the-argument-about-descent-from-abraham</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-man-born-blind</loc>
+		<loc>/event/the-man-born-blind</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-good-shepherd</loc>
+		<loc>/event/the-good-shepherd</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ministry-in-samaria-and-peraea</loc>
+		<loc>/event/ministry-in-samaria-and-peraea</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/tests-of-discipleship</loc>
+		<loc>/event/tests-of-discipleship</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/mission-of-the-seventy</loc>
+		<loc>/event/mission-of-the-seventy</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-good-samaritan</loc>
+		<loc>/event/the-good-samaritan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/in-the-home-of-mary-and-martha</loc>
+		<loc>/event/in-the-home-of-mary-and-martha</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/at-the-feast-of-dedication</loc>
+		<loc>/event/at-the-feast-of-dedication</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/instruction-on-prayer</loc>
+		<loc>/event/instruction-on-prayer</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-inner-light</loc>
+		<loc>/event/the-inner-light</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/dining-with-a-pharisee</loc>
+		<loc>/event/dining-with-a-pharisee</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/a-warning-against-the-pharisees</loc>
+		<loc>/event/a-warning-against-the-pharisees</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-folly-of-riches</loc>
+		<loc>/event/the-folly-of-riches</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/awaiting-the-masters-return</loc>
+		<loc>/event/awaiting-the-masters-return</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/divine-justice-and-mercy</loc>
+		<loc>/event/divine-justice-and-mercy</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-crippled-woman</loc>
+		<loc>/event/the-crippled-woman</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/growth-of-the-kingdom-of-heaven</loc>
+		<loc>/event/growth-of-the-kingdom-of-heaven</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/a-warning-of-divine-judgment</loc>
+		<loc>/event/a-warning-of-divine-judgment</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/dining-with-a-chief-pharisee</loc>
+		<loc>/event/dining-with-a-chief-pharisee</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-great-banquet</loc>
+		<loc>/event/the-great-banquet</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/more-costs-of-discipleship</loc>
+		<loc>/event/more-costs-of-discipleship</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-parable-of-the-lost-sheep</loc>
+		<loc>/event/the-parable-of-the-lost-sheep</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-lost-coin</loc>
+		<loc>/event/the-lost-coin</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-prodigal-son</loc>
+		<loc>/event/the-prodigal-son</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-dishonest-steward</loc>
+		<loc>/event/the-dishonest-steward</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-rich-man-and-lazarus</loc>
+		<loc>/event/the-rich-man-and-lazarus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/forgiveness-faith-and-service</loc>
+		<loc>/event/forgiveness-faith-and-service</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-raising-of-lazarus</loc>
+		<loc>/event/the-raising-of-lazarus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/withdrawal-to-ephraim</loc>
+		<loc>/event/withdrawal-to-ephraim</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-ten-lepers</loc>
+		<loc>/event/the-ten-lepers</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/when-and-how-the-kingdom-comes</loc>
+		<loc>/event/when-and-how-the-kingdom-comes</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-unjust-judge</loc>
+		<loc>/event/the-unjust-judge</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-pharisee-and-the-publican</loc>
+		<loc>/event/the-pharisee-and-the-publican</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/marriage-and-divorce</loc>
+		<loc>/event/marriage-and-divorce</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/blessing-the-children</loc>
+		<loc>/event/blessing-the-children</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-rich-young-ruler</loc>
+		<loc>/event/the-rich-young-ruler</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/laborers-in-the-vineyard</loc>
+		<loc>/event/laborers-in-the-vineyard</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jesus-foretells-his-death</loc>
+		<loc>/event/jesus-foretells-his-death</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-ambition-of-james-and-john</loc>
+		<loc>/event/the-ambition-of-james-and-john</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/blind-bartimaeus</loc>
+		<loc>/event/blind-bartimaeus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/zacchaeus</loc>
+		<loc>/event/zacchaeus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-nobleman-and-the-pounds</loc>
+		<loc>/event/the-nobleman-and-the-pounds</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/simons-feast</loc>
+		<loc>/event/simons-feast</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-betrayal-plot</loc>
+		<loc>/event/the-betrayal-plot</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/passion-week</loc>
+		<loc>/event/passion-week</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-triumphal-entry</loc>
+		<loc>/event/the-triumphal-entry</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-fruitless-fig-tree</loc>
+		<loc>/event/the-fruitless-fig-tree</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/second-cleansing-of-the-temple</loc>
+		<loc>/event/second-cleansing-of-the-temple</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/leaders-challenge-jesus-authority</loc>
+		<loc>/event/leaders-challenge-jesus-authority</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-two-sons</loc>
+		<loc>/event/the-two-sons</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-wicked-husbandmen</loc>
+		<loc>/event/the-wicked-husbandmen</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-man-without-a-wedding-garment</loc>
+		<loc>/event/the-man-without-a-wedding-garment</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/paying-tribute-to-caesar</loc>
+		<loc>/event/paying-tribute-to-caesar</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/marriage-and-the-resurrection</loc>
+		<loc>/event/marriage-and-the-resurrection</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-great-commandment</loc>
+		<loc>/event/the-great-commandment</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jesus-silences-his-critics</loc>
+		<loc>/event/jesus-silences-his-critics</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/woes-upon-scribes-and-pharisees</loc>
+		<loc>/event/woes-upon-scribes-and-pharisees</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-widows-mites</loc>
+		<loc>/event/the-widows-mites</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/interview-with-certain-greeks</loc>
+		<loc>/event/interview-with-certain-greeks</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/final-rejection-by-jewish-leaders</loc>
+		<loc>/event/final-rejection-by-jewish-leaders</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/retirement-to-mount-of-olives</loc>
+		<loc>/event/retirement-to-mount-of-olives</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-ten-virgins</loc>
+		<loc>/event/the-ten-virgins</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-talents</loc>
+		<loc>/event/the-talents</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-sheep-and-the-goats</loc>
+		<loc>/event/the-sheep-and-the-goats</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/preparation-for-the-passover</loc>
+		<loc>/event/preparation-for-the-passover</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/celebration-of-the-passover</loc>
+		<loc>/event/celebration-of-the-passover</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/washing-the-disciples-feet</loc>
+		<loc>/event/washing-the-disciples-feet</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-lords-supper</loc>
+		<loc>/event/the-lords-supper</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-betrayer-revealed</loc>
+		<loc>/event/the-betrayer-revealed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/parting-counsel</loc>
+		<loc>/event/parting-counsel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/retirement-to-gethsemane</loc>
+		<loc>/event/retirement-to-gethsemane</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/a-warning-to-peter-and-the-ten</loc>
+		<loc>/event/a-warning-to-peter-and-the-ten</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-true-vine</loc>
+		<loc>/event/the-true-vine</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/a-warning-of-persecution</loc>
+		<loc>/event/a-warning-of-persecution</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-coming-of-the-comforter</loc>
+		<loc>/event/the-coming-of-the-comforter</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jesus-intercessory-prayer</loc>
+		<loc>/event/jesus-intercessory-prayer</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/gethsemane</loc>
+		<loc>/event/gethsemane</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hearing-before-annas</loc>
+		<loc>/event/hearing-before-annas</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/night-trial-before-sanhedrin</loc>
+		<loc>/event/night-trial-before-sanhedrin</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/day-trial-before-sanhedrin</loc>
+		<loc>/event/day-trial-before-sanhedrin</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/judas-confession-and-suicide</loc>
+		<loc>/event/judas-confession-and-suicide</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/first-trial-before-pilate</loc>
+		<loc>/event/first-trial-before-pilate</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hearing-before-herod-antipas</loc>
+		<loc>/event/hearing-before-herod-antipas</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/second-trial-before-pilate</loc>
+		<loc>/event/second-trial-before-pilate</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-crucifixion</loc>
+		<loc>/event/the-crucifixion</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-burial</loc>
+		<loc>/event/the-burial</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-guard-at-the-tomb</loc>
+		<loc>/event/the-guard-at-the-tomb</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/resurrection-through-ascension</loc>
+		<loc>/event/resurrection-through-ascension</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-resurrection</loc>
+		<loc>/event/the-resurrection</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-walk-to-emmaus</loc>
+		<loc>/event/the-walk-to-emmaus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/first-appearance-in-the-upper-room</loc>
+		<loc>/event/first-appearance-in-the-upper-room</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/second-appearance-in-the-upper-room</loc>
+		<loc>/event/second-appearance-in-the-upper-room</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/appearance-by-the-lake-in-galilee</loc>
+		<loc>/event/appearance-by-the-lake-in-galilee</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/appearance-on-a-mountain-in-galilee</loc>
+		<loc>/event/appearance-on-a-mountain-in-galilee</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-ascension</loc>
+		<loc>/event/the-ascension</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/stoning-of-stephen</loc>
+		<loc>/event/stoning-of-stephen</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/prophecies-of-the-end-of-time</loc>
+		<loc>/event/prophecies-of-the-end-of-time</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/conversion-of-paul</loc>
+		<loc>/event/conversion-of-paul</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/paul-in-damascus-and-arabia</loc>
+		<loc>/event/paul-in-damascus-and-arabia</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/pauls-escape-from-damascus</loc>
+		<loc>/event/pauls-escape-from-damascus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/barnabas-and-pauls-mission-in-antioch</loc>
+		<loc>/event/barnabas-and-pauls-mission-in-antioch</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/james-the-brother-of-john-is-martyred-peter-imprisoned</loc>
+		<loc>/event/james-the-brother-of-john-is-martyred-peter-imprisoned</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/book-of-james-written</loc>
+		<loc>/event/book-of-james-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/barnabas-and-paul-take-famine-relief-to-jerusalem</loc>
+		<loc>/event/barnabas-and-paul-take-famine-relief-to-jerusalem</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/pauls-first-missionary-journey-ending-in-antioch</loc>
+		<loc>/event/pauls-first-missionary-journey-ending-in-antioch</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jerusalem-council</loc>
+		<loc>/event/jerusalem-council</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/pauls-second-missionary-journey</loc>
+		<loc>/event/pauls-second-missionary-journey</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/paul-arrives-at-corinth</loc>
+		<loc>/event/paul-arrives-at-corinth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/1-thessalonians-written</loc>
+		<loc>/event/1-thessalonians-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/2-thessalonians-written</loc>
+		<loc>/event/2-thessalonians-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/end-of-pauls-second-missionary-journey</loc>
+		<loc>/event/end-of-pauls-second-missionary-journey</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/pauls-third-missionary-journey</loc>
+		<loc>/event/pauls-third-missionary-journey</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/1-corinthians-written</loc>
+		<loc>/event/1-corinthians-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/2-corinthians-written</loc>
+		<loc>/event/2-corinthians-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/romans-written</loc>
+		<loc>/event/romans-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/paul-imprisoned-two-years-at-caesarea</loc>
+		<loc>/event/paul-imprisoned-two-years-at-caesarea</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/pauls-journey-to-rome</loc>
+		<loc>/event/pauls-journey-to-rome</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ephesians-colossians-philemon-written</loc>
+		<loc>/event/ephesians-colossians-philemon-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/paul-imprisoned-in-rome-two-years</loc>
+		<loc>/event/paul-imprisoned-in-rome-two-years</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/philippians-written</loc>
+		<loc>/event/philippians-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hebrews-written</loc>
+		<loc>/event/hebrews-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/paul-travels-in-crete-asia-minor-and-macedonia</loc>
+		<loc>/event/paul-travels-in-crete-asia-minor-and-macedonia</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/1-peter-written</loc>
+		<loc>/event/1-peter-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/book-of-jude-written</loc>
+		<loc>/event/book-of-jude-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/1-timothy-written</loc>
+		<loc>/event/1-timothy-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/titus-written</loc>
+		<loc>/event/titus-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/2-peter-written</loc>
+		<loc>/event/2-peter-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/2-timothy-written</loc>
+		<loc>/event/2-timothy-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/death-of-paul</loc>
+		<loc>/event/death-of-paul</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/seven-trumpets</loc>
+		<loc>/event/seven-trumpets</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/siege-of-jerusalem-jerusalem-destroyed</loc>
+		<loc>/event/siege-of-jerusalem-jerusalem-destroyed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/1-john-written</loc>
+		<loc>/event/1-john-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/2-john-written</loc>
+		<loc>/event/2-john-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/3-john-written</loc>
+		<loc>/event/3-john-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/revelation-written</loc>
+		<loc>/event/revelation-written</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/constantine-the-great</loc>
+		<loc>/event/constantine-the-great</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/persecution-by-diocletian</loc>
+		<loc>/event/persecution-by-diocletian</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/roman-reign-of-constantine-the-great</loc>
+		<loc>/event/roman-reign-of-constantine-the-great</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/constantine-converts-to-christianity</loc>
+		<loc>/event/constantine-converts-to-christianity</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/edict-of-milan-edict-of-toleration</loc>
+		<loc>/event/edict-of-milan-edict-of-toleration</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/clovis-the-frank-defeats-the-arian-visigoths</loc>
+		<loc>/event/clovis-the-frank-defeats-the-arian-visigoths</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/1290-and-1335-day-prophecies</loc>
+		<loc>/event/1290-and-1335-day-prophecies</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/1260-day-prophecy</loc>
+		<loc>/event/1260-day-prophecy</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-two-beasts-of-revelation-13</loc>
+		<loc>/event/the-two-beasts-of-revelation-13</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/peter-waldo-establishes-waldenses-church</loc>
+		<loc>/event/peter-waldo-establishes-waldenses-church</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/first-inquisition-established-in-languedoc-france</loc>
+		<loc>/event/first-inquisition-established-in-languedoc-france</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/king-alfonso-the-wise</loc>
+		<loc>/event/king-alfonso-the-wise</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/john-wycliffe</loc>
+		<loc>/event/john-wycliffe</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jan-hus-john-huss</loc>
+		<loc>/event/jan-hus-john-huss</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-great-papal-schism</loc>
+		<loc>/event/the-great-papal-schism</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jerome-of-prague</loc>
+		<loc>/event/jerome-of-prague</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-lollards</loc>
+		<loc>/event/the-lollards</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/wycliffe-bible-translation-completed</loc>
+		<loc>/event/wycliffe-bible-translation-completed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jan-hus-john-huss-excommunicated</loc>
+		<loc>/event/jan-hus-john-huss-excommunicated</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/council-of-constance</loc>
+		<loc>/event/council-of-constance</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/john-wycliffe-exhumed-bones-burned</loc>
+		<loc>/event/john-wycliffe-exhumed-bones-burned</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/council-of-basel</loc>
+		<loc>/event/council-of-basel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jacques-lefevre</loc>
+		<loc>/event/jacques-lefevre</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/gutenberg-bible</loc>
+		<loc>/event/gutenberg-bible</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/desiderius-erasmus</loc>
+		<loc>/event/desiderius-erasmus</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/guillaume-briconnet</loc>
+		<loc>/event/guillaume-briconnet</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/pope-leo-x</loc>
+		<loc>/event/pope-leo-x</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/thomas-more</loc>
+		<loc>/event/thomas-more</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/martin-luther</loc>
+		<loc>/event/martin-luther</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/ulrich-zwingli</loc>
+		<loc>/event/ulrich-zwingli</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hugh-latimer</loc>
+		<loc>/event/hugh-latimer</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/thomas-cranmer</loc>
+		<loc>/event/thomas-cranmer</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/william-farel</loc>
+		<loc>/event/william-farel</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/william-tyndale</loc>
+		<loc>/event/william-tyndale</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/olaf-petri</loc>
+		<loc>/event/olaf-petri</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/hans-tausen</loc>
+		<loc>/event/hans-tausen</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/menno-simons</loc>
+		<loc>/event/menno-simons</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/philip-melanchthon</loc>
+		<loc>/event/philip-melanchthon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/laurentius-petri</loc>
+		<loc>/event/laurentius-petri</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/john-calvin</loc>
+		<loc>/event/john-calvin</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/luther-travels-to-rome</loc>
+		<loc>/event/luther-travels-to-rome</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/luther-begins-lecturing-at-wittenburg</loc>
+		<loc>/event/luther-begins-lecturing-at-wittenburg</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/john-knox</loc>
+		<loc>/event/john-knox</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/erasmus-new-testament</loc>
+		<loc>/event/erasmus-new-testament</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/luther-nails-the-ninetyfive-theses</loc>
+		<loc>/event/luther-nails-the-ninetyfive-theses</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/zwingli-begins-his-ministry</loc>
+		<loc>/event/zwingli-begins-his-ministry</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/leipzig-debate</loc>
+		<loc>/event/leipzig-debate</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/exsurge-domine</loc>
+		<loc>/event/exsurge-domine</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/luther-excommunicated</loc>
+		<loc>/event/luther-excommunicated</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/diet-of-worms</loc>
+		<loc>/event/diet-of-worms</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/luthers-new-testament</loc>
+		<loc>/event/luthers-new-testament</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-zurich-disputations</loc>
+		<loc>/event/the-zurich-disputations</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-anabaptist-movement</loc>
+		<loc>/event/the-anabaptist-movement</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-peasants-revolt</loc>
+		<loc>/event/the-peasants-revolt</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/luther-marries-katherine-von-bora</loc>
+		<loc>/event/luther-marries-katherine-von-bora</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/sack-of-rome</loc>
+		<loc>/event/sack-of-rome</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/marburg-colloquy</loc>
+		<loc>/event/marburg-colloquy</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/diet-of-augsburg</loc>
+		<loc>/event/diet-of-augsburg</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/thomas-cranmer-appointed-archbishop-of-canterbury</loc>
+		<loc>/event/thomas-cranmer-appointed-archbishop-of-canterbury</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/henry-viii-acknowledged-as-head-of-the-english-church</loc>
+		<loc>/event/henry-viii-acknowledged-as-head-of-the-english-church</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/first-full-english-bible-published</loc>
+		<loc>/event/first-full-english-bible-published</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/dissolution-of-english-monasteries</loc>
+		<loc>/event/dissolution-of-english-monasteries</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/implementation-of-lutheran-reformation-in-denmark</loc>
+		<loc>/event/implementation-of-lutheran-reformation-in-denmark</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/calvin-sent-away-from-geneva</loc>
+		<loc>/event/calvin-sent-away-from-geneva</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/publication-of-the-great-bible-in-england</loc>
+		<loc>/event/publication-of-the-great-bible-in-england</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-act-of-six-articles</loc>
+		<loc>/event/the-act-of-six-articles</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-jesuits</loc>
+		<loc>/event/the-jesuits</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/diet-of-regensburg</loc>
+		<loc>/event/diet-of-regensburg</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/calvins-ecclesiastical-ordinances-established</loc>
+		<loc>/event/calvins-ecclesiastical-ordinances-established</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-roman-inquisition</loc>
+		<loc>/event/the-roman-inquisition</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-council-of-trent</loc>
+		<loc>/event/the-council-of-trent</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-catholic-counterreformation</loc>
+		<loc>/event/the-catholic-counterreformation</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/king-edward-vi</loc>
+		<loc>/event/king-edward-vi</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/queen-mary-i</loc>
+		<loc>/event/queen-mary-i</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/peace-of-augsburg</loc>
+		<loc>/event/peace-of-augsburg</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/geneva-academy</loc>
+		<loc>/event/geneva-academy</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-index-of-prohibited-books</loc>
+		<loc>/event/the-index-of-prohibited-books</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/jacobus-arminius</loc>
+		<loc>/event/jacobus-arminius</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/wars-of-religion-in-france</loc>
+		<loc>/event/wars-of-religion-in-france</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-heidelberg-catechism</loc>
+		<loc>/event/the-heidelberg-catechism</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/elizabeth-i-excommunicated</loc>
+		<loc>/event/elizabeth-i-excommunicated</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/st-bartholomews-day-massacre</loc>
+		<loc>/event/st-bartholomews-day-massacre</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-book-of-concord</loc>
+		<loc>/event/the-book-of-concord</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/synod-of-dort</loc>
+		<loc>/event/synod-of-dort</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/thirty-years-war</loc>
+		<loc>/event/thirty-years-war</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/john-bunyan</loc>
+		<loc>/event/john-bunyan</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-english-civil-war</loc>
+		<loc>/event/the-english-civil-war</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-treaty-of-westphalia</loc>
+		<loc>/event/the-treaty-of-westphalia</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-lisbon-earthquake</loc>
+		<loc>/event/the-lisbon-earthquake</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/beast-rises-from-the-earth</loc>
+		<loc>/event/beast-rises-from-the-earth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-dark-day</loc>
+		<loc>/event/the-dark-day</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-great-meteor-shower</loc>
+		<loc>/event/the-great-meteor-shower</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/church-of-ephesus-apostolic-church-age</loc>
+		<loc>/event/church-of-ephesus-apostolic-church-age</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/church-of-smyrna-age-of-martyrdom</loc>
+		<loc>/event/church-of-smyrna-age-of-martyrdom</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/church-of-pergamos-age-of-popularity</loc>
+		<loc>/event/church-of-pergamos-age-of-popularity</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/church-of-thyatira-age-of-adversity</loc>
+		<loc>/event/church-of-thyatira-age-of-adversity</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/church-of-sardis-reformation-age</loc>
+		<loc>/event/church-of-sardis-reformation-age</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/church-of-philadelphia-great-enlightenment-age</loc>
+		<loc>/event/church-of-philadelphia-great-enlightenment-age</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/church-of-laodicea-age-of-judgment</loc>
+		<loc>/event/church-of-laodicea-age-of-judgment</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/three-angels-messages-proclaimed-to-all-the-earth</loc>
+		<loc>/event/three-angels-messages-proclaimed-to-all-the-earth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/deadly-wound-healed</loc>
+		<loc>/event/deadly-wound-healed</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/close-of-probation</loc>
+		<loc>/event/close-of-probation</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/global-persecution-by-sea-earth-beasts</loc>
+		<loc>/event/global-persecution-by-sea-earth-beasts</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/seven-last-plagues</loc>
+		<loc>/event/seven-last-plagues</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/battle-of-armageddon</loc>
+		<loc>/event/battle-of-armageddon</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/fall-of-babylon-and-loud-cry</loc>
+		<loc>/event/fall-of-babylon-and-loud-cry</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/return-of-christ</loc>
+		<loc>/event/return-of-christ</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/resurrection-and-translation-of-the-saints</loc>
+		<loc>/event/resurrection-and-translation-of-the-saints</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/imprisonment-of-satan-on-earth-judgment-by-saints-in-heaven</loc>
+		<loc>/event/imprisonment-of-satan-on-earth-judgment-by-saints-in-heaven</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/gods-kingdom-setup-stone</loc>
+		<loc>/event/gods-kingdom-setup-stone</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/the-judgment</loc>
+		<loc>/event/the-judgment</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/christs-everlasting-kingdom</loc>
+		<loc>/event/christs-everlasting-kingdom</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/millennium</loc>
+		<loc>/event/millennium</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/seven-seals</loc>
+		<loc>/event/seven-seals</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/new-jerusalem-descends-from-heaven-to-earth</loc>
+		<loc>/event/new-jerusalem-descends-from-heaven-to-earth</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/wicked-are-resurrected-in-bodily-form</loc>
+		<loc>/event/wicked-are-resurrected-in-bodily-form</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/wicked-are-destroyed-forever</loc>
+		<loc>/event/wicked-are-destroyed-forever</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/paradise-restored</loc>
+		<loc>/event/paradise-restored</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniels-babylon-prophecies</loc>
+		<loc>/event/daniels-babylon-prophecies</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniels-medopersia-prophecies</loc>
+		<loc>/event/daniels-medopersia-prophecies</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniels-greece-prophecies</loc>
+		<loc>/event/daniels-greece-prophecies</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniels-rome-prophecies</loc>
+		<loc>/event/daniels-rome-prophecies</loc>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://www.biblehistory.com/event/daniels-divided-europe-prophecies</loc>
+		<loc>/event/daniels-divided-europe-prophecies</loc>
 		<priority>0.7</priority>
 	</url>
 
