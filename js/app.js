@@ -175,7 +175,7 @@
 			$('div.media div.slides').html('');
 			var template = $('.media-template').html();
 			var image = template;
-			image = image.replace('%filename%', v['file']);
+			image = d.images;
 				$('div.media div.slides').append(image);
 				$('div.media ul.pagination').append('<li>'+i+'</li>');
 
