@@ -624,8 +624,8 @@ input,select{vertical-align:middle}
 
 
 	div.landing-paper {
-		background: url('/css/img/paper-bg.jpg');
-		background-color: #fff;
+		/* background: url('/css/img/paper-bg.jpg'); */
+		background-color: #ccc;
 		width: 10000px;
 		height: 100%;
 		margin-left: -400px;
