@@ -1555,6 +1555,7 @@ input,select{vertical-align:middle}
 		height: 1340px;
 		height: 100%;
 		width: 2000px;
+		opacity: 0.8;
 		position: absolute;
 		background: url('/css/img/paper-bg.jpg');
 		-webkit-background-size: 1400px 100%;
