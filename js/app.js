@@ -170,11 +170,11 @@
 			// 	$('div.media ul.pagination').append('<li>'+i+'</li>');
 			// });
 
-			// Update Event Detail (Images)
+			// Update Event Detail (Images) // Editado Darien
 			$('div.media ul.pagination').html('');
 			$('div.media div.slides').html('');
 			var template = $('.media-template').html();
-				$('div.media div.mi_imagen').append('<img src="'+d.images+'">');
+				$('div.media div.mi_imagen').html('<img src="'+d.images+'">');
 				$('div.media ul.pagination').append('<li>'+i+'</li>');
 
 
