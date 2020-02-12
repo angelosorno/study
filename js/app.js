@@ -174,9 +174,7 @@
 			$('div.media ul.pagination').html('');
 			$('div.media div.slides').html('');
 			var template = $('.media-template').html();
-			var image = template;
-			image = d.images;
-				$('div.media div.mi_imagen').append(image);
+				$('div.media div.mi_imagen').append('<img src="'+d.images+'">');
 				$('div.media ul.pagination').append('<li>'+i+'</li>');
 
 
