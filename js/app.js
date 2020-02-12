@@ -177,6 +177,7 @@
 
 
 
+
 			// Update Event Detail (Video)
 			$('div.box.videos ul').html('');
 			if( d.videos.length > 0 ){
