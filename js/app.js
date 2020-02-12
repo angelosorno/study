@@ -176,7 +176,7 @@
 			var template = $('.media-template').html();
 				$('div.media div.slides').append(d.images);
 				$('div.media ul.pagination').append('<li>'+i+'</li>');
-			});
+		
 
 
 			// Update Event Detail (Video)
