@@ -959,6 +959,7 @@
 	</div>
 
 
+<script src="js/libs/jquery.js"></script>
 
 	<!-- Period Offsets -->
 	<script>
@@ -979,10 +980,12 @@ for (var i = 0; i < json_data.length; i++) {
 
 }
 var event_consol = {1:[event_consol_array]};
+var event_consol2 = {2:[event_consol_array]}
 
 
-var events = event_consol;
-console.log(events);
+
+var events = $.extend(true ,event_consol, event_consol2);
+console.log($.extend(true ,event_consol, event_consol2));
 		// var events = <?php //require ('php/data/Data_EN.json'); ?>;
 		var period_offsets = [[0,1.9704433497537,-4100,1.1],[1320,6.23973727422,-2900,4.4],[5500,4.9261083743842,-1950,11],[8800,1.3136288998358,-1650,4.4],[9680,2.2988505747126,-1450,4.4],[11220,5.5829228243021,-1100,22],[14960,10.180623973727,-930,22],[21780,8.5385878489327,-620,11],[27500,22.167487684729,-100,110],[42240,10.344827586207,35,22],[49170,7.7175697865353,350,4.4],[54340,10.509031198686,1520,22],[61380,8.3743842364532,1840,4.4]];
 		var periods = [
@@ -1088,7 +1091,7 @@ console.log(events);
 
 
 	<!-- Libraries -->
-	<script src="js/libs/jquery.js"></script>
+
 	<script src="js/libs/underscore.min.js"></script>
 	<script src="js/libs/backbone.min.js"></script>
 
