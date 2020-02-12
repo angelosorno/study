@@ -25,7 +25,7 @@
 	<!-- ****************************************** -->
 	<!-- Menu -->
 	<!-- ****************************************** -->
-	<div class="menu open">
+	<div class="menu closed">
 		<div class="background"></div>
 		<h2>Linea del Tiempo</h2>
 		<div class="menu-items-wrap">
@@ -694,7 +694,7 @@
 	<div class="detail" name="modal_data" id="modal_data">
 		<div class="container">
 			<div class="media">
-				<div class="mi_imagen"><img src= "https://topmusic.mx/wp-content/uploads/2018/12/cielo_1024.jpg"></div>
+				<div class="mi_imagen"></div>
 
 				<!-- Media Slide Template -->
 				<script type="text/template" class="media-template">
