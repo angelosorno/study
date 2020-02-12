@@ -1,6 +1,9 @@
 # Folders
 images
 
+# Folders
+url_base.php
+
 # Files Binary
 *.jpg
 *.png
