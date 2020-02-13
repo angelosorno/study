@@ -1074,9 +1074,9 @@
 
 	// left_val = 271;
 	// witdth_val =0;
-
-		var left_val = (((period_offsets[parseInt(json_data[i].period)][2])- parseInt(json_data[i].startdate)) * period_offsets[parseInt(json_data[i].period)][3])+period_offsets[parseInt(json_data[i].period)][0];
-		var width_val = ((parseInt(json_data[i].enddate) - parseInt(json_data[i].startdate))* period_offsets[parseInt(json_data[i].period)][3])+period_offsets[parseInt(json_data[i].period)][0];
+	console.log(period_offsets[(parseInt(json_data[i].period)-1)][2]);
+		var left_val = (((parseInt(json_data[i].startdate) - period_offsets[(parseInt(json_data[i].period)-1)][2])) * period_offsets[(parseInt(json_data[i].period)-1)][3])+period_offsets[(parseInt(json_data[i].period)-1)][0];
+		var width_val = ((parseInt(json_data[i].enddate) - parseInt(json_data[i].startdate))* period_offsets[(parseInt(json_data[i].period)-1)][3])+period_offsets[(parseInt(json_data[i].period)-1)][0];
 
 
 
