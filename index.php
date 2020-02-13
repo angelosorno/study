@@ -1096,6 +1096,7 @@
 		labelsize +
 					'<h3>'+json_data[i].title+'</h3>'+
 					'<h4>3954&ndash;3024 <span>AC</span> <small>(930)</small></h4></div>'+
+					'<div class="image" style='+'"'+'background-image:url('+json_data[i].images+');'+'"'+'></div>'+
 		 '</div>'+'"';
 
 	}
