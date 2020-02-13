@@ -1092,7 +1092,7 @@
 			labelsize = '<div class= "info full">';
 		}
 
-		event_consol_array += '"'+'<div class="event hover '+json_data[i].labelsize+' row-'+json_data[i].row+' period-'+json_data[i].period+' " style= "left: '+left_val+'px; width: '+width_val+'px;" data-id= "'+json_data[i].id+'" data-period= "'+json_data[i].period+'" data-hover= "'+json_data[i].id+'" data-slug= "'+json_data[i].slug+'" data-start= "-3954" data-end= "-3024">'+
+		event_consol_array += '"'+'<div class="event hover '+json_data[i].labelsize+' row-'+json_data[i].row+' period-'+json_data[i].period+' " style= "left: '+left_val+'px; width: '+width_val+'px;" data-id= "'+json_data[i].id+'" data-period= "'+json_data[i].period+'" data-hover= "'+json_data[i].id+'" data-slug= "'+json_data[i].slug+'" data-start= "'+ json_data[i].startdate +'" data-end= "'+json_data[i].enddate+'">'+
 		labelsize +
 					'<h3>'+json_data[i].title+'</h3>'+
 					'<h4>3954&ndash;3024 <span>AC</span> <small>(930)</small></h4></div>'+
