@@ -800,7 +800,7 @@
 					<h2>PRIMERA GENERACIÓN</h2>
 					<h4>Creación&ndash;c.2500 <span>AC</span></h4>
 					<p>Desde la creación de Adán y Eva, hasta el asesinato de Abel por Caín, y la historia humana antes del diluvio.</p>
-				</div>	
+				</div>
 				<div class="period-2">
 					<h3>La dispensación</h3>
 					<h2>NOE Y EL DILUVIO</h2>
@@ -963,30 +963,8 @@
 
 	<!-- Period Offsets -->
 	<script>
-	var json_data = <?php require ('php/events.php'); ?>;
-	console.log(json_data);
-	var event_consol_array = [];
-for (var i = 0; i < json_data.length; i++) {
-	labelsize = "";
-	if (json_data[i].labelsize === 'major') {
-		labelsize = '<div class= "info full">';
-	}
 
-	event_consol_array += '"'+'<div class="event hover '+json_data[i].labelsize+' row-'+json_data[i].row+' period-'+json_data[i].period+' " style= "left: '+json_data[i].left+'px; width: '+json_data[i].width+';" data-id= "'+json_data[i].id+'" data-period= "'+json_data[i].period+'" data-hover= "'+json_data[i].id+'" data-slug= "'+json_data[i].slug+'" data-start= "-3954" data-end= "-3024">'+
-	labelsize +
-				'<h3>'+json_data[i].title+'</h3>'+
-				'<h4>3954&ndash;3024 <span>AC</span> <small>(930)</small></h4></div>'+
-	 '</div>'+'"';
-
-}
-var event_consol = {1:[event_consol_array]};
-var event_consol2 = {2:[event_consol_array]}
-
-
-
-var events = $.extend(true ,event_consol, event_consol2);
-console.log($.extend(true ,event_consol, event_consol2));
-		// var events = <?php //require ('php/data/Data_EN.json'); ?>;
+		var events2 = <?php //require ('php/data/Data_EN.json'); ?>"";
 		var period_offsets = [[0,1.9704433497537,-4100,1.1],[1320,6.23973727422,-2900,4.4],[5500,4.9261083743842,-1950,11],[8800,1.3136288998358,-1650,4.4],[9680,2.2988505747126,-1450,4.4],[11220,5.5829228243021,-1100,22],[14960,10.180623973727,-930,22],[21780,8.5385878489327,-620,11],[27500,22.167487684729,-100,110],[42240,10.344827586207,35,22],[49170,7.7175697865353,350,4.4],[54340,10.509031198686,1520,22],[61380,8.3743842364532,1840,4.4]];
 		var periods = [
 		  [
@@ -1087,6 +1065,42 @@ console.log($.extend(true ,event_consol, event_consol2));
 		var routerFlag = true;
 		var detailCloseFlag = false;
 		var currentUser = 0;
+
+// Calc Data Events
+		var json_data = <?php require ('php/events.php'); ?>;
+		console.log(json_data);
+		var event_consol_array = [];
+	for (var i = 0; i < json_data.length; i++) {
+
+	// left_val = 271;
+	// witdth_val =0;
+
+		var left_val = (((period_offsets[parseInt(json_data[i].period)][2])- parseInt(json_data[i].startdate)) * period_offsets[parseInt(json_data[i].period)][3])+period_offsets[parseInt(json_data[i].period)][0];
+		var width_val = ((parseInt(json_data[i].enddate) - parseInt(json_data[i].startdate))* period_offsets[parseInt(json_data[i].period)][3])+period_offsets[parseInt(json_data[i].period)][0];
+
+
+
+		labelsize = "";
+		if (json_data[i].labelsize === 'major') {
+			labelsize = '<div class= "info full">';
+		}
+
+		event_consol_array += '"'+'<div class="event hover '+json_data[i].labelsize+' row-'+json_data[i].row+' period-'+json_data[i].period+' " style= "left: '+left_val+'px; width: '+width_val+'px;" data-id= "'+json_data[i].id+'" data-period= "'+json_data[i].period+'" data-hover= "'+json_data[i].id+'" data-slug= "'+json_data[i].slug+'" data-start= "-3954" data-end= "-3024">'+
+		labelsize +
+					'<h3>'+json_data[i].title+'</h3>'+
+					'<h4>3954&ndash;3024 <span>AC</span> <small>(930)</small></h4></div>'+
+		 '</div>'+'"';
+
+	}
+	var event_consol = {1:[event_consol_array]};
+	var event_consol2 = {2:[event_consol_array]}
+
+
+
+	var events = $.extend(true ,event_consol, event_consol2);
+	console.log($.extend(true ,event_consol, event_consol2));
+
+
 	</script>
 
 
