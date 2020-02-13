@@ -741,8 +741,10 @@
 					<li><a href="#">Escrituras</a></li>
 					<li><a href="#">Personajes</a></li>
 					<li><a href="#">Lugares</a></li>
+					<li><a href="#">Costumbres</a></li>
 					<!-- <li class="videos"><a href="#">Videos</a></li> -->
-					<li class="favorites"><a href="#">Agregar a Favoritos</a></li>
+
+					<!-- <li class="favorites"><a href="#">Agregar a Favoritos</a></li> -->
 				</ul>
 
 				<div class="dashed-line"></div>
@@ -758,12 +760,17 @@
 				<div class="box related">
 					<ul></ul>
 				</div>
-				<div class="box location">
-					<p>https://gmapgis.com/viewer.html?fcode=TCP4h4drTs5</p>
+				<div class="box places">
+					<p></p>
 				</div>
+				<div class="box costumbres">
+					<p></p>
+				</div>
+
 				<div class="box videos">
 					<ul></ul>
 				</div>
+
 			</div>
 		</div>
 	</div>
