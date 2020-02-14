@@ -280,21 +280,21 @@
 
 
 		if( current_year < -100){
-			$('.current-year').html(Math.abs(Math.round(current_year)) + '<span>BC</span>' );
+			$('.current-year').html(Math.abs(Math.round(current_year)) + '<span>AC</span>' );
 		}
 		if( current_year > -100 && current_year < 0 ){
 			current_year = period_offsets[period-1][2] + (adjust_left - period_offsets[period-1][0] - 60 ) / period_offsets[period-1][3];
-			$('.current-year').html( Math.abs(Math.round(current_year)) + '<span>BC</span>' );
+			$('.current-year').html( Math.abs(Math.round(current_year)) + '<span>AC</span>' );
 		}
 		if( current_year > 0 && current_year < 34 ){
 			current_year = period_offsets[period-1][2] + (adjust_left - period_offsets[period-1][0] + 60 ) / period_offsets[period-1][3];
-			$('.current-year').html( Math.abs(Math.round(current_year)) + '<span>AD</span>' );
+			$('.current-year').html( Math.abs(Math.round(current_year)) + '<span>DC</span>' );
 		}
 		if( current_year >= 34 && current_year < 2014 ){
-			$('.current-year').html( Math.abs(Math.round(current_year)) + '<span>AD</span>' );
+			$('.current-year').html( Math.abs(Math.round(current_year)) + '<span>DC</span>' );
 		}
 		if( current_year >= 2014 ){
-			$('.current-year').html( 'Future' );
+			$('.current-year').html( 'Futuro' );
 		}
 
 	}
