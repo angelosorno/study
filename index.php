@@ -8,6 +8,7 @@
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
 	<link rel="stylesheet" type="text/css" href="css/typography.css" />
 	<link rel="stylesheet" type="text/css" href="css/timeline.css" />
+	<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet"> 
 </head>
 <body>
 
