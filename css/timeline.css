@@ -1654,9 +1654,9 @@ input,select{vertical-align:middle}
 		position: absolute;
 		height: 80px;
 		width: 260px;
-		background: #13144f; /*#fcf9ef;*/
-		box-shadow: inset 0px 0px 25px rgba(24, 13, 53, 0.9);
-		border-radius: 40px;
+		background: #2d4f91; /*#fcf9ef;*/
+		/* box-shadow: inset 0px 0px 25px rgba(24, 13, 53, 0.9); */
+		border-radius: 33px;
 		border-bottom-left-radius: 0px;
 		overflow: hidden;
 		cursor: pointer;
