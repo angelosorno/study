@@ -9,7 +9,7 @@
 	<link rel="stylesheet" type="text/css" href="css/typography.css" />
 	<link rel="stylesheet" type="text/css" href="css/timeline.css" />
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.1/css/all.css">
-	<!-- <link href="https://demo.webpixels.io/purpose-application-ui-kit-v1.0.0/assets/css/purpose.css" rel="stylesheet"> -->
+	<link rel="stylesheet" type="text/css" href="css/timeline.css" />
 	<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 <body>
