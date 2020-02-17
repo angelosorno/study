@@ -1,38 +1,46 @@
-<nav class="navbar navbar-horizontal navbar-expand-lg navbar-light bg-white">
-    <div class="container">
-        <a class="navbar-brand" href="#">Default Color</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-primary" aria-controls="navbar-primary" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbar-primary">
-
-            <ul class="navbar-nav ml-lg-auto">
-                <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="#">
-                        <i class="ni ni-favourite-28"></i>
-                        <span class="nav-link-inner--text d-lg-none">Discover</span>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="#">
-                        <i class="ni ni-notification-70"></i>
-                        <span class="nav-link-inner--text d-lg-none">Profile</span>
-                    </a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link nav-link-icon" href="#" id="navbar-primary_dropdown_1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <i class="ni ni-settings-gear-65"></i>
-                        <span class="nav-link-inner--text d-lg-none">Settings</span>
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbar-primary_dropdown_1">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                    </div>
-                </li>
-            </ul>
-
-        </div>
+<div class="menu closed">
+  <div class="background"></div>
+  <h2>Linea del Tiempo</h2>
+  <div class="menu-items-wrap">
+    <ul class="menu-items">
+      <li class="home"></li>
+      <li class="faq fade" data-dropdown="faq"></li>
+      <li class="account fade" data-dropdown="account"></li>
+      <li class="favorites fade" data-dropdown="favorites"></li>
+      <!-- <li class="tools fade"></li> -->
+    </ul>
+    <div class="search-icon"></div>
+    <input type="text" class="search" />
+  </div>
+  <div class="menu-toggle">
+    <div class="inner-circle"></div>
+    <span class="open">+</span>
+    <span class="close">&ndash;</span>
+  </div>
+  <div class="dropdowns">
+    <!-- FAQ -->
+    <div class="dropdown faq">
+      <div class="arrow"></div>
+      <h4>Preguntas Frecuentes</h4>
+      <div class="list">
+        <ul>
+        <li data-id = "0"> ¿Cuál es la línea de tiempo? </li>
+        <li data-id = "1"> ¿Cómo determinó las fechas, particularmente el momento de la creación? </li>
+        <li data-id = "2"> ¿Cuáles son sus fuentes principales para la línea de tiempo? </li>
+        <li data-id = "3"> ¿Está prediciendo cuándo volverá Cristo? </li>
+        <li data-id = "4"> ¿Puedo ver la línea de tiempo en un iPad u otra tableta? </li>
+        <li data-id = "5"> ¿Qué navegadores admiten esta línea de tiempo? </li>
+        </ul>
+      </div>
     </div>
-</nav>
+    <!-- Settings -->
+    <div class="dropdown account">
+      <div class="arrow"></div>
+      <h4>Configurar mi cuenta</h4>
+      <div class="list">
+        <ul>
+                        <li class="signin">Iniciar</li>
+            <li class="signout" style="display:none;">Cerrar</li>
+                    </ul>
+      </div>
+    </div>
