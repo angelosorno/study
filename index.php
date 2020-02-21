@@ -997,9 +997,9 @@
 		// Mirar si en el periodo ya esta ese Row
 		// Tener un acumulador de Rows para que mire si el nuevo Row Se Interpone en ese Row
 		// Opcion de Poner el Row en la base de datos y compara si esta aca
-if (parseInt(json_data[i].enddate) >= period_offsets[(parseInt(json_data[i].period)-1)][2]) {
-	console.log("Va en este Periodo: " + parseInt(json_data[i].enddate)) ;
-}
+	if (parseInt(json_data[i].enddate) >= period_offsets[(parseInt(json_data[i].period)-1)][2]) {
+		console.log("Va en este Periodo: " + parseInt(json_data[i].enddate)) ;
+	}
 
 
 	// left_val = 271;
