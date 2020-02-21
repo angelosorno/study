@@ -149,6 +149,8 @@
 			// Update Event Detail (Scriptures) By Single String (Darien)
 			$('div.box.scriptures').html(d.scriptures);
 
+			$('div.box.costumbres p').html(d.usos_costum);
+			$('div.box.places p').html(d.geo_location);
 
 			// // Update Event Detail (Related)
 			// $('div.box.related ul').html('');

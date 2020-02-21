@@ -1557,7 +1557,7 @@ input,select{vertical-align:middle}
 		width: 2000px;
 		opacity: 0.8;
 		position: absolute;
-		background: url('/css/img/paper-bg.jpg');
+		/* background: url('/css/img/paper-bg.jpg'); */
 		-webkit-background-size: 1400px 100%;
 		   -moz-background-size: 1400px 100%;
 		     -o-background-size: 1400px 100%;
@@ -1654,9 +1654,9 @@ input,select{vertical-align:middle}
 		position: absolute;
 		height: 80px;
 		width: 260px;
-		background: #265fa8; /*#fcf9ef;*/
-		/* box-shadow: inset 0px 0px 25px rgba(117,117,104,0.9); */
-		border-radius: 9px;
+		background: #2d4f91; /*#fcf9ef;*/
+		/* box-shadow: inset 0px 0px 25px rgba(24, 13, 53, 0.9); */
+		border-radius: 50px;
 		border-bottom-left-radius: 0px;
 		overflow: hidden;
 		cursor: pointer;
@@ -1677,29 +1677,29 @@ input,select{vertical-align:middle}
 
 
 		div.stage div.event h3 {
-			font-family: 'interstate_lightcompressedRg';
-			text-transform: uppercase;
-			font-size: 20px;
+			/* font-family: 'interstate_lightcompressedRg'; */
+			/* text-transform: uppercase; */
+			/* font-size: 20px; */
 			font-weight: normal;
 			text-align: center;
-			padding-bottom: 8px;
-			margin-bottom: 10px;
-			border-bottom: 1px dashed #222;
+			padding-bottom: 3px;
+			margin-bottom: 5px;
+			border-bottom: 1px dashed #6ba5ff;
 			pointer-events: none;
 		}
 		div.stage div.event h4 {
 			font-family: 'hoeflernew_-swashitalic';
 			font-weight: 200;
-			font-size: 15px;
+			font-size: 13px;
 			pointer-events: none;
 			text-align: center;
 		}
 			div.stage div.event h4 small {
-				font-size: 13px;
+				font-size: 10px;
 				font-family: Georgia, serif;
 			}
-			div.stage div.event h4 span.small { font-size: 14px; }
-		div.stage div.event h4 span { font-size: 14px;}
+			div.stage div.event h4 span.small { font-size: 8px; }
+		div.stage div.event h4 span { font-size: 10px;}
 		div.stage div.event div.image {
 			height: 80px;
 			width: 95px;
@@ -1833,7 +1833,7 @@ input,select{vertical-align:middle}
 		height: 100%; width: 100%;
 		z-index: 600;
 		/* background: url('/css/img/detail-bg.png'); */
-		background-color: rgba(255, 239, 229, 0.88);
+		background-color: rgba(22, 23, 27, 0.95);
 		cursor: pointer;
 	}
 	div.detail div.container {

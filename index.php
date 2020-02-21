@@ -8,6 +8,8 @@
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
 	<link rel="stylesheet" type="text/css" href="css/typography.css" />
 	<link rel="stylesheet" type="text/css" href="css/timeline.css" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.1/css/all.css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -741,8 +743,10 @@
 					<li><a href="#">Escrituras</a></li>
 					<li><a href="#">Personajes</a></li>
 					<li><a href="#">Lugares</a></li>
+					<li><a href="#">Costumbres</a></li>
 					<!-- <li class="videos"><a href="#">Videos</a></li> -->
-					<li class="favorites"><a href="#">Agregar a Favoritos</a></li>
+
+					<!-- <li class="favorites"><a href="#">Agregar a Favoritos</a></li> -->
 				</ul>
 
 				<div class="dashed-line"></div>
@@ -758,12 +762,17 @@
 				<div class="box related">
 					<ul></ul>
 				</div>
-				<div class="box location">
-					<p>https://gmapgis.com/viewer.html?fcode=TCP4h4drTs5</p>
+				<div class="box places">
+					<p></p>
 				</div>
+				<div class="box costumbres">
+					<p></p>
+				</div>
+
 				<div class="box videos">
 					<ul></ul>
 				</div>
+
 			</div>
 		</div>
 	</div>
@@ -800,7 +809,7 @@
 					<h2>PRIMERA GENERACIÓN</h2>
 					<h4>Creación&ndash;c.2500 <span>AC</span></h4>
 					<p>Desde la creación de Adán y Eva, hasta el asesinato de Abel por Caín, y la historia humana antes del diluvio.</p>
-				</div>	
+				</div>
 				<div class="period-2">
 					<h3>La dispensación</h3>
 					<h2>NOE Y EL DILUVIO</h2>
@@ -963,130 +972,66 @@
 
 	<!-- Period Offsets -->
 	<script>
-	var json_data = <?php require ('php/events.php'); ?>;
-	console.log(json_data);
-	var event_consol_array = [];
-for (var i = 0; i < json_data.length; i++) {
-	labelsize = "";
-	if (json_data[i].labelsize === 'major') {
-		labelsize = '<div class= "info full">';
-	}
 
-	event_consol_array += '"'+'<div class="event hover '+json_data[i].labelsize+' row-'+json_data[i].row+' period-'+json_data[i].period+' " style= "left: '+json_data[i].left+'px; width: '+json_data[i].width+';" data-id= "'+json_data[i].id+'" data-period= "'+json_data[i].period+'" data-hover= "'+json_data[i].id+'" data-slug= "'+json_data[i].slug+'" data-start= "-3954" data-end= "-3024">'+
-	labelsize +
-				'<h3>'+json_data[i].title+'</h3>'+
-				'<h4>3954&ndash;3024 <span>AC</span> <small>(930)</small></h4></div>'+
-	 '</div>'+'"';
-
-}
-var event_consol = {1:[event_consol_array]};
-var event_consol2 = {2:[event_consol_array]}
-
-
-
-var events = $.extend(true ,event_consol, event_consol2);
-console.log($.extend(true ,event_consol, event_consol2));
-		// var events = <?php //require ('php/data/Data_EN.json'); ?>;
+		var events2 = <?php //require ('php/data/Data_EN.json'); ?>"";
 		var period_offsets = [[0,1.9704433497537,-4100,1.1],[1320,6.23973727422,-2900,4.4],[5500,4.9261083743842,-1950,11],[8800,1.3136288998358,-1650,4.4],[9680,2.2988505747126,-1450,4.4],[11220,5.5829228243021,-1100,22],[14960,10.180623973727,-930,22],[21780,8.5385878489327,-620,11],[27500,22.167487684729,-100,110],[42240,10.344827586207,35,22],[49170,7.7175697865353,350,4.4],[54340,10.509031198686,1520,22],[61380,8.3743842364532,1840,4.4]];
-		var periods = [
-		  [
-		    -4100,
-		    -2900,
-		    100,
-		    "Primera Generacion ",
-		    "Era de los Patriarcas"
-		  ],
-		  [
-		    -2900,
-		    -1950,
-		    25,
-		    "Noe y el Diluvio",
-		    "Era de los Patriarcas"
-		  ],
-		  [
-		    -1950,
-		    -1650,
-		    10,
-		    "Los Patriarcas",
-		    "Era de los Patriarcas"
-		  ],
-		  [
-		    -1650,
-		    -1450,
-		    25,
-		    "Israel en Egipto",
-		    "Era de Israel"
-		  ],
-		  [
-		    -1450,
-		    -1100,
-		    25,
-		    "Los Jueces",
-		    "Era de Israel"
-		  ],
-		  [
-		    -1100,
-		    -930,
-		    5,
-		    "El Reino Unido",
-		    "Era de Israel"
-		  ],
-		  [
-		    -930,
-		    -620,
-		    5,
-		    "El Reino Dividido",
-		    "Era de Israel"
-		  ],
-		  [
-		    -620,
-		    -100,
-		    10,
-		    "El Exilio",
-		    "Era de Israel"
-		  ],
-		  [
-		    -100,
-		    35,
-		    1,
-		    "Life of Christ",
-		    "Age of Christ"
-		  ],
-		  [
-		    35,
-		    350,
-		    5,
-		    "Early Church",
-		    "Age of Christ"
-		  ],
-		  [
-		    350,
-		    1520,
-		    25,
-		    "Middle Ages",
-		    "Age of Christ"
-		  ],
-		  [
-		    1520,
-		    1840,
-		    5,
-		    "Reformation",
-		    "Age of Christ"
-		  ],
-		  [
-		    1840,
-		    3100,
-		    25,
-		    "Revelation Prophecies",
-		    "Age of Christ"
-		  ]
-		];
+		var periods = [[-4100,-2900,100,"First Generation","Age of Patriarchs"],[-2900,-1950,25,"Noah & The Flood","Age of Patriarchs"],[-1950,-1650,10,"The Patriarchs","Age of Patriarchs"],[-1650,-1450,25,"Israel in Egypt","Age of Israel"],[-1450,-1100,25,"The Judges","Age of Israel"],[-1100,-930,5,"United Kingdom","Age of Israel"],[-930,-620,5,"Divided Kingdom","Age of Israel"],[-620,-100,10,"The Exile","Age of Israel"],[-100,35,1,"Life of Christ","Age of Christ"],[35,350,5,"Early Church","Age of Christ"],[350,1520,25,"Middle Ages","Age of Christ"],[1520,1840,5,"Reformation","Age of Christ"],[1840,3100,25,"Revelation Prophecies","Age of Christ"]];
 
 		var period_percentages = [21.31, 6.34, 5.05, 7.45, 5.16, 2.93, 5.28, 2.93, 7.16, 5.52, 19.25, 5.63, 5.99];
 		var currentPeriod = 1;
 		var routerFlag = true;
 		var detailCloseFlag = false;
 		var currentUser = 0;
+
+// Calc Data Events
+		var json_data = <?php require ('php/events.php'); ?>;
+		console.log(json_data);
+		var event_consol_array = [];
+
+
+
+	for (var i = 0; i < json_data.length; i++) {
+// Calcular Row
+		row_array = [];
+		row_calc = 1;
+		// Mirar si en el periodo ya esta ese Row
+		// Tener un acumulador de Rows para que mire si el nuevo Row Se Interpone en ese Row
+		// Opcion de Poner el Row en la base de datos y compara si esta aca
+	if (parseInt(json_data[i].enddate) >= period_offsets[(parseInt(json_data[i].period)-1)][2]) {
+		console.log("Va en este Periodo: " + parseInt(json_data[i].enddate)) ;
+	}
+
+
+	// left_val = 271;
+	// witdth_val =0;
+	console.log(period_offsets[(parseInt(json_data[i].period)-1)][2]);
+		var left_val = (((parseInt(json_data[i].startdate) - period_offsets[(parseInt(json_data[i].period)-1)][2])) * period_offsets[(parseInt(json_data[i].period)-1)][3])+period_offsets[(parseInt(json_data[i].period)-1)][0];
+		var width_val = ((parseInt(json_data[i].enddate) - parseInt(json_data[i].startdate))* period_offsets[(parseInt(json_data[i].period)-1)][3])+period_offsets[(parseInt(json_data[i].period)-1)][0];
+
+
+
+		labelsize = "";
+		if (json_data[i].labelsize === 'major') {
+			labelsize = '<div class= "info full">';
+		}
+
+		event_consol_array += '"'+'<div class="event hover '+json_data[i].labelsize+' row-'+json_data[i].row+' period-'+json_data[i].period+' " style= "left: '+left_val+'px; width: '+width_val+'px;" data-id= "'+json_data[i].id+'" data-period= "'+json_data[i].period+'" data-hover= "'+json_data[i].id+'" data-slug= "'+json_data[i].slug+'" data-start= "'+ json_data[i].startdate +'" data-end= "'+json_data[i].enddate+'">'+
+		labelsize +
+					'<h3>'+json_data[i].title+'</h3>'+
+					'<h4>3954&ndash;3024 <span>AC</span> <small>(930)</small></h4></div>'+
+					'<div class="image" style='+'"'+'background-image:url('+json_data[i].images+');'+'"'+'></div>'+
+		 '</div>'+'"';
+
+	}
+	var event_consol = {1:[event_consol_array]};
+	var event_consol2 = {2:[event_consol_array]}
+
+
+
+	var events = $.extend(true ,event_consol, event_consol2);
+	console.log($.extend(true ,event_consol, event_consol2));
+
+
 	</script>
 
 
