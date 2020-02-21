@@ -8,7 +8,8 @@
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
 	<link rel="stylesheet" type="text/css" href="css/typography.css" />
 	<link rel="stylesheet" type="text/css" href="css/timeline.css" />
-	<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.1/css/all.css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -987,8 +988,19 @@
 		console.log(json_data);
 		var event_consol_array = [];
 
-	
+
+
 	for (var i = 0; i < json_data.length; i++) {
+// Calcular Row
+		row_array = [];
+		row_calc = 1;
+		// Mirar si en el periodo ya esta ese Row
+		// Tener un acumulador de Rows para que mire si el nuevo Row Se Interpone en ese Row
+		// Opcion de Poner el Row en la base de datos y compara si esta aca
+	if (parseInt(json_data[i].enddate) >= period_offsets[(parseInt(json_data[i].period)-1)][2]) {
+		console.log("Va en este Periodo: " + parseInt(json_data[i].enddate)) ;
+	}
+
 
 	// left_val = 271;
 	// witdth_val =0;
