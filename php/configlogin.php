@@ -1,8 +1,8 @@
 <?php session_start();
+
 require_once('database.php');
 // Ajax Login form
 // $_SESSION['username'] = $username;
-
 
 $error  = array();
    $res    = array();
@@ -13,7 +13,7 @@ $error  = array();
             $error[] = "Email field is required";
         }
 
-        if(empty($_POST['inputPassword']))
+        if(empty($_POST['Password']))
         {
             $error[] = "Password field is required";
         }
@@ -29,11 +29,11 @@ $error  = array();
             exit;
         }
 
-        $statement = $db->prepare("SELECT * from users WHERE inputEmail = :email" );
+        $statement = $db->prepare("SELECT * from users WHERE email = :email" );
         $statement->execute(array(':email' => $_POST['email']));
         $row = $statement->fetchAll(PDO::FETCH_ASSOC);
         if(count($row)>0) {
-           if(!password_verify($_POST['inputPassword'],$row[0]['inputPassword'])) {
+           if(!password_verify($_POST['Password'],$row[0]['Password'])) {
                 $error[] = "Password is not valid";
                 $resp['msg']  = $error;
                 $resp['status']   = false;
@@ -54,3 +54,7 @@ $error  = array();
           echo json_encode($resp);
           exit;
      }
+
+
+
+?>

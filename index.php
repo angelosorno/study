@@ -1,3 +1,9 @@
+<?php session_start();
+if(empty($_SESSION['id'])){
+   header('location: login.php');
+} else {
+   echo '<a href="logout.php">logout</a>';
+} ?>
 <!DOCTYPE html>
 <html>
 <head>
