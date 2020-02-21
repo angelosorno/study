@@ -1,3 +1,8 @@
+<?php session_start();
+if(empty($_SESSION['id'])){
+   header('location: login.php');
+} ?>
+
 <!DOCTYPE html>
 <html>
 <head>
