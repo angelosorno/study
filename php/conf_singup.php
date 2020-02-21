@@ -1,21 +1,20 @@
 <?php session_start();
 require_once('database.php');
 $errors = array();
-$username = "";
-$inputEmail = "";
+ $username = "";
 
 
        // If User Click on Sign up Button
        if (isset($_POST['singup-btn'])){
-         $username = $_POST['username'];
+         // $username = $_POST['username'];
          $email = $_POST['email'];
          $password = $_POST['Password'];
          $passwordConf= $_POST['PasswordConf'];
 
          // Validation
-         if (empty($username)){
-           $errors['username'] = " Ingresar Usuario";
-         }
+         // if (empty($username)){
+         //   $errors['username'] = " Ingresar Usuario";
+         // }
 
          if (empty($email)){
            $errors['email'] = " Ingresar Email";
@@ -28,17 +27,17 @@ $inputEmail = "";
            $errors['Password'] = " Contrasena no Coincide";
          }
 
-         // $emailQuery = "SELECT * FROM users WHERE email=? LIMIT 1";
-         // $stmt = $conn->prepare($emailQuery);
-         // $stmt->bind_param('s', $email);
-         // $stmt->execute();
-         // $result = $stmt->get_result();
-         // $userCount = $result->num_rows;
-         // $stmt->close();
-         //
-         // if ($userCount > 0){
-         //   $errors['email'] = " Email ya esta registrado";
-         // }
+         $emailQuery = "SELECT * FROM users WHERE email=? LIMIT 1";
+         $stmt = $conn->prepare($emailQuery);
+         $stmt->bind_param('s', $email);
+         $stmt->execute();
+         $result = $stmt->get_result();
+         $userCount = $result->num_rows;
+         $stmt->close();
+
+         if ($userCount > 0){
+           $errors['email'] = " Email ya esta registrado";
+         }
 
          if (count($errors) === 0){
            $password = password_hash($password, PASSWORD_DEFAULT);
@@ -60,7 +59,7 @@ $inputEmail = "";
              // Message
              $_SESSION['Message'] = "You are Logged In";
              $_SESSION['alert-class'] = "alert-success";
-             header('location: /');
+             header('location: /index.php');
              exit();
 
            }else {

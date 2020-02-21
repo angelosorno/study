@@ -131,7 +131,7 @@ if(empty($_SESSION['id'])){
 				</form>
 
 				<p> <strong> Crear una cuenta </strong> </p>
-				<p> Cuando crea una cuenta en biblehistory.com, podrá etiquetar a su persona favorita y entradas de eventos e ir directamente a ellas cuando lo desee desde donde quiera. Esta es una gran herramienta para estudiantes de la Biblia y para estudios bíblicos con amigos y familiares. </p>
+				<p> Cuando crea una cuenta, podrá etiquetar a su persona favorita y entradas de eventos e ir directamente a ellas cuando lo desee desde donde quiera. Esta es una gran herramienta para estudiantes de la Biblia y para estudios bíblicos con amigos y familiares. </p>
 				<p> ¿Cómo? Simplemente haga clic en el botón "Agregar a favoritos", así de simple. Luego, desde la página de inicio, haga clic en la bandera en el menú principal para ver sus favoritos. </p>
 				<p> ¡Regístrate hoy! Ah, y prometemos nunca dar o vender su nombre o correo electrónico a otros. </p>
 				<p> <a href="/accounts/create.php" target="_blank"> Crear cuenta ahora </a> </p>

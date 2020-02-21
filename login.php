@@ -71,19 +71,20 @@ if(!isset($_SESSION['access_token']))
   <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/style_2.css">
   <meta name="google-signin-client_id" content="629122505152-bq9geckrn7ppkcetq4cmuor8iicg2d2g.apps.googleusercontent.com">
 
  </head>
  <body>
    <!-- My Form -->
-   <div class="container">
+   <div class="container pt-3">
 
      <form action="login.php" method="post" class="form-signin" id="login-form" name="login-form">
 
    <div class="text-center mb-4">
-     <img alt="image" src="image.png" class="rounded mx-auto d-block" style="height: 100px;">
-   <h3 class="mb-4"  style=" color: #a800ff;" >App Historia</h3>
+     <img alt="image" src="css/img/logo.png" class="rounded mx-auto d-block" style="height: 100px;">
+   <h3 class="mb-4 text-primary" >App Historia</h3>
    <h1 class="h3 mb-3 font-weight-normal">Ingresar</h1>
    </div>
 

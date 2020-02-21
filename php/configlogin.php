@@ -42,7 +42,7 @@ $error  = array();
            }
           session_start();
           $_SESSION['id'] = $row[0]['id'];
-          $_SESSION['username']= $username;
+          // $_SESSION['username']= $username;
           $resp['redirect']    = "index.php";
           $resp['status']      = true;
           echo json_encode($resp);
