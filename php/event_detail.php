@@ -2,7 +2,7 @@
 
 $slug = $_GET['slug'];
 
-$result_global = mysqli_query($conn, "SELECT * FROM personajes_original_test WHERE slug = '".$slug."'");
+$result_global = mysqli_query($conn, "SELECT * FROM $table_personajes WHERE slug = '".$slug."'");
 $data_global = mysqli_fetch_assoc($result_global);
 // $data_global = array();
 // while ($row_global = mysqli_fetch_assoc($result_global)){
