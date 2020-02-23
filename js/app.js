@@ -585,9 +585,9 @@
 		if(query){
 			$.getJSON('php/search.php', {search:query}, function(d){
 				var count;
-				if( d.count == 0 ) count = 'No Results';
-				if( d.count == 1 ) count = '1 Result';
-				if( d.count > 1 ) count = d.count + ' Results';
+				if( d.count == 0 ) count = 'No hay resultados';
+				if( d.count == 1 ) count = '1 Resultado';
+				if( d.count > 1 ) count = d.count + ' Resultados';
 				$('div.dropdown.search h4').html(count); // Display result count
 				$('div.dropdown.search ul').html(''); // Clear previous results
 				$.each(d.events, function(i,v){
