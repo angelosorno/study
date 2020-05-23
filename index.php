@@ -1,10 +1,7 @@
-<?php  ?>
-
 <!DOCTYPE html>
 <html>
 <head>
 	<title>Linea del Tiempo • Historia Bíblica</title>
-	<?php   require  ('url_base.php'); ?>
 	<meta charset="utf-8">
 	<meta name="description" content="">
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
