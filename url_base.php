@@ -1,1 +1,1 @@
-<base href="https://app.idmji.org/site/timeline">
+<base href="https://app.idmji.org/site/timeline/">
