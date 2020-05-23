@@ -1,6 +1,5 @@
-	<?php  ?>
+<?php  ?>
 <!DOCTYPE html>
-
 <html>
 <head>
 <title>Linea del Tiempo • Historia Bíblica</title>

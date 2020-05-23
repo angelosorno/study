@@ -8,7 +8,12 @@ php/const.php
 index.php
 
 # Files Binary
-
+*.jpg
+*.png
+*.gif
+*.mov
+*.mp4
+*.jpeg
 
 # Hidden Files
 .ftpconfig
