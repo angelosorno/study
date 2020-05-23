@@ -750,7 +750,7 @@
 	<!-- ****************************************** -->
 	<!-- Video Detail 											-->
 	<!-- ****************************************** -->
-	<div class="video-modal">
+	<!-- <div class="video-modal">
 		<div class="video-wrap">
 			<span class="close"></span>
 			<div class="video-player flowplayer" data-key="$495596516396314">
@@ -759,7 +759,7 @@
 			<h3></h3>
 			<p></p>
 		</div>
-	</div>
+	</div> -->
 
 	<!-- ****************************************** -->
 	<!-- Timeline 												-->
