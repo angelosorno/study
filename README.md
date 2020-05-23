@@ -2,17 +2,15 @@
 
 First atempt to Bible Timeline 
 
-
-Deploy
+## Deploy
 
 DB
 
-Setup DB Conection on
+## Setup DB Conection on
 
 $ php/const.php
 
-Setup Home
+## Setup Home
 Config the URL location on
-
 url_base.php on root
-Lika that <base href="http://URL/">
+Like that <base href="/">

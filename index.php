@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta name="robots" content="noindex, nofollow">
 <title>Linea del Tiempo • Historia Bíblica</title>
 	<?php	require  ('url_base.php'); ?>
 	<meta charset="utf-8">
