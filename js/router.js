@@ -9,7 +9,7 @@
 	var Router = Backbone.Router.extend({
 		routes: {
 			'' : 'landing',
-			'home' : 'home',
+			'test-home' : 'home',
 			'period/:period': 'period',
 			'period/:period/:offset': 'offset',
 			'event/:slug': 'event'

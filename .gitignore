@@ -5,7 +5,7 @@ site
 # Specific Files
 url_base.php
 php/const.php
-index.php
+index-fw.php
 
 # Files Binary
 *.jpg
