@@ -187,7 +187,7 @@ input,select{vertical-align:middle}
 	}
 	div.menu.closed div.background { width: 304px; }
 	div.menu h2 {
-		/* background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/logo.png') no-repeat center center; */
+		/* background: url('/css/img/logo.png') no-repeat center center; */
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		     -o-background-size: cover;
@@ -254,18 +254,18 @@ input,select{vertical-align:middle}
 	div.menu ul.menu-items li.active {
 		background-color: #007edf;
 	}
-	div.menu ul.menu-items li.home { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/icon_home.png'); }
-	div.menu ul.menu-items li.faq { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/icon_faq.png'); }
-	div.menu ul.menu-items li.account { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/icon_user.png'); }
-	div.menu ul.menu-items li.favorites { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/icon_favorites.png'); }
-	div.menu ul.menu-items li.tools { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/icon_settings.png'); }
+	div.menu ul.menu-items li.home { background-image: url('/css/img/icon_home.png'); }
+	div.menu ul.menu-items li.faq { background-image: url('/css/img/icon_faq.png'); }
+	div.menu ul.menu-items li.account { background-image: url('/css/img/icon_user.png'); }
+	div.menu ul.menu-items li.favorites { background-image: url('/css/img/icon_favorites.png'); }
+	div.menu ul.menu-items li.tools { background-image: url('/css/img/icon_settings.png'); }
 
 
 	input::-ms-clear{ display:none; }
 
 	div.menu input.search {
 		background-color: #000;
-		background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/search.png');
+		background-image: url('/css/img/search.png');
 		background-position: center center;
 		-webkit-background-size: cover;
 		   -moz-background-size: cover;
@@ -464,9 +464,9 @@ input,select{vertical-align:middle}
 		-webkit-background-size: cover;
 		background-size: cover;
 	}
-	div.social ul li.google a { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/social_icon_google.png'); }
-	div.social ul li.twitter a { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/social_icon_twitter.png'); }
-	div.social ul li.facebook a { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/social_icon_facebook.png'); }
+	div.social ul li.google a { background-image: url('/css/img/social_icon_google.png'); }
+	div.social ul li.twitter a { background-image: url('/css/img/social_icon_twitter.png'); }
+	div.social ul li.facebook a { background-image: url('/css/img/social_icon_facebook.png'); }
 
 
 
@@ -475,7 +475,7 @@ input,select{vertical-align:middle}
 /*	Modal Boxes (FAQ, Sign in, etc...)
 ---------------------------------------------------------------------- */
 	div.modal {
-		/* background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/detail-bg.png'); */
+		/* background: url('/css/img/detail-bg.png'); */
 		height: 100%; width: 100%;
 		position: absolute;
 		z-index: 900;
@@ -526,7 +526,7 @@ input,select{vertical-align:middle}
 			padding-right: 30px;
 		}
 		div.modal div.heading a.close {
-			background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/detail_icons.png');
+			background-image: url('/css/img/detail_icons.png');
 			background-color: #007edf;
 			position: absolute;
 			right: 30px;
@@ -624,7 +624,7 @@ input,select{vertical-align:middle}
 
 
 	div.landing-paper {
-		/* background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/paper-bg.jpg'); */
+		/* background: url('/css/img/paper-bg.jpg'); */
 		background-color: #ccc;
 		width: 10000px;
 		height: 100%;
@@ -639,7 +639,7 @@ input,select{vertical-align:middle}
 		height: 100%;
 		width: 100%;
 		position: absolute;
-		background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/vert-lines.png');
+		background: url('/css/img/vert-lines.png');
 	}
 
 
@@ -667,7 +667,7 @@ input,select{vertical-align:middle}
 
 		div.landing-container div.arrow {
 			position: absolute;
-			background: #000 url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/edge-arrow.png') no-repeat center center;
+			background: #000 url('/css/img/edge-arrow.png') no-repeat center center;
 			-webkit-background-size: 12px 16px;
 			   -moz-background-size: 12px 16px;
 			     -o-background-size: 12px 16px;
@@ -709,7 +709,7 @@ input,select{vertical-align:middle}
 
 	div.landing-date-bar {
 		height: 67px;
-		background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/landing_timeline.png');
+		background: url('/css/img/landing_timeline.png');
 		width: 10000px;
 		position: absolute;
 		top: 50%; margin-top: -38px;
@@ -786,7 +786,7 @@ input,select{vertical-align:middle}
 			margin: -22px auto 0px auto;
 			text-indent: -9999px;
 			font-size: 0px;
-			background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/landing_era_logos.png');
+			background-image: url('/css/img/landing_era_logos.png');
 			-webkit-background-size: cover;
 			   -moz-background-size: cover;
 			     -o-background-size: cover;
@@ -848,19 +848,19 @@ input,select{vertical-align:middle}
 			border-top-left-radius: 3px;
 			overflow: hidden;
 		}
-		div.landing-period-1 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_1.jpg'); }
-		div.landing-period-2 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_2.jpg'); }
-		div.landing-period-3 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_3.jpg'); }
-		div.landing-period-4 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_4.jpg'); }
-		div.landing-period-5 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_5.jpg'); }
-		div.landing-period-6 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_6.jpg'); }
-		div.landing-period-7 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_7.jpg'); }
-		div.landing-period-8 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_8.jpg'); }
-		div.landing-period-9 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_9.jpg'); }
-		div.landing-period-10 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_10.jpg'); }
-		div.landing-period-11 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_11.jpg'); }
-		div.landing-period-12 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_12.jpg'); }
-		div.landing-period-13 div.image { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/period_13.jpg'); }
+		div.landing-period-1 div.image { background-image: url('/css/img/period_1.jpg'); }
+		div.landing-period-2 div.image { background-image: url('/css/img/period_2.jpg'); }
+		div.landing-period-3 div.image { background-image: url('/css/img/period_3.jpg'); }
+		div.landing-period-4 div.image { background-image: url('/css/img/period_4.jpg'); }
+		div.landing-period-5 div.image { background-image: url('/css/img/period_5.jpg'); }
+		div.landing-period-6 div.image { background-image: url('/css/img/period_6.jpg'); }
+		div.landing-period-7 div.image { background-image: url('/css/img/period_7.jpg'); }
+		div.landing-period-8 div.image { background-image: url('/css/img/period_8.jpg'); }
+		div.landing-period-9 div.image { background-image: url('/css/img/period_9.jpg'); }
+		div.landing-period-10 div.image { background-image: url('/css/img/period_10.jpg'); }
+		div.landing-period-11 div.image { background-image: url('/css/img/period_11.jpg'); }
+		div.landing-period-12 div.image { background-image: url('/css/img/period_12.jpg'); }
+		div.landing-period-13 div.image { background-image: url('/css/img/period_13.jpg'); }
 
 		div.landing-period div.info {
 			background: rgba(253,250,241,0.63);
@@ -1134,7 +1134,7 @@ input,select{vertical-align:middle}
 				font-weight: 200;
 				color: #f9efda;
 
-				background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/landing_footer_brown.png');
+				background: url('/css/img/landing_footer_brown.png');
 				width: 170px;
 				height: 50px;
 				padding-top: 14px;
@@ -1196,7 +1196,7 @@ input,select{vertical-align:middle}
 				div.landing-footer.active div.fact span.opened { display: inline; }
 				div.landing-footer.active div.fact span.closed { display: none; }
 			div.landing-footer div.toggle {
-				background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/landing_footer_black.png');
+				background: url('/css/img/landing_footer_black.png');
 				width: 130px;
 				height: 20px;
 				position: absolute;
@@ -1248,7 +1248,7 @@ input,select{vertical-align:middle}
 
 
 			div.landing-footer div.info div.image {
-				background: #333 url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/landing_footer_ark.jpg') no-repeat center center;
+				background: #333 url('/css/img/landing_footer_ark.jpg') no-repeat center center;
 				-webkit-background-size: cover;
 				   -moz-background-size: cover;
 				     -o-background-size: cover;
@@ -1261,7 +1261,7 @@ input,select{vertical-align:middle}
 			div.landing-footer div.info div.af_logo {
 				width: 133px;
 				height: 59px;
-				/* background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/landing_af_banner.png') no-repeat center center; */
+				/* background: url('/css/img/landing_af_banner.png') no-repeat center center; */
 				-webkit-background-size: cover;
 				   -moz-background-size: cover;
 				     -o-background-size: cover;
@@ -1442,7 +1442,7 @@ input,select{vertical-align:middle}
 	/* Arrow Navigation */
 	div.timeline-arrow {
 		position: absolute;
-		background: #000 url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/edge-arrow.png') no-repeat center center;
+		background: #000 url('/css/img/edge-arrow.png') no-repeat center center;
 		-webkit-background-size: 12px 16px;
 		   -moz-background-size: 12px 16px;
 		     -o-background-size: 12px 16px;
@@ -1557,7 +1557,7 @@ input,select{vertical-align:middle}
 		width: 2000px;
 		opacity: 0.8;
 		position: absolute;
-		/* background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/paper-bg.jpg'); */
+		/* background: url('/css/img/paper-bg.jpg'); */
 		-webkit-background-size: 1400px 100%;
 		   -moz-background-size: 1400px 100%;
 		     -o-background-size: 1400px 100%;
@@ -1570,7 +1570,7 @@ input,select{vertical-align:middle}
 		height: 100%;
 		width: 100%;
 		position: absolute;
-		background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/vert-lines.png');
+		background: url('/css/img/vert-lines.png');
 		opacity: 0.5;
 	}
 
@@ -1590,7 +1590,7 @@ input,select{vertical-align:middle}
 		z-index: 400;
 
 		/* top: 50%; margin-top: -70px; */
-		background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/timeline_2.png');
+		background-image: url('/css/img/timeline_2.png');
 		pointer-events: none;
 		-webkit-transition: opacity 300ms ease;
 		   -moz-transition: opacity 300ms ease;
@@ -1622,7 +1622,7 @@ input,select{vertical-align:middle}
 		}
 
 		div.date-bar-color {
-			background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/timeline_color.png');
+			background-image: url('/css/img/timeline_color.png');
 			z-index: 300;
 			z-index: 410;
 		}
@@ -1832,7 +1832,7 @@ input,select{vertical-align:middle}
 		top: 0px; left: 0px;
 		height: 100%; width: 100%;
 		z-index: 600;
-		/* background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/detail-bg.png'); */
+		/* background: url('/css/img/detail-bg.png'); */
 		background-color: rgba(22, 23, 27, 0.95);
 		cursor: pointer;
 	}
@@ -1868,7 +1868,7 @@ input,select{vertical-align:middle}
 			position: relative;
 		}
 		div.detail div.media table tr.image td div.loading {
-			background: #111 url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/loader.gif') center center no-repeat;
+			background: #111 url('/css/img/loader.gif') center center no-repeat;
 			height: 100%;
 			width: 100%;
 			position: absolute;
@@ -1911,7 +1911,7 @@ input,select{vertical-align:middle}
 		div.detail div.media ul.pagination li {
 			display: inline-block;
 			height: 13px; width: 13px;
-			background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/media_pagination.png');
+			background: url('/css/img/media_pagination.png');
 			margin-left: 2px;
 			text-indent: -9999px;
 			font-size: 0px;
@@ -1924,7 +1924,7 @@ input,select{vertical-align:middle}
 		div.detail div.media a.detail-back {
 			display: block;
 			text-indent: -9999px; font-size: 0px;
-			background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/detail_back.png');
+			background: url('/css/img/detail_back.png');
 			height: 127px; width: 127px;
 			margin: 20px auto;
 			opacity: 0.8;
@@ -1975,7 +1975,7 @@ input,select{vertical-align:middle}
 		div.detail div.content h3 span { font-size: 16px; }
 		div.detail div.content a.close,
 		div.detail div.content a.related {
-			background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/detail_icons.png');
+			background-image: url('/css/img/detail_icons.png');
 			position: absolute;
 			right: 20px;
 			display: block;
@@ -2084,7 +2084,7 @@ input,select{vertical-align:middle}
 		div.video-wrap span.close {
 			display: block;
 			height: 22px; width: 22px;
-			background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/video_close.png');
+			background: url('/css/img/video_close.png');
 			position: absolute;
 			top: -30px; right: 0px;
 			cursor: pointer;
@@ -2138,7 +2138,7 @@ display: block;
 */
 		display: block;
 		height: 150px; width: 150px;
-		background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/deeper.png');
+		background: url('/css/img/deeper.png');
 		text-indent: -9999px; font-size: 0px;
 		position: absolute; margin: auto;
 		bottom: 170px; left: 0px; right: 0px;
@@ -2184,19 +2184,19 @@ display: block;
 		 opacity: 0.95;
 	}
 
-	/* div.timeline div.sidebars div.period-1 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_01.jpg'); }
-	div.timeline div.sidebars div.period-2 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_02.jpg'); }
-	div.timeline div.sidebars div.period-3 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_03.jpg'); }
-	div.timeline div.sidebars div.period-4 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_04.jpg'); }
-	div.timeline div.sidebars div.period-5 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_05.jpg'); }
-	div.timeline div.sidebars div.period-6 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_06.jpg'); }
-	div.timeline div.sidebars div.period-7 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_07.jpg'); }
-	div.timeline div.sidebars div.period-8 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_08.jpg'); }
-	div.timeline div.sidebars div.period-9 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_09.jpg'); }
-	div.timeline div.sidebars div.period-10 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_10.jpg'); }
-	div.timeline div.sidebars div.period-11 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_11.jpg'); }
-	div.timeline div.sidebars div.period-12 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_12.jpg'); }
-	div.timeline div.sidebars div.period-13 { background-image: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/sidebars_13.jpg'); } */
+	/* div.timeline div.sidebars div.period-1 { background-image: url('/css/img/sidebars_01.jpg'); }
+	div.timeline div.sidebars div.period-2 { background-image: url('/css/img/sidebars_02.jpg'); }
+	div.timeline div.sidebars div.period-3 { background-image: url('/css/img/sidebars_03.jpg'); }
+	div.timeline div.sidebars div.period-4 { background-image: url('/css/img/sidebars_04.jpg'); }
+	div.timeline div.sidebars div.period-5 { background-image: url('/css/img/sidebars_05.jpg'); }
+	div.timeline div.sidebars div.period-6 { background-image: url('/css/img/sidebars_06.jpg'); }
+	div.timeline div.sidebars div.period-7 { background-image: url('/css/img/sidebars_07.jpg'); }
+	div.timeline div.sidebars div.period-8 { background-image: url('/css/img/sidebars_08.jpg'); }
+	div.timeline div.sidebars div.period-9 { background-image: url('/css/img/sidebars_09.jpg'); }
+	div.timeline div.sidebars div.period-10 { background-image: url('/css/img/sidebars_10.jpg'); }
+	div.timeline div.sidebars div.period-11 { background-image: url('/css/img/sidebars_11.jpg'); }
+	div.timeline div.sidebars div.period-12 { background-image: url('/css/img/sidebars_12.jpg'); }
+	div.timeline div.sidebars div.period-13 { background-image: url('/css/img/sidebars_13.jpg'); } */
 
 
 	div.sidebars div {  color: #fff; }
@@ -2313,7 +2313,7 @@ display: block;
 			margin-left: -11px;
 			cursor: pointer;
 			z-index: 200;
-			background: url('http://198.72.112.185/~images/idmji/timeline-appstudy/home/tl-marker-glass.png') no-repeat center center;
+			background: url('/css/img/tl-marker-glass.png') no-repeat center center;
 			-webkit-background-size: cover;
 			   -moz-background-size: cover;
 			     -o-background-size: cover;
