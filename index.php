@@ -1,9 +1,10 @@
-<?php  ?>
+	<?php  ?>
 <!DOCTYPE html>
+
 <html>
 <head>
-	<title>Linea del Tiempo • Historia Bíblica</title>
-	<?php   require  ('url_base.php'); ?>
+<title>Linea del Tiempo • Historia Bíblica</title>
+	<?php	require  ('url_base.php'); ?>
 	<meta charset="utf-8">
 	<meta name="description" content="">
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
@@ -14,16 +15,10 @@
 </head>
 <body>
 
-
-
 	<!-- ****************************************** -->
 	<!-- Mask -->
 	<!-- ****************************************** -->
 	<div class="mask"><div class="loading"></div></div>
-
-
-
-
 
 	<!-- ****************************************** -->
 	<!-- Menu -->
@@ -96,13 +91,10 @@
 		</div>
 	</div>
 
-
 	<!-- ****************************************** -->
 	<!-- TOOLTIP			 									-->
 	<!-- ****************************************** -->
 	<div class="tooltip">Has iniciado sesión</div>
-
-
 
 	<!-- ****************************************** -->
 	<!-- ACCOUNT SETTINGS	 									-->
@@ -133,9 +125,6 @@
 			</div>
 		</div>
 	</div>
-
-
-
 
 	<!-- ****************************************** -->
 	<!-- FAQ	 												-->
@@ -434,14 +423,6 @@
 	</div>
 
 
-
-
-
-
-
-
-
-
 	<!-- ****************************************** -->
 	<!-- Social 												-->
 	<!-- ****************************************** -->
@@ -457,13 +438,6 @@
 '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">Facebook</a></li>
 		</ul>
 	</div> -->
-
-
-
-
-
-
-
 
 
 
@@ -686,10 +660,6 @@
 	</div>
 
 
-
-
-
-
 	<!-- ****************************************** -->
 	<!-- Event Detail 								-->
 	<!-- ****************************************** -->
@@ -791,12 +761,6 @@
 			<p></p>
 		</div>
 	</div>
-
-
-
-
-
-
 
 	<!-- ****************************************** -->
 	<!-- Timeline 												-->

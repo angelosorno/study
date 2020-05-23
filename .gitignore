@@ -3,7 +3,6 @@ images
 site
 
 # Specific Files
-url_base.php
 php/const.php
 index-fw.php
 
