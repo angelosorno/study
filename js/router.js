@@ -10,7 +10,7 @@
 		routes: {
 			'' : 'landing',
 			'home' : 'home',
-			'study/period/:period': 'period',
+			'period/:period': 'period',
 			'period/:period/:offset': 'offset',
 			'event/:slug': 'event'
 		},
