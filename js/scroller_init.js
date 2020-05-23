@@ -155,7 +155,7 @@
 			var seoDescription = $('.landing-period-'+period+' h4').html();
 			switch(period){
 				case 1:
-					router.navigate('period/first-generation');
+					router.navigate('../period/first-generation');
 					$('.period-bar h5').html('First Generation');
 					$('.link.period-name').attr('data-period', period).html('First Generation');
 					$('.link.age-name').html('Age of Patriarchs');
