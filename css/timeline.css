@@ -1832,7 +1832,7 @@ input,select{vertical-align:middle}
 		top: 0px; left: 0px;
 		height: 100%; width: 100%;
 		z-index: 600;
-		background: url('css/img/detail-bg.png'); */
+		/* background: url('css/img/detail-bg.png');  */
 		background-color: rgba(22, 23, 27, 0.95);
 		cursor: pointer;
 	}
