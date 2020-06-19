@@ -1,5 +1,5 @@
 # Folders
-images
+#images
 site
 
 # Specific Files
@@ -9,12 +9,12 @@ index-fw.php
 .ftpconfig
 
 # Files Binary
-*.jpg
-*.png
-*.gif
-*.mov
-*.mp4
-*.jpeg
+#*.jpg
+#*.png
+#*.gif
+#*.mov
+#*.mp4
+#*.jpeg
 
 # Hidden Files
 .ftpconfig
