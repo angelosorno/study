@@ -6,6 +6,7 @@ site
 url_base.php
 php/const.php
 index-fw.php
+.ftpconfig
 
 # Files Binary
 *.jpg
