@@ -938,7 +938,7 @@
 	<!-- Period Offsets -->
 	<script>
 
-		var events2 = <?php //require ('php/data/Data_EN.json'); ?>"";
+		// var events2 = <?php //require ('php/data/Data_EN.json'); ?>;
 		var period_offsets = [[0,1.9704433497537,-4100,1.1],[1320,6.23973727422,-2900,4.4],[5500,4.9261083743842,-1950,11],[8800,1.3136288998358,-1650,4.4],[9680,2.2988505747126,-1450,4.4],[11220,5.5829228243021,-1100,22],[14960,10.180623973727,-930,22],[21780,8.5385878489327,-620,11],[27500,22.167487684729,-100,110],[42240,10.344827586207,35,22],[49170,7.7175697865353,350,4.4],[54340,10.509031198686,1520,22],[61380,8.3743842364532,1840,4.4]];
 		var periods = [[-4100,-2900,100,"First Generation","Age of Patriarchs"],[-2900,-1950,25,"Noah & The Flood","Age of Patriarchs"],[-1950,-1650,10,"The Patriarchs","Age of Patriarchs"],[-1650,-1450,25,"Israel in Egypt","Age of Israel"],[-1450,-1100,25,"The Judges","Age of Israel"],[-1100,-930,5,"United Kingdom","Age of Israel"],[-930,-620,5,"Divided Kingdom","Age of Israel"],[-620,-100,10,"The Exile","Age of Israel"],[-100,35,1,"Life of Christ","Age of Christ"],[35,350,5,"Early Church","Age of Christ"],[350,1520,25,"Middle Ages","Age of Christ"],[1520,1840,5,"Reformation","Age of Christ"],[1840,3100,25,"Revelation Prophecies","Age of Christ"]];
 
