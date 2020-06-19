@@ -25,7 +25,7 @@
 	<!-- ****************************************** -->
 	<div class="menu closed">
 		<div class="background"></div>
-		<h2>Linea del Tiempo</h2>
+		<h2>Linea del Tiempo de Historia Biblica</h2>
 		<div class="menu-items-wrap">
 			<ul class="menu-items">
 				<li class="home"></li>
