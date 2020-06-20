@@ -637,7 +637,7 @@
 				<h3>Fase Beta</h3>
 				<p>Todos los derechos reservados</p>
 			</div>
-			-->
+			
 			<div class="bar">
 				<div class="fact">¿Sabias que? <span class="closed">^</span><span class="opened">v</span></div>
 				<div class="toggle"><span class="plus">+</span><span class="minus">&ndash;</span></div>
@@ -645,7 +645,7 @@
 			</div>
 			<div class="info">
 				<div class="image"></div>
-				<div class="af_logo"></div>
+				<div class="af_logo"></div>-->
 
 				<!-- Amazing Facts -->
 				<p class="amazing-fact">Según Génesis 5: 3, Adán tenía 130 años cuando nació su hijo Seth. Vivió 800 años después de eso y vivió para presenciar el nacimiento de su tatara-tatara-tatara-tatara-tatara-nieto, Lamech, el padre de Noé, el que se salvaría a través del diluvio.</p>
