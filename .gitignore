@@ -1,20 +1,19 @@
 # Folders
-images
+#images
 site
 
 # Specific Files
-url_base.php
+#url_base.php
 php/const.php
 index-fw.php
-.ftpconfig
 
 # Files Binary
-*.jpg
-*.png
-*.gif
-*.mov
-*.mp4
-*.jpeg
+#*.jpg
+#*.png
+#*.gif
+#*.mov
+#*.mp4
+#*.jpeg
 
 # Hidden Files
 .ftpconfig
