@@ -1,1 +1,1 @@
-<base href="/">
+<base href="https://app.idmji.org/site/personajes/">
