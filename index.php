@@ -1,11 +1,11 @@
-<?php  ?>
+<?php  mb_internal_encoding("UTF-8"); ?>
 <!DOCTYPE html>
 <html>
 <head>
 <meta name="robots" content="noindex, nofollow">
 <title>Linea del Tiempo • Historia Bíblica</title>
 	<?php	require  ('url_base.php'); ?>
-	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="description" content="">
 	<link rel="icon" type="image/png" href="css/img/favicon.png" />
 	<link rel="stylesheet" type="text/css" href="css/typography.css" />
