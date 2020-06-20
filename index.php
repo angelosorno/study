@@ -1,4 +1,4 @@
-<?php  mb_internal_encoding("UTF-8"); ?>
+<?php ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -681,7 +681,7 @@
 								<td>
 									<div class="loading"></div>
 									<div class="copyright-mask"></div>
-									<img src="media/images/original/%filename%" alt="%img_alt%" />
+									<img src="https://app.idmji.org/site/personajes/media/images/original/%filename%" alt="%img_alt%" />
 								</td>
 							</tr>
 							<tr class="caption">
