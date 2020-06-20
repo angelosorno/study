@@ -7,7 +7,7 @@
 	<?php	require  ('url_base.php'); ?>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="description" content="">
-	<link rel="icon" type="image/png" href="https://app.idmji.org/site/personajes/css/img/favicon.png" />
+	<link rel="icon" type="image/png" href="/css/img/favicon.png" />
 	<link rel="stylesheet" type="text/css" href="css/typography.css" />
 	<link rel="stylesheet" type="text/css" href="css/timeline.css" />
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.1/css/all.css">
