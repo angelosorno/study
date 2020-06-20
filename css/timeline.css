@@ -1120,7 +1120,7 @@ input,select{vertical-align:middle}
 		/* overflow: hidden; */
 	}
 		div.landing-footer div.welcome {
-			background: #552600;
+			background: #CCCCCC;
 			color: #f9efda;
 			text-align: center;
 			height: 84px;
@@ -1158,7 +1158,7 @@ input,select{vertical-align:middle}
 			height: 36px;
 			width: 100%;
 			background: #000;
-			border-top: 5px solid #552600;
+			border-top: 5px solid #CCCCCC;
 			color: #bbbaba;
 			position: absolute;
 			bottom: 0px;
