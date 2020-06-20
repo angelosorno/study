@@ -156,94 +156,94 @@
 			switch(period){
 				case 1:
 					router.navigate('../period/first-generation');
-					$('.period-bar h5').html('First Generation');
-					$('.link.period-name').attr('data-period', period).html('First Generation');
-					$('.link.age-name').html('Age of Patriarchs');
-					setSEO('First Generation | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('Primera Generación');
+					$('.link.period-name').attr('data-period', period).html('Primera Generación');
+					$('.link.age-name').html('Edad de los Patriarcas');
+					setSEO('Primera Generación | Biblia Historia', seoDescription);
 					break;
 				case 2:
 					router.navigate('period/noah-and-the-flood');
-					$('.period-bar h5').html('Noah & the Flood');
-					$('.link.period-name').attr('data-period', period).html('Noah & the Flood');
-					$('.link.age-name').html('Age of Patriarchs');
-					setSEO('Noah & the Flood | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('Noé y el diluvio');
+					$('.link.period-name').attr('data-period', period).html('Noé y el diluvio');
+					$('.link.age-name').html('Edad de los Patriarcas');
+					setSEO('Noé y el diluvio | Biblia Historia', seoDescription);
 					break;
 				case 3:
 					router.navigate('period/the-patriarchs');
-					$('.period-bar h5').html('The Patriarchs');
-					$('.link.period-name').attr('data-period', period).html('The Patriarchs');
-					$('.link.age-name').html('Age of Patriarchs');
-					setSEO('The Patriarchs | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('Los Patriarcas');
+					$('.link.period-name').attr('data-period', period).html('Los Patriarcas');
+					$('.link.age-name').html('Edad de los Patriarcas');
+					setSEO('Los Patriarcas | Biblia Historia', seoDescription);
 					break;
 				case 4:
 					router.navigate('period/egypt-to-canaan');
-					$('.period-bar h5').html('Egypt to Canaan');
-					$('.link.period-name').attr('data-period', period).html('Egypt to Canaan');
-					$('.link.age-name').html('Age of Israel');
-					setSEO('Egypt to Canaan | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('Egipto a Canaan');
+					$('.link.period-name').attr('data-period', period).html('Egipto a Canaan');
+					$('.link.age-name').html('Tiempos de Israel');
+					setSEO('Egipto a Canaan | Biblia Historia', seoDescription);
 					break;
 				case 5:
 					router.navigate('period/the-judges');
-					$('.period-bar h5').html('The Judges');
-					$('.link.period-name').attr('data-period', period).html('The Judges');
-					$('.link.age-name').html('Age of Israel');
-					setSEO('The Judges | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('Los Jueces');
+					$('.link.period-name').attr('data-period', period).html('Los Jueces');
+					$('.link.age-name').html('Tiempos de Israel');
+					setSEO('Los Jueces | Biblia Historia', seoDescription);
 					break;
 				case 6:
 					router.navigate('period/united-kingdom');
-					$('.period-bar h5').html('United Kingdom');
-					$('.link.period-name').attr('data-period', period).html('United Kingdom');
-					$('.link.age-name').html('Age of Israel');
-					setSEO('United Kingdom | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('Reino Unido');
+					$('.link.period-name').attr('data-period', period).html('Reino Unido');
+					$('.link.age-name').html('Tiempos de Israel');
+					setSEO('Reino Unido | Biblia Historia', seoDescription);
 					break;
 				case 7:
 					router.navigate('period/divided-kingdom');
-					$('.period-bar h5').html('Divided Kingdom');
-					$('.link.period-name').attr('data-period', period).html('Divided Kingdom');
-					$('.link.age-name').html('Age of Israel');
-					setSEO('Divided Kingdom | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('Reino Divido');
+					$('.link.period-name').attr('data-period', period).html('Reino Divido');
+					$('.link.age-name').html('Tiempos de Israel');
+					setSEO('Reino Divido | Biblia Historia', seoDescription);
 					break;
 				case 8:
 					router.navigate('period/the-exile');
-					$('.period-bar h5').html('The Exile');
-					$('.link.period-name').attr('data-period', period).html('The Exile');
-					$('.link.age-name').html('Age of Israel');
-					setSEO('The Exile | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('El Exilio');
+					$('.link.period-name').attr('data-period', period).html('El Exilio');
+					$('.link.age-name').html('Tiempos de Israel');
+					setSEO('El Exilio | Biblia Historia', seoDescription);
 					break;
 				case 9:
 					router.navigate('period/life-of-christ');
-					$('.period-bar h5').html('Life of Christ');
-					$('.link.period-name').attr('data-period', period).html('Life of Christ');
-					$('.link.age-name').html('Age of Christ');
-					setSEO('Life of Christ | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('Tiempos de Jesucristo');
+					$('.link.period-name').attr('data-period', period).html('Tiempos de Jesucristo');
+					$('.link.age-name').html('Tiempos de Jesucristo');
+					setSEO('Tiempos de Jesucristo | Biblia Historia', seoDescription);
 					break;
 				case 10:
 					router.navigate('period/early-church');
-					$('.period-bar h5').html('Early Church');
-					$('.link.period-name').attr('data-period', period).html('Early Church');
-					$('.link.age-name').html('Age of Christ');
-					setSEO('Early Church | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('Inicios de la Iglesia');
+					$('.link.period-name').attr('data-period', period).html('Inicios de la Iglesia');
+					$('.link.age-name').html('Tiempos de Jesucristo');
+					setSEO('Inicios de la Iglesia | Biblia Historia', seoDescription);
 					break;
 				case 11:
 					router.navigate('period/middle-ages');
-					$('.period-bar h5').html('Middle Ages');
-					$('.link.period-name').attr('data-period', period).html('Middle Ages');
-					$('.link.age-name').html('Age of Christ');
-					setSEO('Middle Ages | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('Edad Media');
+					$('.link.period-name').attr('data-period', period).html('Edad Media');
+					$('.link.age-name').html('Tiempos de Jesucristo');
+					setSEO('Edad Media | Biblia Historia', seoDescription);
 					break;
 				case 12:
 					router.navigate('period/reformation');
-					$('.period-bar h5').html('Reformation');
-					$('.link.period-name').attr('data-period', period).html('Reformation');
-					$('.link.age-name').html('Age of Christ');
-					setSEO('Reformation | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('Tiempos de la Reforma');
+					$('.link.period-name').attr('data-period', period).html('Tiempos de la Reforma');
+					$('.link.age-name').html('Tiempos de Jesucristo');
+					setSEO('Tiempos de la Reforma | Biblia Historia', seoDescription);
 					break;
 				case 13:
 					router.navigate('period/revelation-prophecies');
-					$('.period-bar h5').html('Revelation Prophecies');
-					$('.link.period-name').attr('data-period', period).html('Revelation Prophecies');
-					$('.link.age-name').html('Age of Christ');
-					setSEO('Revelation Prophecies | Biblia Historia', seoDescription);
+					$('.period-bar h5').html('El Apocalipsis');
+					$('.link.period-name').attr('data-period', period).html('El Apocalipsis');
+					$('.link.age-name').html('Tiempos de Jesucristo');
+					setSEO('El Apocalipsis | Biblia Historia', seoDescription);
 					break;
 			}
 		}
