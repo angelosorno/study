@@ -290,10 +290,10 @@
 			current_year = period_offsets[period-1][2] + (adjust_left - period_offsets[period-1][0] + 60 ) / period_offsets[period-1][3];
 			$('.current-year').html( Math.abs(Math.round(current_year)) + '<span>DC</span>' );
 		}
-		if( current_year >= 34 && current_year < 2014 ){
+		if( current_year >= 34 && current_year < 2020 ){
 			$('.current-year').html( Math.abs(Math.round(current_year)) + '<span>DC</span>' );
 		}
-		if( current_year >= 2014 ){
+		if( current_year >= 2020 ){
 			$('.current-year').html( 'Futuro' );
 		}
 
